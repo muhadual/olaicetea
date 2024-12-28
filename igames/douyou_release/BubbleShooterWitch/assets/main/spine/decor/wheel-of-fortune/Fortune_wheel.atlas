@@ -1,0 +1,34 @@
+
+Fortune_wheel.png
+size: 2012, 1404
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fortune-wheel-base
+  rotate: false
+  xy: 1404, 795
+  size: 606, 607
+  orig: 640, 640
+  offset: 17, 16
+  index: -1
+fortune-wheel-center
+  rotate: true
+  xy: 1404, 152
+  size: 145, 178
+  orig: 146, 182
+  offset: 0, 0
+  index: -1
+fortune-wheel-halo
+  rotate: false
+  xy: 2, 2
+  size: 1400, 1400
+  orig: 1421, 1420
+  offset: 10, 10
+  index: -1
+fortune-wheel-prizes
+  rotate: false
+  xy: 1404, 299
+  size: 494, 494
+  orig: 494, 495
+  offset: 0, 1
+  index: -1

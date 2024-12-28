@@ -1,0 +1,48 @@
+
+radial.png
+size: 293, 264
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back
+  rotate: false
+  xy: 109, 2
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+center
+  rotate: false
+  xy: 219, 215
+  size: 30, 30
+  orig: 105, 105
+  offset: 38, 37
+  index: -1
+first
+  rotate: false
+  xy: 2, 2
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 109
+  size: 153, 153
+  orig: 155, 155
+  offset: 1, 1
+  index: -1
+halo
+  rotate: false
+  xy: 216, 31
+  size: 75, 75
+  orig: 105, 105
+  offset: 15, 15
+  index: -1
+lightning2
+  rotate: false
+  xy: 157, 108
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

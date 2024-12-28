@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSG7B4LXBH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TSG7B4LXBH');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9717115345264951"
+     crossorigin="anonymous"></script>
+<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <title>IceTeaGame - The best casual game center which you don't need to download any app!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="Online games, mobile games, Html5 games, cartoon games, casual games, kids games, casual games, kids games. family games, dress up games. girls games, adventure games. cute games, simulation games. educational games, cooking games, puzzle games, 3d games, social games, multiplayer games, 2 player games, 2d games, single player games, boy games, action games, Halloween games, puzzle games, free games, android games, ios games">
+    <meta name="description" content="Welcome to miggame.com, where the virtual world comes alive with boundless gaming adventures! We are a passionate and innovative gaming company dedicated to providing gamers of all ages with a diverse range of captivating online and downloadable games. Our commitment to excellence, creativity, and a seamless user experience sets us apart in the gaming industry. With a talented team of developers, designers, and enthusiasts, we strive to create a haven where players can immerse themselves in thrilling gaming experiences that push the boundaries of imagination.">
+    <link rel="icon" type="image/png" href="/gamebox/img/favicon-128.png" sizes="128x128"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/font/iconfont.css"/>
+    <link rel="stylesheet" type="text/css" href="/layui/css/layui.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/swiper/swiper-bundle.min.css"/>
+    <script src="/gamebox/js/jquery.min.js"></script>
+    <script src="/gamebox/swiper/swiper-bundle.min.js"></script>
+    <script src="/layui/layui.all.js"></script>
+    <script src="/gamebox/js/lazyload.js"></script>
+    <script src="/gamebox/js/fastclick.js"></script>
+
+    <script>
+        var layRate = null;
+        layui.use("rate",function (){
+            layRate = layui.rate;
+            layRate.config={
+                readonly: true,
+                half: false,
+            };
+        })
+    </script>
+    
+    
+</head>
+<body id="main">
+<!-- Google Tag Manager (noscript) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WD6MWF125R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-WD6MWF125R');
+</script>
+<!-- End Google Tag Manager (noscript) -->    
+ <header class="headMain">
+        <div class="container headBox" id="headBox">
+            <a href="/" class="branchL">
+                <img src="/gamebox/img/logo.png" alt="">
+                <p tran="title" >Game Box</p>
+            </a>
+            <div class="branchR">
+                <div class="boxSearch ">
+                    <div id="searchIcon" class="searchIcon">
+                        <i class="iconfont icon-search-line"></i>
+                    </div>
+                    <div class="searchBox" id="searchBox">
+                        <input type="text" class="inputshow" id="searchB" autocomplete="off"  placeholder="Search For Games">
+                        <button onclick="search()"><i class="iconfont icon-search-line"></i></button>
+                        <ul class="gameName">
+                                                                <li>
+                                        <a href="/interest/search?keyword=Airpor">
+                                            Airpor                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Crazy">
+                                            Crazy                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=2048">
+                                            2048                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=2020">
+                                            2020                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Candy">
+                                            Candy                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Zombie">
+                                            Zombie                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Army">
+                                            Army                                        </a>
+                                    </li>
+                                                                                    </ul>
+                    </div>
+                </div>
+                <a href="/interest/collect" class="collect"> <i class="iconfont icon-heart-3-fill"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main">
+        <div class="containerBox">
+            <div class="lBox">
+                <div class="category">
+                    <div class="title">
+                        <h2 tran="category" >Game Category</h2>
+                        <a href="javascript:;" class="menu-open">
+                            <i class="iconfont icon-menu-unfold-line"></i>
+                        </a>
+                        <a href="javascript:;" class="close-menu">
+                            <i class="iconfont icon-menu-fold-line"></i>
+                        </a>
+                    </div>
+                    <ul class="categoryBox">
+                        <li  class="active">
+                            <a href="/">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <p tran="home" >Home</p>
+                            </a>
+                        </li>
+                                                        <li >
+                                    <a href="/interest/list/2">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <p tran="puzzle" >Puzzle</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/3">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <p tran="kids" >Kids</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/14">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <p tran="adventure" >Adventure</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/32">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <p tran="sports" >Sports</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/41">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <p tran="racing" >Racing</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/46">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <p tran="girl" >Girl</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/90">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <p tran="hot" >Hot</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/91">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <p tran="action" >Action</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/94">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <p tran="arcade" >Arcade</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/235">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <p tran="casual" >Casual</p>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </div>
+                <div class="swiper category-swiper">
+                    <ul class="swiper-wrapper" id="swiper-list">
+                        <li class="swiper-slide active">
+                            <a href="/">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <p tran="home" >Home</p>
+                            </a>
+                        </li>
+                                                        <li class="swiper-slide ">
+                                    <a href="/interest/list/2">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <p tran="puzzle" >Puzzle</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/3">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <p tran="kids" >Kids</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/14">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <p tran="adventure" >Adventure</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/32">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <p tran="sports" >Sports</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/41">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <p tran="racing" >Racing</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/46">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <p tran="girl" >Girl</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/90">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <p tran="hot" >Hot</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/91">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <p tran="action" >Action</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/94">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <p tran="arcade" >Arcade</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/235">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <p tran="casual" >Casual</p>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </div>
+            
+        <div class="rBox">
+            <div class="company">
+                <h2>Terms of Use</h2>
+                <p></p>
+                <h3>1. General Provisions</h3>
+                <p>This site is a free and open gaming platform without any cash involved.</p>
+                <p>Any promises or terms you accept outside the website have nothing to do with this website. If you encounter fraud outside the website, please <a target="_blank" style="text-decoration:underline;" href="https://wj.qq.com/s2/12483552/28a3">Contact US</a>. We will pursue legal responsibility for those who use this website for fraudulent behavior based on your feedback.</p>
+                <p>1.1. Game Box, (hereinafter referred to as “Game Box”) invites an Internet user (hereinafter referred to as the “User”) to use Game Box Service available at this website, and as part of other Game Box software products (hereinafter referred to as the “Service”).</p>
+                <p>1.2 These Terms are an annex to the User agreement for the Game Box Services regarding the manner of using the Service. In all cases not provided for by these Terms, the relations between Game Box and the User in connection with the use of the Service shall be governed by the:<br/> ● User Agreement for Game Box Services;<br/> ● Privacy Policy.</p>
+
+                <p>1.3. By starting to use the Service/its certain functions, the User is deemed to have accepted these Terms and terms of the above documents, in full, without any reservations and exceptions. If the User disagrees with any of the provisions of the said documents, the User may not use the Service.</p>
+                <p>1.4. These Terms may be amended by Game Box without any prior notification, the new version of the Terms shall become effective upon its posting on the Internet at the address specified in this paragraph, unless otherwise provided in the new version of the Terms.</p>
+                <p>1.5. If Game Box makes any amendments to these Terms in the manner provided for by section 1.4. of these Terms, to which the User does not agree, he/she shall stop using the Service.</p>
+                <p>1.6. By using the Service, the User consents to receiving informational notices. The User may unsubscribe from the notices by using relevant functions of the Service or following instructions specified in a message received.</p>
+
+                <h3>2. Use of the Service. Certain Functions of the Service. Intellectual Rights</h3>
+                <p>2.1. The Service provides the User with free access, viewing and playback on the User's device html5 games (the "Game") uploaded to the Service by the developer and (or) the rightsholder of the Games (hereinafter "Rightsholder").</p>
+                <p>All currently existing features of the Service, as well as any development of them and / or the addition of new ones, are subject to these Terms.</p>
+                <p>2.2. The rights to all components of design of the Service as a whole and to its parts, to Service software are vested in Game Box. The rights to the Games posted on the Service belong to their rightsholders.</p>
+                <p>2.3. By starting to use the Service, the User guarantees that he does not perform and will not perform any actions aimed at circumventing the technical means of protection against unauthorized use of the objects specified in section 2.2 of these Terms. Any copying, reproduction, modification, distribution, public display, circumvention of technical protection or other use of the above-mentioned objects of the Service beyond the scope of the capabilities provided by the Service, as well as any use for commercial purposes, is prohibited.</p>
+                <p>2.4. The Service provides authorized Users with the opportunity to publish reviews of Games containing a subjective assessment of the User experience of using the Game, its characteristics, content, etc.</p>
+                <p>When publishing a review, it is not allowed to use obscene and rude language, insults, threats against third parties, as well as to violate other conditions specified in Section 5 of the User Agreement for Game Box Services.</p>
+                <p>The User is hereby notified and agrees that along with the review, his / her name specified in the Game Box services account, as well as an image from his / her profile page (avatar) will be published.</p>
+                <p>By posting a review, the User agrees that the review may be used by Game Box in other Game Box services and applications, as well as in advertising or marketing materials published on Game Box resources on the Internet, as well as on other resources and sites on the Internet, to promote the Service or other Game Box applications and services, either with or without specifying the name of the User who posted the information, without the need to obtain special permission from the User and without paying royalties, on the territory of all countries of the world without a time limit, with the right of Game Box to grant the rights to use such information to third parties.</p>
+                <p>Upon complaint, the review can be deleted from the Service if the User violates the rules for publishing reviews.</p>
+                <h3>3. Restrictions</h3>
+                <p>3.1. The Service is provided by Game Box “as is”. Game Box does not guarantee the compliance of the Service with User’s goals and expectations, the safety of the data submitted and posted by a User on the Service, uninterrupted and error-free operation of the Service or its features. Game Box shall be entitled at any time to partially or fully change the functionality provided by the Service.</p>
+                <p> 3.2. The use of the Service by a minor is permitted with the knowledge and consent of his legal representative and under his control provided that the legal representative has read these Terms and fully accepted their provisions on his own behalf. Game Box does not guarantee the absence of the information which does not correspond to the age category of a minor, as well as that the classification of information products provided by the Rightsholder is correct. The Rightsholder is fully responsible for the content of the Games and the proper classification of information products.</p>
+                <p>3.3. Game Box shall not be liable for the content of the Games or other information published in the Service. Game Box also does not guarantee the security of the use of Games for the User's device, the absence of malware, viruses, or the technical compatibility of Games with the User's device.</p>
+                <p>3.4. Upon detection of the violations committed by the Rightsholder, the User of the Service or other persons may report these facts through the functionality of the Service or by sending a notice via the feedback.</p>
+                <p>3.5. Game Box reserves the right, at its sole discretion, to limit the User’s access to the Service (or its particular functions, if technologically feasible) using User’s account, or completely block the User’s account in case of repeated non-compliance with these Terms or take other measures against the User in order to comply with legislative requirements or respect third-party rights and legitimate interests.</p>
+                <h3>4. Miscellaneous</h3>
+                <p>4.1. Any information used in the Service is intended for personal non-commercial use only. At the same time, any copying of the Service's information, including using automatic and other software tools to gain access to data, its reproduction, processing, distribution, making available to the public (publication) on the Internet, any use in the media and/or for commercial purposes without the prior written permission of Game Box is prohibited. </p>
+                <p>4.2. The User's data received when using the Service is processed under the conditions specified in the Privacy Policy.</p>
+                <p>The User is notified and agrees that, subject to authorization in the Service using the Game Box Services account, and the User's posting of materials and publications, and / or participation in the User rating, and/or under other circumstances related to the display of User actions in the Service, the Service may publicly display a name and image (avatar) of the User specified in the User account of the Game Box Service.</p>
+                <p>The above data, as well as other data related to the use of the Service functionality (statistics of visits, results and progress of the Game, purchases made in the Service, and other information) may be transferred to the Rightsholder for the purposes of maintaining the correct operation of the Service and provision of certain functions of the Games, forming User rating tables( leaderboards), posting reviews in the Game interface, collecting and analyzing anonymized statistical data.
+                </p>
+                <p>4.3. If there are reasonable assumptions about a possible violation of the law, the rights and interests of third parties by the information posted in the Service, or by the User's actions, the User can report this by using the special functionality of the Service or via Official website. <a target="_blank" style="text-decoration:underline;" href="https://wj.qq.com/s2/12483552/28a3">Contact US</a>
+                </p>
+                <p>Date of publication: 2022.12.28.</p>
+            </div>
+
+            <footer>
+                <p>©2022 Game Box</p>
+                <a href="/interest/privacy" tran="privacy" >Privacy Policy</a>
+                <a href="/interest/terms" tran="terms">Terms Of Use</a>
+                <!-- <a href="javascript:;" id="translate" data-la=""  ></a> -->
+            </footer>
+        </div>
+    </div>
+</div>
+
+            
+		</div>
+    </div>
+</div>
+<script type="text/javascript">
+var zh ={
+    title:"游戏中心",
+    history:"历史记录",
+    category:"游戏分类",
+    home:"首页",
+    recommend:"游戏推荐",
+    hotgames:"热门游戏",
+    collect:"收藏",
+    Like:"喜欢此游戏",
+    play:"游玩",
+    tips:"帮助我们为您量身定制精彩的游戏体验 :)",
+    description:"描述",
+    instruction:"介绍",
+    mightLike:"猜你喜欢",
+    privacy:"隐私",
+    terms:"条款",
+    read:"阅读更多",
+    casual:"休闲",
+    puzzle:"解谜",
+    action:"动作",
+    adventure:"冒险",
+    sports:"运动",
+    arcade:"街机",
+    search:"搜索结果",
+    favorite:"喜欢的游戏",
+    edit:"编辑",
+    edit1:"完成"
+};
+
+var en = {
+    title:"Game Box",
+    history:"history",
+    category:"Game Category",
+    home:"Home",
+    recommend:"Recommend",
+    hotgames:"Hot Games",
+    collect:"Collect",
+    Like:"Like This Game",
+    play:"PLAY",
+    tips:"Help us tailor a great gaming experience for you :)",
+    description:"Description",
+    instruction:"Instruction",
+    mightLike:"You Might Like It",
+    privacy:"Privacy",
+    terms:"Terms Of Use",
+    read:"Read More",
+    casual:"Casual",
+    puzzle:"Puzzle",
+    action:"Action",
+    adventure:"Adventure",
+    sports: "Sports",
+    arcade:"Arcade",
+    search:"Search Result",
+    favorite:"Favorite Games",
+    edit:"Edit",
+    edit1:"Done"
+}
+        en.puzzle = "Puzzle";
+        zh.puzzle = "解谜";
+            en.kids = "Kids";
+        zh.kids = "儿童";
+            en.adventure = "Adventure";
+        zh.adventure = "冒险";
+            en.sports = "Sports";
+        zh.sports = "运动";
+            en.racing = "Racing";
+        zh.racing = "竞速";
+            en.girl = "Girl";
+        zh.girl = "女孩";
+            en.hot = "Hot";
+        zh.hot = "热门游戏";
+            en.action = "Action";
+        zh.action = "动作";
+            en.arcade = "Arcade";
+        zh.arcade = "街机";
+            en.casual = "Casual";
+        zh.casual = "休闲";
+    </script>
+<script src="/gamebox/js/main.js"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8f2da749dd4c85a9',t:'MTczNDM0MTQxMy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

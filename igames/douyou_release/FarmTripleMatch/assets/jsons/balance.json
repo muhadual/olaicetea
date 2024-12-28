@@ -1,0 +1,217 @@
+{
+  "settings": {
+    "dailyEvent": {
+      "unlockAt": 15,
+      "completeLevels": [2, 6, 12, 20]
+    },
+    "boosters": {
+      "stepback": {
+        "default": 3,
+        "unlockAt": 3,
+        "price": 100,
+        "rewardForAD": 3
+      },
+      "shuffle": {
+        "default": 3,
+        "unlockAt": 5,
+        "price": 150,
+        "rewardForAD": 2
+      }
+    },
+    "dailyReward": {
+      "rewardAdTimer": 600,
+      "coins": {
+        "min": 100,
+        "max": 500
+      },
+      "stepback": {
+        "min": 1,
+        "max": 2
+      },
+      "shuffle": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "extraSpaceCost": 200,
+    "extraSpaceTimerSec": 10,
+    "coinsForAd": 100,
+    "coinsForMatch": 5,
+    "scoreForMatch": 100,
+    "questsReward": 100
+  },
+  "quests": [
+    { "id": "mailbox", "steps": [{ "id": "mailbox" }] },
+    {
+      "id": "dog",
+      "steps": [
+        { "id": "dog-house" },
+        { "id": "task-dog", "skins": { "min": 1, "max": 3 } }
+      ]
+    },
+    {
+      "id": "fencewater",
+      "steps": [{ "id": "fence-white" }, { "id": "watering" }]
+    },
+    {
+      "id": "veget1",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 7 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "veget2",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 7 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "veget3",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 7 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "veget4",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 7 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "veget5",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 7 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "grape",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed" },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    { "id": "barn", "steps": [{ "id": "task-build" }] },
+    {
+      "id": "chickens",
+      "steps": [
+        { "id": "task-build" },
+        { "id": "task-buy", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-feed-chicken" }
+      ]
+    },
+    {
+      "id": "tree1",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "tree2",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "tree3",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "tree4",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "tree5",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "tree6",
+      "steps": [
+        { "id": "task-dig" },
+        { "id": "task-seed", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "cowfeeder",
+      "steps": [
+        { "id": "task-build" },
+        { "id": "task-buy", "skins": { "min": 1, "max": 3 } },
+        { "id": "hay1" }
+      ]
+    },
+    {
+      "id": "barnhay",
+      "steps": [{ "id": "hay1" }, { "id": "cart" }, { "id": "barn" }]
+    },
+    {
+      "id": "bees",
+      "steps": [
+        { "id": "task-build" },
+        { "id": "task-seeding", "skins": { "min": 1, "max": 3 } },
+        { "id": "task-watering" },
+        { "id": "task-sun" }
+      ]
+    },
+    {
+      "id": "pond",
+      "steps": [
+        { "id": "task-build" },
+        { "id": "task-build" },
+        { "id": "task-buy", "skins": { "min": 1, "max": 3 } }
+      ]
+    },
+    {
+      "id": "rabbits",
+      "steps": [
+        { "id": "task-build" },
+        { "id": "task-buy", "skins": { "min": 1, "max": 3 } }
+      ]
+    },
+    {
+      "id": "toolbarn",
+      "steps": [
+        { "id": "task-build" },
+        { "id": "task-buy", "skins": { "min": 1, "max": 3 } }
+      ]
+    }
+  ]
+}

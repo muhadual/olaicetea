@@ -1,0 +1,322 @@
+{
+  "layers": {
+    "0": {
+      "name": "Base",
+      "states": [
+        0,
+        1,
+        2,
+        3,
+        17116865557499954,
+        17116866382989132,
+        17116866542107720
+      ],
+      "transitions": [
+        0,
+        17116942541175716,
+        17116996257637370,
+        17116996615299004
+      ],
+      "blendType": "OVERWRITE",
+      "weight": 1
+    },
+    "1": {
+      "name": "Upper",
+      "states": [
+        1711676907807890,
+        17116769078071252,
+        17116769078073812,
+        17116769078078042,
+        17116789049055552,
+        17116950200789356
+      ],
+      "transitions": [
+        17116769078079876,
+        17116991401587368,
+        17116992384562766,
+        17116997752885192,
+        17116997775437232
+      ],
+      "blendType": "OVERWRITE",
+      "weight": 0
+    }
+  },
+  "states": {
+    "0": {
+      "name": "START",
+      "id": 0,
+      "posX": 50.000000000000014,
+      "posY": 99.99999999999999,
+      "nodeType": 3
+    },
+    "1": {
+      "name": "ANY",
+      "id": 1,
+      "posX": 50,
+      "posY": 149.99999999999994,
+      "nodeType": 4
+    },
+    "2": {
+      "name": "END",
+      "id": 2,
+      "posX": 50,
+      "posY": 200,
+      "nodeType": 5
+    },
+    "3": {
+      "name": "Run",
+      "id": 3,
+      "speed": 1.2,
+      "loop": true,
+      "posX": 530.0000000000001,
+      "posY": 269.9999999999999,
+      "nodeType": 0
+    },
+    "17116759096562372": {
+      "name": "Initial State",
+      "id": 17116759096562372,
+      "speed": 1,
+      "loop": true,
+      "posX": 400,
+      "posY": 50,
+      "nodeType": 1,
+      "defaultState": true
+    },
+    "17116759096568872": {
+      "name": "START",
+      "id": 17116759096568872,
+      "posX": 50,
+      "posY": 100,
+      "nodeType": 3
+    },
+    "17116759096562088": {
+      "name": "ANY",
+      "id": 17116759096562088,
+      "posX": 50,
+      "posY": 150,
+      "nodeType": 4
+    },
+    "17116759096567412": {
+      "name": "END",
+      "id": 17116759096567412,
+      "posX": 50,
+      "posY": 200,
+      "nodeType": 5
+    },
+    "17116769078078042": {
+      "name": "AttackRight",
+      "id": 17116769078078042,
+      "speed": 4,
+      "loop": false,
+      "posX": 509.99999999999955,
+      "posY": 270.0000000000001,
+      "nodeType": 0
+    },
+    "1711676907807890": {
+      "name": "START",
+      "id": 1711676907807890,
+      "posX": -270.0000000000003,
+      "posY": 360.0000000000001,
+      "nodeType": 3
+    },
+    "17116769078071252": {
+      "name": "ANY",
+      "id": 17116769078071252,
+      "posX": 169.99999999999943,
+      "posY": 80.00000000000003,
+      "nodeType": 4
+    },
+    "17116769078073812": {
+      "name": "END",
+      "id": 17116769078073812,
+      "posX": 50,
+      "posY": 200,
+      "nodeType": 5
+    },
+    "17116789049055552": {
+      "nodeType": 0,
+      "id": 17116789049055552,
+      "posX": 519.9999999999995,
+      "posY": 110.00000000000003,
+      "name": "AttackLeft",
+      "speed": 4,
+      "loop": false
+    },
+    "17116865557499954": {
+      "nodeType": 1,
+      "id": 17116865557499954,
+      "posX": 90,
+      "posY": 299.9999999999999,
+      "name": "Idle",
+      "speed": 1,
+      "loop": true,
+      "defaultState": true
+    },
+    "17116866382989132": {
+      "nodeType": 0,
+      "id": 17116866382989132,
+      "posX": 760.0000000000002,
+      "posY": 109.99999999999994,
+      "name": "Die",
+      "speed": 1,
+      "loop": false
+    },
+    "17116866542107720": {
+      "nodeType": 0,
+      "id": 17116866542107720,
+      "posX": 450.00000000000017,
+      "posY": -40.00000000000014,
+      "name": "Tornado",
+      "speed": 3,
+      "loop": true
+    },
+    "17116950200789356": {
+      "nodeType": 1,
+      "id": 17116950200789356,
+      "posX": 99.99999999999977,
+      "posY": 320.0000000000001,
+      "name": "Run",
+      "speed": 1.2,
+      "loop": true,
+      "defaultState": true
+    }
+  },
+  "transitions": {
+    "0": {
+      "from": 0,
+      "to": 17116865557499954,
+      "defaultTransition": true,
+      "edgeType": 1,
+      "conditions": {}
+    },
+    "1711675909656900": {
+      "from": 17116759096568872,
+      "to": 17116759096562372,
+      "defaultTransition": true,
+      "edgeType": 1,
+      "conditions": {}
+    },
+    "17116769078079876": {
+      "from": 1711676907807890,
+      "to": 17116950200789356,
+      "defaultTransition": true,
+      "edgeType": 1,
+      "conditions": {}
+    },
+    "17116942541175716": {
+      "exitTime": 0,
+      "interruptionSource": "NONE",
+      "from": 17116865557499954,
+      "to": 3,
+      "edgeType": 1,
+      "conditions": {
+        "0": {
+          "parameterName": "Run",
+          "predicate": "EQUAL_TO",
+          "value": true
+        }
+      }
+    },
+    "17116991401587368": {
+      "exitTime": 0,
+      "interruptionSource": "NEXT_STATE",
+      "from": 17116789049055552,
+      "to": 17116950200789356,
+      "edgeType": 1,
+      "conditions": {},
+      "time": 0.5
+    },
+    "17116992384562766": {
+      "exitTime": 0,
+      "interruptionSource": "NEXT_STATE",
+      "from": 17116769078078042,
+      "to": 17116950200789356,
+      "edgeType": 1,
+      "conditions": {},
+      "time": 0.5
+    },
+    "17116996257637370": {
+      "exitTime": 0,
+      "interruptionSource": "NONE",
+      "from": 1,
+      "to": 17116866542107720,
+      "edgeType": 3,
+      "conditions": {
+        "0": {
+          "parameterName": "Tornado",
+          "predicate": "EQUAL_TO",
+          "value": true
+        }
+      }
+    },
+    "17116996615299004": {
+      "exitTime": 0,
+      "interruptionSource": "NONE",
+      "from": 1,
+      "to": 17116866382989132,
+      "edgeType": 3,
+      "conditions": {
+        "0": {
+          "parameterName": "Die",
+          "predicate": "EQUAL_TO",
+          "value": true
+        }
+      }
+    },
+    "17116997752885192": {
+      "exitTime": 0,
+      "interruptionSource": "NEXT_STATE",
+      "from": 17116769078071252,
+      "to": 17116789049055552,
+      "edgeType": 3,
+      "conditions": {
+        "0": {
+          "parameterName": "AttackLeft",
+          "predicate": "EQUAL_TO",
+          "value": true
+        }
+      }
+    },
+    "17116997775437232": {
+      "exitTime": 0,
+      "interruptionSource": "NEXT_STATE",
+      "from": 17116769078071252,
+      "to": 17116769078078042,
+      "edgeType": 3,
+      "conditions": {
+        "0": {
+          "parameterName": "AttackRight",
+          "predicate": "EQUAL_TO",
+          "value": true
+        }
+      }
+    }
+  },
+  "parameters": {
+    "0": {
+      "name": "Run",
+      "type": "TRIGGER",
+      "value": false
+    },
+    "1": {
+      "name": "Die",
+      "type": "TRIGGER",
+      "value": false
+    },
+    "2": {
+      "name": "Tornado",
+      "type": "TRIGGER",
+      "value": false
+    },
+    "3": {
+      "name": "AttackRight",
+      "type": "TRIGGER",
+      "value": false
+    },
+    "4": {
+      "name": "AttackLeft",
+      "type": "TRIGGER",
+      "value": false
+    }
+  }
+}

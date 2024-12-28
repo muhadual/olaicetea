@@ -1,0 +1,34 @@
+{
+  "info": {
+    "id": "212",
+    "title": "Slice Master",
+    "env": "release",
+    "mode": 6,
+    "adSdk": "wsdk",
+    "adChannel": "cpsense",
+    "version": "3.9",
+    "libVersion": "4.3",
+    "loadBar": true,
+    "isDot": true,
+    "isGo": false,
+    "isEnter": true,
+    "isMath": false,
+    "isLog": false,
+    "adProb": 1,
+    "isAutoLoadBar": false,
+    "isDuration": true,
+    "firstAdClick": false,
+    "firstAd": true,
+    "timestamp": 1731649485566,
+    "plan": 2,
+    "ves": "4.3"
+  },
+  "initial": [
+    "playcanvas-stable.min.js",
+    "__settings__.js",
+    "__modules__.js",
+    "__start__.js",
+    "__loading__.js",
+    "src/main.init.js"
+  ]
+}

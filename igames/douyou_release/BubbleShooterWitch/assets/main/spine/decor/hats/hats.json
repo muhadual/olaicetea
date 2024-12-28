@@ -1,0 +1,236 @@
+{
+  "skeleton": {
+    "hash": "4+PfSwzERfc",
+    "spine": "3.8-from-4.0-from-4.1-from-4.2.36",
+    "x": -185.69,
+    "y": -57.32,
+    "width": 369.89,
+    "height": 130.86,
+    "images": "./Files/",
+    "audio": "./audio"
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "hats_bg",
+      "parent": "root",
+      "color": "52ffc7ff",
+      "icon": "square"
+    },
+    {
+      "name": "hat_1",
+      "parent": "hats_bg",
+      "x": -115,
+      "y": -7.74,
+      "color": "52ffc7ff",
+      "icon": "square"
+    },
+    {
+      "name": "hat_2",
+      "parent": "hats_bg",
+      "x": 1.51,
+      "y": 24.82,
+      "color": "52ffc7ff",
+      "icon": "square"
+    },
+    {
+      "name": "hat_3",
+      "parent": "hats_bg",
+      "x": 118.26,
+      "y": -12.35,
+      "color": "52ffc7ff",
+      "icon": "square"
+    },
+    {
+      "name": "hats_up",
+      "parent": "root",
+      "x": -0.33,
+      "y": -24.06,
+      "color": "4eff5aff",
+      "icon": "tophat"
+    },
+    {
+      "name": "hats_up_1",
+      "parent": "hats_up",
+      "x": -115.48,
+      "y": 18.19,
+      "color": "a4ffabff",
+      "icon": "tophat"
+    },
+    {
+      "name": "hats_up_2",
+      "parent": "hats_up",
+      "x": 2.35,
+      "y": 50.04,
+      "color": "a4ffabff",
+      "icon": "tophat"
+    },
+    {
+      "name": "hats_up_3",
+      "parent": "hats_up",
+      "x": 119.33,
+      "y": 13.53,
+      "color": "a4ffabff",
+      "icon": "tophat"
+    }
+  ],
+  "slots": [
+    { "name": "Vector 169", "bone": "hat_1", "attachment": "Vector 169" },
+    { "name": "Vector 170", "bone": "hat_2", "attachment": "Vector 169" },
+    { "name": "Vector 171", "bone": "hat_3", "attachment": "Vector 169" },
+    { "name": "Group 149", "bone": "hats_up_1" },
+    { "name": "Group 150", "bone": "hats_up_2" },
+    { "name": "Group 151", "bone": "hats_up_3" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Group 149": {
+          "Group 149": {
+            "x": 2.3,
+            "y": 1.26,
+            "scaleX": 0.6681,
+            "scaleY": 0.6681,
+            "width": 174,
+            "height": 113
+          }
+        },
+        "Group 150": {
+          "Group 149": {
+            "x": 2.3,
+            "y": 1.26,
+            "scaleX": 0.6681,
+            "scaleY": 0.6681,
+            "width": 174,
+            "height": 113
+          }
+        },
+        "Group 151": {
+          "Group 149": {
+            "x": 2.3,
+            "y": 1.26,
+            "scaleX": 0.6681,
+            "scaleY": 0.6681,
+            "width": 174,
+            "height": 113
+          }
+        },
+        "Vector 169": {
+          "Vector 169": {
+            "x": -2.41,
+            "y": 2.41,
+            "scaleX": 0.6761,
+            "scaleY": 0.6761,
+            "width": 202,
+            "height": 140
+          }
+        },
+        "Vector 170": {
+          "Vector 169": {
+            "x": -0.21,
+            "y": 1.39,
+            "scaleX": 0.6761,
+            "scaleY": 0.6761,
+            "width": 202,
+            "height": 140
+          }
+        },
+        "Vector 171": {
+          "Vector 169": {
+            "x": -2.35,
+            "y": 2.36,
+            "scaleX": 0.6761,
+            "scaleY": 0.6761,
+            "width": 202,
+            "height": 140
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "1_hat_appears": {
+      "slots": {
+        "Group 149": {
+          "color": [
+            { "time": 0.0667, "color": "ffffff00" },
+            { "time": 0.4667, "color": "ffffffff" }
+          ],
+          "attachment": [{ "time": 0.0667, "name": "Group 149" }]
+        }
+      },
+      "bones": {
+        "hats_up_1": {
+          "scale": [
+            { "x": 3.205, "y": 3.205 },
+            { "time": 0.4667, "x": 0.771, "y": 0.771 },
+            { "time": 0.6333 }
+          ]
+        }
+      }
+    },
+    "2_hat_appears": {
+      "slots": {
+        "Group 149": { "attachment": [{ "name": "Group 149" }] },
+        "Group 150": {
+          "color": [
+            { "color": "ffffff00" },
+            { "time": 0.3667, "color": "ffffffff" }
+          ],
+          "attachment": [{ "time": 0.1, "name": "Group 149" }]
+        }
+      },
+      "bones": {
+        "hats_up_2": {
+          "scale": [
+            { "x": 3.205, "y": 3.205 },
+            { "time": 0.4667, "x": 0.771, "y": 0.771 },
+            { "time": 0.6333 }
+          ]
+        }
+      }
+    },
+    "3_hat_appears": {
+      "slots": {
+        "Group 149": { "attachment": [{ "name": "Group 149" }] },
+        "Group 150": { "attachment": [{ "name": "Group 149" }] },
+        "Group 151": {
+          "color": [
+            { "color": "ffffff00" },
+            { "time": 0.4667, "color": "ffffffff" }
+          ],
+          "attachment": [{ "time": 0.1, "name": "Group 149" }]
+        }
+      },
+      "bones": {
+        "hats_up_3": {
+          "scale": [
+            { "x": 3.205, "y": 3.205 },
+            { "time": 0.4667, "x": 0.771, "y": 0.771 },
+            { "time": 0.6333 }
+          ]
+        }
+      }
+    },
+    "idle_1_hat": {
+      "slots": { "Group 149": { "attachment": [{ "name": "Group 149" }] } }
+    },
+    "idle_2_hat": {
+      "slots": {
+        "Group 149": { "attachment": [{ "name": "Group 149" }] },
+        "Group 150": { "attachment": [{ "name": "Group 149" }] }
+      }
+    },
+    "idle_3_hat": {
+      "slots": {
+        "Group 149": { "attachment": [{ "name": "Group 149" }] },
+        "Group 150": { "attachment": [{ "name": "Group 149" }] },
+        "Group 151": { "attachment": [{ "name": "Group 149" }] }
+      }
+    },
+    "idle_empty": {
+      "slots": { "Vector 169": { "attachment": [{ "name": "Vector 169" }] } }
+    }
+  }
+}

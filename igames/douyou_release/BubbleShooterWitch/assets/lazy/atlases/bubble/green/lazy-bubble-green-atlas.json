@@ -1,0 +1,279 @@
+{
+  "frames": {
+    "bubble/green/explosion/07": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 239,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 62,
+        "w": 239,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/06": {
+      "frame": {
+        "x": 2,
+        "y": 234,
+        "w": 217,
+        "h": 218
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 63,
+        "w": 217,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/05": {
+      "frame": {
+        "x": 224,
+        "y": 234,
+        "w": 206,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 68,
+        "w": 206,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/04": {
+      "frame": {
+        "x": 245,
+        "y": 2,
+        "w": 191,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 75,
+        "w": 191,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/03": {
+      "frame": {
+        "x": 434,
+        "y": 197,
+        "w": 165,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 89,
+        "w": 165,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/02": {
+      "frame": {
+        "x": 440,
+        "y": 2,
+        "w": 129,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 106,
+        "w": 129,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/empty-bg": {
+      "frame": {
+        "x": 434,
+        "y": 366,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 126,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/empty-fg": {
+      "frame": {
+        "x": 224,
+        "y": 445,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 126,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/00": {
+      "frame": {
+        "x": 329,
+        "y": 445,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 126,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/idle/0": {
+      "frame": {
+        "x": 2,
+        "y": 455,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 126,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/green/explosion/01": {
+      "frame": {
+        "x": 107,
+        "y": 455,
+        "w": 86,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 134,
+        "w": 86,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "lazy-bubble-green-atlas.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 601,
+      "h": 558
+    },
+    "scale": 1
+  }
+}

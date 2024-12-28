@@ -1,0 +1,140 @@
+[
+    {
+        "type" : "skin",
+        "data" : [
+            {
+                "id" : "skin_001",
+                "name" : "Skin 001",
+                "asset" : "tex_mc_skin_1",
+                "icon" : "spr_icon_skin_character_01",
+                "price" : "300"
+            },
+            {
+                "id" : "skin_002",
+                "name" : "Skin 002",
+                "asset" : "tex_mc_skin_2",
+                "icon" : "spr_icon_skin_character_02",
+                "price" : "300"
+            },
+            {
+                "id" : "skin_003",
+                "name" : "Skin 003",
+                "asset" : "tex_mc_skin_3",
+                "icon" : "spr_icon_skin_character_03",
+                "price" : "600"
+            },
+            {
+                "id" : "skin_004",
+                "name" : "Skin 004",
+                "asset" : "tex_mc_skin_4",
+                "icon" : "spr_icon_skin_character_04",
+                "price" : "1500"
+            },
+            {
+                "id" : "skin_005",
+                "name" : "Skin 005",
+                "asset" : "tex_mc_skin_5",
+                "icon" : "spr_icon_skin_character_05",
+                "price" : "2100"
+            },
+            {
+                "id" : "skin_006",
+                "name" : "Skin 006",
+                "asset" : "tex_mc_skin_6",
+                "icon" : "spr_icon_skin_character_06",
+                "price" : "2100"
+            }
+        ]
+    },
+    {
+        "type" : "weapon",
+        "data" : [
+            {
+                "id" : "weapon_001",
+                "name" : "WP 001",
+                "asset" : "model_weapon_01",
+                "icon" : "spr_icon_weapon_01",
+                "price" : "300"
+            },
+            {
+                "id" : "weapon_002",
+                "name" : "WP 002",
+                "asset" : "model_weapon_02",
+                "icon" : "spr_icon_weapon_02",
+                "price" : "300"
+            },
+            {
+                "id" : "weapon_003",
+                "name" : "WP 003",
+                "asset" : "model_weapon_03",
+                "icon" : "spr_icon_weapon_03",
+                "price" : "600"
+            },
+            {
+                "id" : "weapon_004",
+                "name" : "WP 004",
+                "asset" : "model_weapon_04",
+                "icon" : "spr_icon_weapon_04",
+                "price" : "1500"
+            },
+            {
+                "id" : "weapon_005",
+                "name" : "WP 005",
+                "asset" : "model_weapon_05",
+                "icon" : "spr_icon_weapon_05",
+                "price" : "2100"
+            },
+            {
+                "id" : "weapon_006",
+                "name" : "WP 005",
+                "asset" : "model_weapon_06",
+                "icon" : "spr_icon_weapon_06",
+                "price" : "2100"
+            }
+        ]
+    },
+    {
+        "type" : "theme",
+        "data" : [
+            {
+                "id" : "theme_01",
+                "name" : "T1",
+                "icon" : "spr_icon_theme_01",
+                "price" : "300"
+            },
+            {
+                "id" : "theme_03",
+                "name" : "T3",
+                "icon" : "spr_icon_theme_03",
+                "price" : "600"
+            },
+            {
+                "id" : "theme_04",
+                "name" : "T4",
+                "icon" : "spr_icon_theme_04",
+                "price" : "1500"
+            },
+            {
+                "id" : "theme_02",
+                "name" : "T2",
+                "icon" : "spr_icon_theme_02",
+                "price" : "2100"
+            }
+          
+        ]
+    },
+    {
+        "type" : "song",
+        "data" : [
+            {
+                "id" : "song003",
+                "price" : "1200"
+            },
+            {
+                "id" : "song004",
+                "price" : "1500"
+            }
+        ] 
+
+    }
+]

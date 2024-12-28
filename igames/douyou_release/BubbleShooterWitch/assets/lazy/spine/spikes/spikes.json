@@ -1,0 +1,211 @@
+{
+  "skeleton": {
+    "hash": "L08h2AHBiXA",
+    "spine": "3.8-from-4.0-from-4.1-from-4.2.36",
+    "x": -61,
+    "y": -61,
+    "width": 122,
+    "height": 122,
+    "images": "",
+    "audio": "D:/_Projects/Bubble shooter butterfly/Effects/spikes/spikes/spikes"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "back", "parent": "root" },
+    { "name": "spike_01", "parent": "root" },
+    { "name": "spike_02", "parent": "root" },
+    { "name": "spike_03", "parent": "root" },
+    { "name": "spike_04", "parent": "root" },
+    { "name": "spike_05", "parent": "root" },
+    { "name": "spike_06", "parent": "root" },
+    { "name": "spike_07", "parent": "root" }
+  ],
+  "slots": [
+    { "name": "back", "bone": "back", "attachment": "back" },
+    { "name": "spike_01", "bone": "spike_01", "attachment": "spike_01" },
+    { "name": "spike_02", "bone": "spike_02", "attachment": "spike_02" },
+    { "name": "spike_03", "bone": "spike_03", "attachment": "spike_03" },
+    { "name": "spike_04", "bone": "spike_04", "attachment": "spike_04" },
+    { "name": "spike_05", "bone": "spike_05", "attachment": "spike_05" },
+    { "name": "spike_06", "bone": "spike_06", "attachment": "spike_06" },
+    { "name": "spike_07", "bone": "spike_07", "attachment": "spike_07" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "back": { "back": { "width": 122, "height": 122 } },
+        "spike_01": { "spike_01": { "width": 122, "height": 122 } },
+        "spike_02": { "spike_02": { "width": 122, "height": 122 } },
+        "spike_03": { "spike_03": { "width": 122, "height": 122 } },
+        "spike_04": { "spike_04": { "width": 122, "height": 122 } },
+        "spike_05": { "spike_05": { "width": 122, "height": 122 } },
+        "spike_06": { "spike_06": { "width": 122, "height": 122 } },
+        "spike_07": { "spike_07": { "width": 122, "height": 122 } }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "back": { "color": [{ "time": 0.4, "color": "ffffff00" }] },
+        "spike_01": {
+          "color": [
+            { "color": "ffffffff" },
+            { "time": 0.0667, "color": "ffffff7d" },
+            { "time": 0.1667, "color": "ffffff1e" },
+            { "time": 0.2667, "color": "ffffff00" }
+          ]
+        },
+        "spike_02": {
+          "color": [
+            { "time": 0.0667, "color": "ffffffff" },
+            { "time": 0.1667, "color": "ffffffa6" },
+            { "time": 0.2667, "color": "ffffff41" },
+            { "time": 0.4, "color": "ffffff00" }
+          ]
+        },
+        "spike_03": {
+          "color": [
+            { "time": 0.1, "color": "ffffffff" },
+            { "time": 0.1667, "color": "ffffffad" },
+            { "time": 0.2667, "color": "ffffff5d" },
+            { "time": 0.4, "color": "ffffff00" }
+          ]
+        },
+        "spike_04": {
+          "color": [
+            { "time": 0.1667, "color": "ffffffff" },
+            { "time": 0.2333, "color": "ffffffa5" },
+            { "time": 0.2667, "color": "ffffff30" },
+            { "time": 0.4333, "color": "ffffff00" }
+          ]
+        },
+        "spike_05": {
+          "color": [
+            { "time": 0.1667, "color": "ffffffff" },
+            { "time": 0.2333, "color": "ffffff9d" },
+            { "time": 0.2667, "color": "ffffff21" },
+            { "time": 0.4, "color": "ffffff00" }
+          ]
+        },
+        "spike_06": {
+          "color": [
+            { "time": 0.2333, "color": "ffffffff" },
+            { "time": 0.2667, "color": "ffffff99" },
+            { "time": 0.3333, "color": "ffffff3e" },
+            { "time": 0.4333, "color": "ffffff00" }
+          ]
+        },
+        "spike_07": {
+          "color": [
+            { "time": 0.2667, "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffffa5" },
+            { "time": 0.4, "color": "ffffff3d" },
+            { "time": 0.4333, "color": "ffffff00" }
+          ]
+        }
+      },
+      "bones": {
+        "spike_01": {
+          "translate": [
+            {},
+            { "time": 0.0667, "y": -25 },
+            { "time": 0.1667, "y": -44 }
+          ],
+          "scale": [
+            { "time": 0.0667, "x": 0.94, "y": 0.89 },
+            { "time": 0.1667, "x": 0.733, "y": 0.668 }
+          ]
+        },
+        "spike_02": {
+          "translate": [
+            { "time": 0.0667 },
+            { "time": 0.1667, "y": -26 },
+            { "time": 0.2667, "x": -7, "y": -51 }
+          ],
+          "scale": [
+            { "time": 0.0667 },
+            { "time": 0.1667, "x": 0.93, "y": 0.88 },
+            { "time": 0.2667, "x": 0.742, "y": 0.611 }
+          ]
+        },
+        "spike_03": {
+          "translate": [
+            { "time": 0.1 },
+            { "time": 0.1667, "y": -22 },
+            { "time": 0.2667, "y": -36 }
+          ],
+          "scale": [
+            { "time": 0.1 },
+            { "time": 0.1667, "x": 0.826, "y": 0.88 },
+            { "time": 0.2667, "x": 0.668, "y": 0.713 }
+          ]
+        },
+        "back": {
+          "scale": [
+            {},
+            { "time": 0.0667, "x": 0.96, "y": 0.96 },
+            { "time": 0.1667, "x": 0.848, "y": 0.975 },
+            { "time": 0.2333, "x": 0.772, "y": 0.819 },
+            { "time": 0.4, "x": 0.416, "y": 0.363 }
+          ]
+        },
+        "spike_04": {
+          "translate": [
+            { "time": 0.1667 },
+            { "time": 0.2333, "x": -2, "y": -16 },
+            { "time": 0.2667, "x": -8, "y": -53 }
+          ],
+          "scale": [
+            { "time": 0.1667 },
+            { "time": 0.2333, "x": 0.94, "y": 0.87 },
+            { "time": 0.2667, "x": 0.837, "y": 0.766 }
+          ]
+        },
+        "spike_05": {
+          "translate": [
+            { "time": 0.1667 },
+            { "time": 0.2333, "x": 4, "y": -14 },
+            { "time": 0.2667, "x": 1, "y": -38 }
+          ],
+          "scale": [
+            { "time": 0.1667 },
+            { "time": 0.2333, "x": 0.91, "y": 0.87 },
+            { "time": 0.2667, "x": 0.712, "y": 0.774 }
+          ]
+        },
+        "spike_06": {
+          "translate": [
+            {},
+            { "time": 0.2333, "y": -4.59 },
+            { "time": 0.2667, "y": -7 },
+            { "time": 0.3333, "x": 1, "y": -35 },
+            { "time": 0.4333, "x": 1, "y": -59 }
+          ],
+          "scale": [
+            { "time": 0.2333 },
+            { "time": 0.2667, "x": 0.91, "y": 0.83 },
+            { "time": 0.3333, "x": 0.792, "y": 0.647 }
+          ]
+        },
+        "spike_07": {
+          "translate": [
+            {},
+            { "time": 0.1667, "y": -6.31 },
+            { "time": 0.2333, "y": -9.18 },
+            { "time": 0.2667, "y": -12.63 },
+            { "time": 0.3333, "y": -12 },
+            { "time": 0.4, "y": -50 },
+            { "time": 0.4333, "y": -56 }
+          ],
+          "scale": [
+            { "time": 0.2667 },
+            { "time": 0.3333, "x": 0.87, "y": 0.83 },
+            { "time": 0.4, "x": 0.792, "y": 0.755 }
+          ]
+        }
+      }
+    }
+  }
+}

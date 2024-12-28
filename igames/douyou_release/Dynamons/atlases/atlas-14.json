@@ -1,0 +1,268 @@
+{
+  "frames": {
+    "images/session/abilities/fx/rainbow.png": {
+      "frame": { "x": 2, "y": 2, "w": 1114, "h": 934 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 0, "w": 1114, "h": 934 },
+      "sourceSize": { "w": 1120, "h": 950 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/solo-shop/bg_offer.png": {
+      "frame": { "x": 1120, "y": 2, "w": 567, "h": 455 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 5, "w": 567, "h": 455 },
+      "sourceSize": { "w": 570, "h": 461 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/bg.png": {
+      "frame": { "x": 1120, "y": 461, "w": 566, "h": 473 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 7, "w": 566, "h": 473 },
+      "sourceSize": { "w": 566, "h": 480 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/bg_special_event.png": {
+      "frame": { "x": 1120, "y": 938, "w": 566, "h": 448 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 32, "w": 566, "h": 448 },
+      "sourceSize": { "w": 566, "h": 480 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/header_default_no_text.png": {
+      "frame": { "x": 2, "y": 1390, "w": 566, "h": 242 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 566, "h": 242 },
+      "sourceSize": { "w": 566, "h": 242 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/quick_disappear.png": {
+      "frame": { "x": 2, "y": 1636, "w": 552, "h": 252 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 22, "y": 44, "w": 552, "h": 252 },
+      "sourceSize": { "w": 598, "h": 311 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/bg_team_slots.png": {
+      "frame": { "x": 572, "y": 1390, "w": 550, "h": 464 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 3, "w": 550, "h": 464 },
+      "sourceSize": { "w": 560, "h": 470 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/zenix/front.png": {
+      "frame": { "x": 2, "y": 940, "w": 497, "h": 378 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 497, "h": 378 },
+      "sourceSize": { "w": 497, "h": 378 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/zenix/shape.png": {
+      "frame": { "x": 503, "y": 940, "w": 497, "h": 378 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 497, "h": 378 },
+      "sourceSize": { "w": 497, "h": 378 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lavalanto/shape.png": {
+      "frame": { "x": 1126, "y": 1390, "w": 496, "h": 362 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 496, "h": 362 },
+      "sourceSize": { "w": 498, "h": 364 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/rage_fire_ring.png": {
+      "frame": { "x": 1626, "y": 1390, "w": 409, "h": 428 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 13, "y": 8, "w": 409, "h": 428 },
+      "sourceSize": { "w": 440, "h": 440 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/zombie_guard.png": {
+      "frame": { "x": 1126, "y": 1756, "w": 423, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 12, "w": 423, "h": 288 },
+      "sourceSize": { "w": 434, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dreq/shape.png": {
+      "frame": { "x": 1691, "y": 2, "w": 355, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 355, "h": 378 },
+      "sourceSize": { "w": 366, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/erasodys/back.png": {
+      "frame": { "x": 1691, "y": 384, "w": 339, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 339, "h": 378 },
+      "sourceSize": { "w": 344, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/erasodys/front.png": {
+      "frame": { "x": 1690, "y": 766, "w": 342, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 342, "h": 378 },
+      "sourceSize": { "w": 344, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lapre/back.png": {
+      "frame": { "x": 1553, "y": 1822, "w": 304, "h": 206 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 3, "w": 304, "h": 206 },
+      "sourceSize": { "w": 308, "h": 210 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/aracnoyd/front.png": {
+      "frame": { "x": 1690, "y": 1148, "w": 268, "h": 206 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 1, "w": 268, "h": 206 },
+      "sourceSize": { "w": 273, "h": 210 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/huds/pane_thumb_water.png": {
+      "frame": { "x": 2, "y": 1892, "w": 232, "h": 126 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 2, "w": 232, "h": 126 },
+      "sourceSize": { "w": 240, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/team_slot.png": {
+      "frame": { "x": 238, "y": 1892, "w": 220, "h": 128 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 2, "w": 220, "h": 128 },
+      "sourceSize": { "w": 240, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/poison_gas.png": {
+      "frame": { "x": 462, "y": 1892, "w": 205, "h": 133 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 205, "h": 133 },
+      "sourceSize": { "w": 210, "h": 140 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/smoke.png": {
+      "frame": { "x": 671, "y": 1858, "w": 205, "h": 133 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 205, "h": 133 },
+      "sourceSize": { "w": 210, "h": 140 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/spidread/front.png": {
+      "frame": { "x": 880, "y": 1858, "w": 202, "h": 123 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 13, "w": 202, "h": 123 },
+      "sourceSize": { "w": 220, "h": 140 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/mister_pumpkin_icon.png": {
+      "frame": { "x": 1004, "y": 940, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/mysterious_man_icon.png": {
+      "frame": { "x": 1004, "y": 1054, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/nora_icon.png": {
+      "frame": { "x": 1004, "y": 1168, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/patrik_icon.png": {
+      "frame": { "x": 1861, "y": 1822, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/raider_icon.png": {
+      "frame": { "x": 1861, "y": 1936, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/reward_slot.png": {
+      "frame": { "x": 1004, "y": 1282, "w": 101, "h": 102 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 4, "w": 101, "h": 102 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/def_berry.png": {
+      "frame": { "x": 1962, "y": 1148, "w": 82, "h": 94 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 3, "w": 82, "h": 94 },
+      "sourceSize": { "w": 90, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/dust.png": {
+      "frame": { "x": 1962, "y": 1246, "w": 84, "h": 77 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 84, "h": 77 },
+      "sourceSize": { "w": 90, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/marker_scavenge.png": {
+      "frame": { "x": 1975, "y": 1822, "w": 62, "h": 74 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 3, "w": 62, "h": 74 },
+      "sourceSize": { "w": 70, "h": 80 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/marker_quest.png": {
+      "frame": { "x": 1975, "y": 1900, "w": 62, "h": 73 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 4, "w": 62, "h": 73 },
+      "sourceSize": { "w": 70, "h": 80 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-14.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 2048 },
+    "scale": 1
+  }
+}

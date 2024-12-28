@@ -1,0 +1,316 @@
+{
+  "frames": {
+    "images/general/mons/haboar/back.png": {
+      "frame": { "x": 2, "y": 2, "w": 463, "h": 347 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 463, "h": 347 },
+      "sourceSize": { "w": 465, "h": 350 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/haboar/front.png": {
+      "frame": { "x": 469, "y": 2, "w": 463, "h": 347 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 463, "h": 347 },
+      "sourceSize": { "w": 465, "h": 350 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/haboar/shape.png": {
+      "frame": { "x": 936, "y": 2, "w": 463, "h": 347 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 463, "h": 347 },
+      "sourceSize": { "w": 465, "h": 350 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/voltork/front.png": {
+      "frame": { "x": 1403, "y": 2, "w": 463, "h": 346 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 3, "w": 463, "h": 346 },
+      "sourceSize": { "w": 463, "h": 350 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/voltork/back.png": {
+      "frame": { "x": 1403, "y": 352, "w": 462, "h": 345 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 3, "w": 462, "h": 345 },
+      "sourceSize": { "w": 463, "h": 350 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/spikeolyx/shape.png": {
+      "frame": { "x": 2, "y": 353, "w": 459, "h": 328 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 459, "h": 328 },
+      "sourceSize": { "w": 461, "h": 330 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/visi/back.png": {
+      "frame": { "x": 465, "y": 353, "w": 459, "h": 367 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 459, "h": 367 },
+      "sourceSize": { "w": 479, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx_halloween/front.png": {
+      "frame": { "x": 2, "y": 685, "w": 456, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 456, "h": 377 },
+      "sourceSize": { "w": 459, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx_halloween/shape.png": {
+      "frame": { "x": 928, "y": 353, "w": 456, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 456, "h": 378 },
+      "sourceSize": { "w": 459, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/snegoryx/front.png": {
+      "frame": { "x": 462, "y": 724, "w": 456, "h": 367 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 456, "h": 367 },
+      "sourceSize": { "w": 458, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/snegoryx/shape.png": {
+      "frame": { "x": 2, "y": 1066, "w": 456, "h": 366 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 456, "h": 366 },
+      "sourceSize": { "w": 458, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/buzzsnap/shape.png": {
+      "frame": { "x": 1388, "y": 701, "w": 455, "h": 302 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 4, "w": 455, "h": 302 },
+      "sourceSize": { "w": 462, "h": 310 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx/back.png": {
+      "frame": { "x": 922, "y": 735, "w": 455, "h": 375 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 455, "h": 375 },
+      "sourceSize": { "w": 459, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx/front.png": {
+      "frame": { "x": 462, "y": 1095, "w": 455, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 455, "h": 377 },
+      "sourceSize": { "w": 459, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx/shape.png": {
+      "frame": { "x": 2, "y": 1436, "w": 455, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 455, "h": 377 },
+      "sourceSize": { "w": 459, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lionydys/shape.png": {
+      "frame": { "x": 461, "y": 1476, "w": 455, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 455, "h": 377 },
+      "sourceSize": { "w": 458, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lionydys_halloween/back.png": {
+      "frame": { "x": 920, "y": 1476, "w": 455, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 455, "h": 378 },
+      "sourceSize": { "w": 458, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/snegoryx/back.png": {
+      "frame": { "x": 1381, "y": 1007, "w": 455, "h": 368 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 455, "h": 368 },
+      "sourceSize": { "w": 458, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx_halloween/back.png": {
+      "frame": { "x": 1379, "y": 1379, "w": 454, "h": 375 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 454, "h": 375 },
+      "sourceSize": { "w": 459, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/spikeolyx/back.png": {
+      "frame": { "x": 921, "y": 1114, "w": 454, "h": 328 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 454, "h": 328 },
+      "sourceSize": { "w": 461, "h": 330 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/fengo/shape.png": {
+      "frame": { "x": 1379, "y": 1758, "w": 340, "h": 260 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 340, "h": 260 },
+      "sourceSize": { "w": 340, "h": 260 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/jovani-types.png": {
+      "frame": { "x": 1723, "y": 1758, "w": 318, "h": 279 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 21, "w": 318, "h": 279 },
+      "sourceSize": { "w": 326, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/fligoss/back.png": {
+      "frame": { "x": 1837, "y": 1379, "w": 208, "h": 306 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 3, "w": 208, "h": 306 },
+      "sourceSize": { "w": 210, "h": 313 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_electric/shape.png": {
+      "frame": { "x": 1847, "y": 701, "w": 199, "h": 300 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 199, "h": 300 },
+      "sourceSize": { "w": 200, "h": 301 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_malakite/front.png": {
+      "frame": { "x": 1847, "y": 1005, "w": 198, "h": 300 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 0, "w": 198, "h": 300 },
+      "sourceSize": { "w": 200, "h": 301 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/menza/front.png": {
+      "frame": { "x": 1870, "y": 2, "w": 174, "h": 254 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 174, "h": 254 },
+      "sourceSize": { "w": 180, "h": 260 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/menza/shape.png": {
+      "frame": { "x": 1870, "y": 260, "w": 174, "h": 254 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 174, "h": 254 },
+      "sourceSize": { "w": 180, "h": 260 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/beebot/back.png": {
+      "frame": { "x": 2, "y": 1817, "w": 208, "h": 229 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 1, "w": 208, "h": 229 },
+      "sourceSize": { "w": 220, "h": 270 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/beebot/front.png": {
+      "frame": { "x": 214, "y": 1817, "w": 210, "h": 229 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 1, "w": 210, "h": 229 },
+      "sourceSize": { "w": 220, "h": 270 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/boltage/icon.png": {
+      "frame": { "x": 1869, "y": 518, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/bozzodox/icon.png": {
+      "frame": { "x": 428, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/buzelle/icon.png": {
+      "frame": { "x": 542, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/buzzsnap/icon.png": {
+      "frame": { "x": 656, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/cappato/icon.png": {
+      "frame": { "x": 770, "y": 1857, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/cappatoise/icon.png": {
+      "frame": { "x": 884, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/crocynos/icon.png": {
+      "frame": { "x": 998, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/cybeenyx/icon.png": {
+      "frame": { "x": 1112, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/cybuzz/icon.png": {
+      "frame": { "x": 1226, "y": 1858, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-20.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 2048 },
+    "scale": 1
+  }
+}

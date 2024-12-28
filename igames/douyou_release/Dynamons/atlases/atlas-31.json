@@ -1,0 +1,476 @@
+{
+  "frames": {
+    "images/general/dialog/earth_elite_frankenstein.png": {
+      "frame": { "x": 2, "y": 2, "w": 247, "h": 291 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 9, "w": 247, "h": 291 },
+      "sourceSize": { "w": 326, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/pumpress/front.png": {
+      "frame": { "x": 2, "y": 297, "w": 277, "h": 290 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 0, "w": 277, "h": 290 },
+      "sourceSize": { "w": 279, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/klaude_dracula.png": {
+      "frame": { "x": 253, "y": 2, "w": 272, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 11, "w": 272, "h": 289 },
+      "sourceSize": { "w": 297, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kitine/back.png": {
+      "frame": { "x": 2, "y": 591, "w": 244, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 244, "h": 289 },
+      "sourceSize": { "w": 248, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kitine/shape.png": {
+      "frame": { "x": 2, "y": 884, "w": 244, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 244, "h": 289 },
+      "sourceSize": { "w": 248, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/pumpress/back.png": {
+      "frame": { "x": 2, "y": 1177, "w": 277, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 277, "h": 289 },
+      "sourceSize": { "w": 279, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/pumpress/shape.png": {
+      "frame": { "x": 2, "y": 1470, "w": 277, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 0, "w": 277, "h": 289 },
+      "sourceSize": { "w": 279, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/tyxad/front.png": {
+      "frame": { "x": 250, "y": 591, "w": 227, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 227, "h": 289 },
+      "sourceSize": { "w": 228, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/tyxad/shape.png": {
+      "frame": { "x": 250, "y": 884, "w": 227, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 227, "h": 289 },
+      "sourceSize": { "w": 228, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/klaude.png": {
+      "frame": { "x": 283, "y": 295, "w": 264, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 264, "h": 288 },
+      "sourceSize": { "w": 287, "h": 289 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_zenix/front.png": {
+      "frame": { "x": 529, "y": 2, "w": 259, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 259, "h": 288 },
+      "sourceSize": { "w": 261, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_zenix/shape.png": {
+      "frame": { "x": 283, "y": 1177, "w": 259, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 259, "h": 288 },
+      "sourceSize": { "w": 261, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/boarbaque/back.png": {
+      "frame": { "x": 283, "y": 1469, "w": 242, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 242, "h": 288 },
+      "sourceSize": { "w": 246, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/cappatoise/back.png": {
+      "frame": { "x": 529, "y": 1469, "w": 231, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 231, "h": 288 },
+      "sourceSize": { "w": 233, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dynabug/back.png": {
+      "frame": { "x": 481, "y": 587, "w": 270, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 270, "h": 288 },
+      "sourceSize": { "w": 275, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dynaski/back.png": {
+      "frame": { "x": 551, "y": 294, "w": 270, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 270, "h": 288 },
+      "sourceSize": { "w": 275, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/eraxad/back.png": {
+      "frame": { "x": 792, "y": 2, "w": 215, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 1, "w": 215, "h": 288 },
+      "sourceSize": { "w": 221, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/flowingo/back.png": {
+      "frame": { "x": 481, "y": 879, "w": 236, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 236, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/flowingo/front.png": {
+      "frame": { "x": 546, "y": 1171, "w": 236, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 236, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/flowingo/shape.png": {
+      "frame": { "x": 721, "y": 879, "w": 236, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 236, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kitine/front.png": {
+      "frame": { "x": 755, "y": 586, "w": 244, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 244, "h": 288 },
+      "sourceSize": { "w": 248, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kobalt/back.png": {
+      "frame": { "x": 825, "y": 294, "w": 236, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 236, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kobalt/front.png": {
+      "frame": { "x": 1011, "y": 2, "w": 238, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 238, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kobalt/shape.png": {
+      "frame": { "x": 764, "y": 1463, "w": 238, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 238, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/malakite/back.png": {
+      "frame": { "x": 786, "y": 1171, "w": 239, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 239, "h": 288 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/malakite/front.png": {
+      "frame": { "x": 961, "y": 878, "w": 238, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 238, "h": 288 },
+      "sourceSize": { "w": 240, "h": 291 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/malakite/shape.png": {
+      "frame": { "x": 1003, "y": 586, "w": 238, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 238, "h": 288 },
+      "sourceSize": { "w": 240, "h": 291 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/platypad/front.png": {
+      "frame": { "x": 1065, "y": 294, "w": 221, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 221, "h": 288 },
+      "sourceSize": { "w": 223, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/platypad/shape.png": {
+      "frame": { "x": 1253, "y": 2, "w": 220, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 220, "h": 288 },
+      "sourceSize": { "w": 223, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/ramethyst/front.png": {
+      "frame": { "x": 764, "y": 1755, "w": 270, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 2, "w": 270, "h": 288 },
+      "sourceSize": { "w": 282, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/ramethyst/shape.png": {
+      "frame": { "x": 1006, "y": 1463, "w": 270, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 2, "w": 270, "h": 288 },
+      "sourceSize": { "w": 282, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/scarykin/front.png": {
+      "frame": { "x": 1029, "y": 1170, "w": 246, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 246, "h": 288 },
+      "sourceSize": { "w": 248, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/scarykin/shape.png": {
+      "frame": { "x": 1203, "y": 878, "w": 246, "h": 288 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 246, "h": 288 },
+      "sourceSize": { "w": 248, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/fire_elite_guard.png": {
+      "frame": { "x": 1245, "y": 586, "w": 239, "h": 287 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 13, "w": 239, "h": 287 },
+      "sourceSize": { "w": 326, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/eraxad/front.png": {
+      "frame": { "x": 1290, "y": 294, "w": 220, "h": 287 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 220, "h": 287 },
+      "sourceSize": { "w": 221, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/eraxad/shape.png": {
+      "frame": { "x": 1477, "y": 2, "w": 220, "h": 287 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 220, "h": 287 },
+      "sourceSize": { "w": 221, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/nootnoot/front.png": {
+      "frame": { "x": 1279, "y": 1170, "w": 223, "h": 287 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 223, "h": 287 },
+      "sourceSize": { "w": 225, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/nootnoot/shape.png": {
+      "frame": { "x": 1453, "y": 877, "w": 223, "h": 287 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 3, "w": 223, "h": 287 },
+      "sourceSize": { "w": 225, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/boarbaque/front.png": {
+      "frame": { "x": 1488, "y": 585, "w": 241, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 241, "h": 286 },
+      "sourceSize": { "w": 246, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/boarbaque/shape.png": {
+      "frame": { "x": 1514, "y": 293, "w": 240, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 240, "h": 286 },
+      "sourceSize": { "w": 246, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/bobolt/front.png": {
+      "frame": { "x": 1701, "y": 2, "w": 252, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 252, "h": 286 },
+      "sourceSize": { "w": 258, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/bobolt/shape.png": {
+      "frame": { "x": 1038, "y": 1755, "w": 252, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 252, "h": 286 },
+      "sourceSize": { "w": 258, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/flarion/back.png": {
+      "frame": { "x": 1280, "y": 1461, "w": 234, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 234, "h": 286 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/flarion/front.png": {
+      "frame": { "x": 1506, "y": 1168, "w": 234, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 234, "h": 286 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/flarion/shape.png": {
+      "frame": { "x": 1680, "y": 875, "w": 234, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 234, "h": 286 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/krimson/front.png": {
+      "frame": { "x": 1733, "y": 583, "w": 240, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 2, "w": 240, "h": 286 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/krimson/shape.png": {
+      "frame": { "x": 1758, "y": 292, "w": 240, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 2, "w": 240, "h": 286 },
+      "sourceSize": { "w": 240, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/nootnoot/back.png": {
+      "frame": { "x": 1294, "y": 1751, "w": 209, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 209, "h": 286 },
+      "sourceSize": { "w": 212, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dynabug/front.png": {
+      "frame": { "x": 283, "y": 1761, "w": 274, "h": 285 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 3, "w": 274, "h": 285 },
+      "sourceSize": { "w": 278, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dynaski/front.png": {
+      "frame": { "x": 1507, "y": 1751, "w": 274, "h": 285 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 3, "w": 274, "h": 285 },
+      "sourceSize": { "w": 278, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/ramethyst/back.png": {
+      "frame": { "x": 1518, "y": 1458, "w": 277, "h": 285 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 1, "w": 277, "h": 285 },
+      "sourceSize": { "w": 282, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/vertoad/back.png": {
+      "frame": { "x": 1744, "y": 1165, "w": 234, "h": 285 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 234, "h": 285 },
+      "sourceSize": { "w": 237, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/vertoad/front.png": {
+      "frame": { "x": 1785, "y": 1747, "w": 233, "h": 285 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 233, "h": 285 },
+      "sourceSize": { "w": 237, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/vertoad/shape.png": {
+      "frame": { "x": 1799, "y": 1454, "w": 233, "h": 285 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 3, "w": 233, "h": 285 },
+      "sourceSize": { "w": 237, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/btn_prod_bg.png": {
+      "frame": { "x": 561, "y": 1761, "w": 190, "h": 284 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 3, "w": 190, "h": 284 },
+      "sourceSize": { "w": 190, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/cappatoise/front.png": {
+      "frame": { "x": 2, "y": 1763, "w": 222, "h": 283 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 222, "h": 283 },
+      "sourceSize": { "w": 227, "h": 287 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/slail/icon.png": {
+      "frame": { "x": 1918, "y": 873, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/sneg/icon.png": {
+      "frame": { "x": 1918, "y": 987, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-31.png",
+    "format": "RGBA8888",
+    "size": { "w": 2034, "h": 2048 },
+    "scale": 1
+  }
+}

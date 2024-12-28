@@ -1,0 +1,1482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSG7B4LXBH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TSG7B4LXBH');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9717115345264951"
+     crossorigin="anonymous"></script>
+<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <title>IceTeaGame - Action</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="Online games, mobile games, Html5 games, cartoon games, casual games, kids games, casual games, kids games. family games, dress up games. girls games, adventure games. cute games, simulation games. educational games, cooking games, puzzle games, 3d games, social games, multiplayer games, 2 player games, 2d games, single player games, boy games, action games, Halloween games, puzzle games, free games, android games, ios games">
+    <meta name="description" content="Welcome to miggame.com, where the virtual world comes alive with boundless gaming adventures! We are a passionate and innovative gaming company dedicated to providing gamers of all ages with a diverse range of captivating online and downloadable games. Our commitment to excellence, creativity, and a seamless user experience sets us apart in the gaming industry. With a talented team of developers, designers, and enthusiasts, we strive to create a haven where players can immerse themselves in thrilling gaming experiences that push the boundaries of imagination.">
+    <link rel="icon" type="image/png" href="/gamebox/img/favicon-128.png" sizes="128x128"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/font/iconfont.css"/>
+    <link rel="stylesheet" type="text/css" href="/layui/css/layui.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/swiper/swiper-bundle.min.css"/>
+    <script src="/gamebox/js/jquery.min.js"></script>
+    <script src="/gamebox/swiper/swiper-bundle.min.js"></script>
+    <script src="/layui/layui.all.js"></script>
+    <script src="/gamebox/js/lazyload.js"></script>
+    <script src="/gamebox/js/fastclick.js"></script>
+
+    <script>
+        var layRate = null;
+        layui.use("rate",function (){
+            layRate = layui.rate;
+            layRate.config={
+                readonly: true,
+                half: false,
+            };
+        })
+    </script>
+    
+    
+                
+</head>
+<body id="main">  
+<header class="headMain">
+        <div class="container headBox" id="headBox">
+            <a href="/" class="branchL">
+                <img src="/gamebox/img/logo.png" alt="">
+                <p tran="title" >Game Box</p>
+            </a>
+            <div class="branchR">
+                <div class="boxSearch ">
+                    <div id="searchIcon" class="searchIcon">
+                        <i class="iconfont icon-search-line"></i>
+                    </div>
+                    <div class="searchBox" id="searchBox">
+                        <input type="text" class="inputshow" id="searchB" autocomplete="off"  placeholder="Search For Games">
+                        <button onclick="search()"><i class="iconfont icon-search-line"></i></button>
+                        <ul class="gameName">
+                                                                <li>
+                                        <a href="/interest/search?keyword=Airpor">
+                                            Airpor                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Crazy">
+                                            Crazy                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=2048">
+                                            2048                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=2020">
+                                            2020                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Candy">
+                                            Candy                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Zombie">
+                                            Zombie                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Army">
+                                            Army                                        </a>
+                                    </li>
+                                                                                    </ul>
+                    </div>
+                </div>
+                <a href="/interest/collect" class="collect"> <i class="iconfont icon-heart-3-fill"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main">
+        <div class="containerBox">
+            <div class="lBox">
+                <div class="category">
+                    <div class="title">
+                        <h2 tran="category" >Game Category</h2>
+                        <a href="javascript:;" class="menu-open">
+                            <i class="iconfont icon-menu-unfold-line"></i>
+                        </a>
+                        <a href="javascript:;" class="close-menu">
+                            <i class="iconfont icon-menu-fold-line"></i>
+                        </a>
+                    </div>
+                    <ul class="categoryBox">
+                        <li >
+                            <a href="/">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <p tran="home" >Home</p>
+                            </a>
+                        </li>
+                                                        <li >
+                                    <a href="/interest/list/2">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <p tran="puzzle" >Puzzle</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/3">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <p tran="kids" >Kids</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/14">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <p tran="adventure" >Adventure</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/32">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <p tran="sports" >Sports</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/41">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <p tran="racing" >Racing</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/46">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <p tran="girl" >Girl</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/90">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <p tran="hot" >Hot</p>
+                                    </a>
+                                </li>
+                                                            <li class="active">
+                                    <a href="/interest/list/91">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <p tran="action" >Action</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/94">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <p tran="arcade" >Arcade</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/235">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <p tran="casual" >Casual</p>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </div>
+                <div class="swiper category-swiper">
+                    <ul class="swiper-wrapper" id="swiper-list">
+                        <li class="swiper-slide ">
+                            <a href="/">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <p tran="home" >Home</p>
+                            </a>
+                        </li>
+                                                        <li class="swiper-slide ">
+                                    <a href="/interest/list/2">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <p tran="puzzle" >Puzzle</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/3">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <p tran="kids" >Kids</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/14">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <p tran="adventure" >Adventure</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/32">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <p tran="sports" >Sports</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/41">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <p tran="racing" >Racing</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/46">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <p tran="girl" >Girl</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/90">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <p tran="hot" >Hot</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide active">
+                                    <a href="/interest/list/91">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <p tran="action" >Action</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/94">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <p tran="arcade" >Arcade</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/235">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <p tran="casual" >Casual</p>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </div>
+            
+        <div class="rBox">
+            <div class="swiper history-swiper" id="historyBox" >
+                <h2> <i class="iconfont icon-history-line"></i> <span tran="history" >History</span> </h2>
+                <ul class="swiper-wrapper"  id="history">
+                </ul>
+            </div>
+            <div class=" adList">
+                <div class="ad">
+                    <p>Advertisement</p>
+                                    </div>
+                <div class="ad">
+                    <p>Advertisement</p>
+                                    </div>
+                <div class="ad">
+                    <p>Advertisement</p>
+                                    </div>
+            </div>
+            <div class="gameList">
+                <div class="title">
+                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                    <p tran="action">Action</p>
+                </div>
+                <div class="gameCont" id="gameCont">
+                    <ul class="listBox">
+                                                        <li>
+                                    <a href="/interest/detail/91/2328">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20241126/bd3e217dfa11ec6094a19cfac3489099.jpg" class="lazyLoad" data-src="/uploads/gamepic/20241126/bd3e217dfa11ec6094a19cfac3489099.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Beat Blader 3D                                            </dt>
+                                            <dd>
+                                                <span>2.2K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2312">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20240910/c3b9075101e7ac77c2f5d3bb31094a94.jpg" class="lazyLoad" data-src="/uploads/gamepic/20240910/c3b9075101e7ac77c2f5d3bb31094a94.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Zombie Hunter Survival                                            </dt>
+                                            <dd>
+                                                <span>10.4K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                                    <span class="hotIcon">
+                                                <i class="iconfont icon-fire-line"></i>
+                                            </span>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2288">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20240607/d102e051ab70bb5f350bdd7e6e88b89d.jpg" class="lazyLoad" data-src="/uploads/gamepic/20240607/d102e051ab70bb5f350bdd7e6e88b89d.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Royal Rush                                            </dt>
+                                            <dd>
+                                                <span>32.4K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2286">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20240524/7831128e379b592ebd152505e518ed00.jpg" class="lazyLoad" data-src="/uploads/gamepic/20240524/7831128e379b592ebd152505e518ed00.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Fly or Die                                            </dt>
+                                            <dd>
+                                                <span>53.9K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                                    <span class="hotIcon">
+                                                <i class="iconfont icon-fire-line"></i>
+                                            </span>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2279">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20240428/17dca2d168515f85e7bfa8890e0633d5.png" class="lazyLoad" data-src="/uploads/gamepic/20240428/17dca2d168515f85e7bfa8890e0633d5.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Shape Shifting                                            </dt>
+                                            <dd>
+                                                <span>1889K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                                    <span class="hotIcon">
+                                                <i class="iconfont icon-fire-line"></i>
+                                            </span>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2247">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20240115/13f2c74af471e37d97dce9ebf6e78dae.jpg" class="lazyLoad" data-src="/uploads/gamepic/20240115/13f2c74af471e37d97dce9ebf6e78dae.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Zombies Cookies Apocalypse                                            </dt>
+                                            <dd>
+                                                <span>66.2K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2214">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20231129/Magica_Battle_512_512.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Magica_Battle_512_512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Magica Battle                                            </dt>
+                                            <dd>
+                                                <span>68.5K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2206">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20231129/City_Baby_Agent_512_512.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/City_Baby_Agent_512_512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                City Baby Agent                                            </dt>
+                                            <dd>
+                                                <span>38.9K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2197">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20231123/fab496bd57cad5ae4f904e3eb08344cf.PNG" class="lazyLoad" data-src="/uploads/gamepic/20231123/fab496bd57cad5ae4f904e3eb08344cf.PNG" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Parkour Race                                            </dt>
+                                            <dd>
+                                                <span>226K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2194">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20231114/f6b7e173d2fce11f3a57d4e1366e8dc7.jpg" class="lazyLoad" data-src="/uploads/gamepic/20231114/f6b7e173d2fce11f3a57d4e1366e8dc7.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Skibidi Hero iO                                            </dt>
+                                            <dd>
+                                                <span>75.5K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                                    <span class="hotIcon">
+                                                <i class="iconfont icon-fire-line"></i>
+                                            </span>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2186">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20231021/a0ef511652dea724f66ed63ac2ebbfec.jpeg" class="lazyLoad" data-src="/uploads/gamepic/20231021/a0ef511652dea724f66ed63ac2ebbfec.jpeg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Ninja Ranmaru                                            </dt>
+                                            <dd>
+                                                <span>96.9K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2179">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230830/3d0d5d001fa660ae24c45a6963ae9d71.png" class="lazyLoad" data-src="/uploads/gamepic/20230830/3d0d5d001fa660ae24c45a6963ae9d71.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Super Tornado.io                                            </dt>
+                                            <dd>
+                                                <span>252K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2178">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230828/50ca1b8f0d692c6e145fa8e59be4c97f.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230828/50ca1b8f0d692c6e145fa8e59be4c97f.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Draw Joust                                            </dt>
+                                            <dd>
+                                                <span>233K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2171">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230804/879309fbdf0ce4f0971f3424bbe267b3.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230804/879309fbdf0ce4f0971f3424bbe267b3.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Archery Master                                            </dt>
+                                            <dd>
+                                                <span>136K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2165">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230717/2ca72649c4de0b469ee99b083fee01c3.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230717/2ca72649c4de0b469ee99b083fee01c3.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Impostor Assassin                                            </dt>
+                                            <dd>
+                                                <span>205K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2121">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230322/ConnBlock_512x512.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/ConnBlock_512x512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Conn Block                                            </dt>
+                                            <dd>
+                                                <span>93.5K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                                    <span class="hotIcon">
+                                                <i class="iconfont icon-fire-line"></i>
+                                            </span>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2106">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230307/Space_Fighter_512x512.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Space_Fighter_512x512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Space Fighter                                            </dt>
+                                            <dd>
+                                                <span>158K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2105">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230307/Car_Rocket_512x512.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Car_Rocket_512x512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Car Rocket 2                                            </dt>
+                                            <dd>
+                                                <span>139K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2104">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230307/space-attack_512x512.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/space-attack_512x512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Space Attack                                            </dt>
+                                            <dd>
+                                                <span>131K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2103">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230307/Air_Force_Commando_512x512.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Air_Force_Commando_512x512.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Air Force Commando                                            </dt>
+                                            <dd>
+                                                <span>142K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="/interest/detail/91/2100">
+                                        <div class="thumb">
+                                            <img src="/uploads/gamepic/20230302/Spin_Master_512x512.jpeg" class="lazyLoad" data-src="/uploads/gamepic/20230302/Spin_Master_512x512.jpeg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>
+                                                Spin Master                                            </dt>
+                                            <dd>
+                                                <span>58.7K</span>
+                                                Player
+                                            </dd>
+                                        </dl>
+                                                                                    <span class="hotIcon">
+                                                <i class="iconfont icon-fire-line"></i>
+                                            </span>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                    <div class="ad">
+                        <p>Advertisement</p>
+                                            </div>
+                <ul class="listBox">
+                            <li>
+                             <a href="/interest/detail/91/2090">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230221/CrazyBoxer_512x512.jpeg" class="lazyLoad" data-src="/uploads/gamepic/20230221/CrazyBoxer_512x512.jpeg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Crazy Boxer
+                                     </dt>
+                                     <dd>
+                                         <span>119K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2080">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230210/Warriors_io_512x512.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230210/Warriors_io_512x512.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Warriors io
+                                     </dt>
+                                     <dd>
+                                         <span>123K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2062">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230203/Monster_Shooter_World_512x512.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230203/Monster_Shooter_World_512x512.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Monster Shooter World
+                                     </dt>
+                                     <dd>
+                                         <span>71K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1753">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220413/946ef35a21801ba576e4c4368acca213.png" class="lazyLoad" data-src="/uploads/gamepic/20220413/946ef35a21801ba576e4c4368acca213.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Hero Shooter
+                                     </dt>
+                                     <dd>
+                                         <span>484K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2313">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20241024/971044c08ef93152ccdc00713bb56a52.jpg" class="lazyLoad" data-src="/uploads/gamepic/20241024/971044c08ef93152ccdc00713bb56a52.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Alien Hunters
+                                     </dt>
+                                     <dd>
+                                         <span>2.9K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2180">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230912/86fd6b2e1ac674f4f627f42b5e8ef6d0.png" class="lazyLoad" data-src="/uploads/gamepic/20230912/86fd6b2e1ac674f4f627f42b5e8ef6d0.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Stick Defenders
+                                     </dt>
+                                     <dd>
+                                         <span>62.1K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2150">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230620/c774acea3eea15bac1b377acb579d749.png" class="lazyLoad" data-src="/uploads/gamepic/20230620/c774acea3eea15bac1b377acb579d749.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Desert Duel
+                                     </dt>
+                                     <dd>
+                                         <span>76.5K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2148">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230613/2afec46331cb1b70c1aebf44f4b207ea.png" class="lazyLoad" data-src="/uploads/gamepic/20230613/2afec46331cb1b70c1aebf44f4b207ea.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Operational Cars
+                                     </dt>
+                                     <dd>
+                                         <span>72.3K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2077">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230210/MiniWar_512x512.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230210/MiniWar_512x512.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Mini War
+                                     </dt>
+                                     <dd>
+                                         <span>18.7K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2064">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230203/Fast_Lane_Road_To_Revenge_512x512.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230203/Fast_Lane_Road_To_Revenge_512x512.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Fast Lane Road To Revenge
+                                     </dt>
+                                     <dd>
+                                         <span>44.5K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2061">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20230203/Bloody_Battle_512x512.jpg" class="lazyLoad" data-src="/uploads/gamepic/20230203/Bloody_Battle_512x512.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Bloody Battle
+                                     </dt>
+                                     <dd>
+                                         <span>21.7K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2043">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221118/Blade_Master.jpg" class="lazyLoad" data-src="/uploads/gamepic/20221118/Blade_Master.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Blade Master
+                                     </dt>
+                                     <dd>
+                                         <span>32.2K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2042">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221118/Thief_Master.png" class="lazyLoad" data-src="/uploads/gamepic/20221118/Thief_Master.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Thief Master
+                                     </dt>
+                                     <dd>
+                                         <span>19.8K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2039">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221118/Stickman_Jump.png" class="lazyLoad" data-src="/uploads/gamepic/20221118/Stickman_Jump.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Stickman Jump
+                                     </dt>
+                                     <dd>
+                                         <span>30.3K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1999">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221017/Knock_Rush.png" class="lazyLoad" data-src="/uploads/gamepic/20221017/Knock_Rush.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Knock Rush
+                                     </dt>
+                                     <dd>
+                                         <span>48.5K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1961">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221011/super_tankers.png" class="lazyLoad" data-src="/uploads/gamepic/20221011/super_tankers.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Super Tankers
+                                     </dt>
+                                     <dd>
+                                         <span>24.2K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1957">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221011/Secret_Agent.png" class="lazyLoad" data-src="/uploads/gamepic/20221011/Secret_Agent.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Secret Agent
+                                     </dt>
+                                     <dd>
+                                         <span>62.8K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1923">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220701/Popsicle_Stack.png" class="lazyLoad" data-src="/uploads/gamepic/20220701/Popsicle_Stack.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Popsicle Stack
+                                     </dt>
+                                     <dd>
+                                         <span>4121K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1896">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220505/Happy_brick.jpg" class="lazyLoad" data-src="/uploads/gamepic/20220505/Happy_brick.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Happy brick
+                                     </dt>
+                                     <dd>
+                                         <span>206K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1893">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220505/Jelly-World.jpg" class="lazyLoad" data-src="/uploads/gamepic/20220505/Jelly-World.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Jelly World
+                                     </dt>
+                                     <dd>
+                                         <span>239K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1887">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220505/Line_Color_3D.jpg" class="lazyLoad" data-src="/uploads/gamepic/20220505/Line_Color_3D.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Line Color 3D
+                                     </dt>
+                                     <dd>
+                                         <span>317K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1884">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220505/Hop_Ball.jpg" class="lazyLoad" data-src="/uploads/gamepic/20220505/Hop_Ball.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Hop Ball
+                                     </dt>
+                                     <dd>
+                                         <span>376K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1818">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/Thrilling-Snow-Motor.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/Thrilling-Snow-Motor.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Thrilling Snow Motor
+                                     </dt>
+                                     <dd>
+                                         <span>157K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1817">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/tank_zombies.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/tank_zombies.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Tank Zombies
+                                     </dt>
+                                     <dd>
+                                         <span>149K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li></ul><ul class="listBox">
+                            <li>
+                             <a href="/interest/detail/91/1816">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/SuperSpyFig.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/SuperSpyFig.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Super Spy Fig
+                                     </dt>
+                                     <dd>
+                                         <span>170K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1814">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220425/5b49c27fbdbbfd9c62eb68c0a023e154.jpg" class="lazyLoad" data-src="/uploads/gamepic/20220425/5b49c27fbdbbfd9c62eb68c0a023e154.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Squidly Hide And Seek
+                                     </dt>
+                                     <dd>
+                                         <span>50.4K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1813">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/Squid-Game-Survival.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/Squid-Game-Survival.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Squid Game Survival
+                                     </dt>
+                                     <dd>
+                                         <span>599K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1807">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/1dbb4fabdb70ce03453d762ffe65babb.jpg" class="lazyLoad" data-src="/uploads/gamepic/20220420/1dbb4fabdb70ce03453d762ffe65babb.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Ski Rush 3D
+                                     </dt>
+                                     <dd>
+                                         <span>147K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1806">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/Ski-Master-3d.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/Ski-Master-3d.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Ski Master 3d
+                                     </dt>
+                                     <dd>
+                                         <span>172K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1784">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/Join-Clash-3d-Online.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/Join-Clash-3d-Online.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Join Clash 3d Online
+                                     </dt>
+                                     <dd>
+                                         <span>372K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1770">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/CyberpunkHero.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/CyberpunkHero.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Cyberpunk Hero
+                                     </dt>
+                                     <dd>
+                                         <span>141K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1769">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/CRAZY_INTERSECTION.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/CRAZY_INTERSECTION.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        CRAZY INTERSECTION
+                                     </dt>
+                                     <dd>
+                                         <span>184K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1768">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/Crazy_Gunner.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/Crazy_Gunner.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Crazy Gunner
+                                     </dt>
+                                     <dd>
+                                         <span>244K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1767">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20220420/Count-Master-3d.png" class="lazyLoad" data-src="/uploads/gamepic/20220420/Count-Master-3d.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Count Master 3d
+                                     </dt>
+                                     <dd>
+                                         <span>188K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2244">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20240105/1b0529599e37553cd7781c25144871f2.jpg" class="lazyLoad" data-src="/uploads/gamepic/20240105/1b0529599e37553cd7781c25144871f2.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Construction Ramp Jumping
+                                     </dt>
+                                     <dd>
+                                         <span>44.6K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/1958">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20221011/SquidgameOnline.png" class="lazyLoad" data-src="/uploads/gamepic/20221011/SquidgameOnline.png" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Squid Game Online
+                                     </dt>
+                                     <dd>
+                                         <span>86.8K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2233">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20231204/251cd622605b0259d9ec688f4ad4cfd9.jpg" class="lazyLoad" data-src="/uploads/gamepic/20231204/251cd622605b0259d9ec688f4ad4cfd9.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        NARUTOvsBLEACH
+                                     </dt>
+                                     <dd>
+                                         <span>220K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2198">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20231123/4618a9e40faf615995b910b0254bd981.jpg" class="lazyLoad" data-src="/uploads/gamepic/20231123/4618a9e40faf615995b910b0254bd981.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Wobbly Boxing
+                                     </dt>
+                                     <dd>
+                                         <span>132K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>
+                            <li>
+                             <a href="/interest/detail/91/2193">
+                                 <div class="thumb">
+                                     <img src="/uploads/gamepic/20231114/4eb2eaddfbcbfcf85832bc093956a28a.jpg" class="lazyLoad" data-src="/uploads/gamepic/20231114/4eb2eaddfbcbfcf85832bc093956a28a.jpg" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        Stick Fight Combo
+                                     </dt>
+                                     <dd>
+                                         <span>154K</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li></ul></div>
+            </div>
+            <p id="notice"><span style="color: rgba(0, 0, 0, 0.45)">That's all :)</span> </p>
+            <footer>
+                <p>©2022 Game Box</p>
+                <a href="/interest/privacy" tran="privacy" >Privacy Policy</a>
+                <a href="/interest/terms" tran="terms">Terms Of Use</a>
+                <a href="javascript:;" id="translate" data-la=""  ></a>
+            </footer>
+        </div>
+    </div>
+</div>
+
+            
+		</div>
+    </div>
+</div>
+<script type="text/javascript">
+var zh ={
+    title:"游戏中心",
+    history:"历史记录",
+    category:"游戏分类",
+    home:"首页",
+    recommend:"游戏推荐",
+    hotgames:"热门游戏",
+    collect:"收藏",
+    Like:"喜欢此游戏",
+    play:"游玩",
+    tips:"帮助我们为您量身定制精彩的游戏体验 :)",
+    description:"描述",
+    instruction:"介绍",
+    mightLike:"猜你喜欢",
+    privacy:"隐私",
+    terms:"条款",
+    read:"阅读更多",
+    casual:"休闲",
+    puzzle:"解谜",
+    action:"动作",
+    adventure:"冒险",
+    sports:"运动",
+    arcade:"街机",
+    search:"搜索结果",
+    favorite:"喜欢的游戏",
+    edit:"编辑",
+    edit1:"完成"
+};
+
+var en = {
+    title:"Game Box",
+    history:"history",
+    category:"Game Category",
+    home:"Home",
+    recommend:"Recommend",
+    hotgames:"Hot Games",
+    collect:"Collect",
+    Like:"Like This Game",
+    play:"PLAY",
+    tips:"Help us tailor a great gaming experience for you :)",
+    description:"Description",
+    instruction:"Instruction",
+    mightLike:"You Might Like It",
+    privacy:"Privacy",
+    terms:"Terms Of Use",
+    read:"Read More",
+    casual:"Casual",
+    puzzle:"Puzzle",
+    action:"Action",
+    adventure:"Adventure",
+    sports: "Sports",
+    arcade:"Arcade",
+    search:"Search Result",
+    favorite:"Favorite Games",
+    edit:"Edit",
+    edit1:"Done"
+}
+        en.puzzle = "Puzzle";
+        zh.puzzle = "解谜";
+            en.kids = "Kids";
+        zh.kids = "儿童";
+            en.adventure = "Adventure";
+        zh.adventure = "冒险";
+            en.sports = "Sports";
+        zh.sports = "运动";
+            en.racing = "Racing";
+        zh.racing = "竞速";
+            en.girl = "Girl";
+        zh.girl = "女孩";
+            en.hot = "Hot";
+        zh.hot = "热门游戏";
+            en.action = "Action";
+        zh.action = "动作";
+            en.arcade = "Arcade";
+        zh.arcade = "街机";
+            en.casual = "Casual";
+        zh.casual = "休闲";
+    </script>
+<script src="/gamebox/js/main.js"></script>
+
+<script>
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+        $('.adList').addClass('act')
+    }
+    
+    var ids = localStorage.getItem("games-ids");
+
+    function sortdata(data1,data2) {
+        return data1.map(n=>{return data2.filter(nn=>nn.gameId == n)[0]}).filter(n=>n);
+    }
+
+    if(!ids){
+        res='';
+        $('#historyBox').empty();
+    }else{
+        $.ajax({
+                type: 'get',
+                url: '/interest/api/infos?ids='+ids,
+                dataType:'jsonp',
+                processData: false,
+                jsonp: "callback",
+                jsonpCallback:"jsonpCallback",
+                cache: true,
+                success:function (result) {
+                    if(result.code == 1) {
+                        var res = "";
+                        sortdata(ids.split(','),result.data).forEach(result=>{
+                            res+=`
+                     <li class="swiper-slide">
+                         <a href="/interest/detail/${result.classId}/${result.gameId}">
+                             <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="${result.icon}" alt="">
+                         </a>
+                     </li>
+
+                    `;
+                        });
+                        $('#history').append(res);
+                        $("img.lazyLoad").lazyload();
+                    }
+                }
+            }
+        )
+    }
+
+    // $('#notice').html("<i class=\"iconfont icon-loader-4-line\"></i>Loading...");
+    // function throttle(fn,delay){
+    //     var timer;
+    //     return function (){
+    //         var _this = this;
+    //         var arg = arguments;
+    //         if(timer){
+    //             return ;
+    //         }
+    //         timer = setTimeout(function (){
+    //             fn.apply(_this,arg);
+    //             timer = null;
+    //         },delay);
+    //     }
+    // }
+    var throttleFn = throttle(scrollEvent,1000);
+
+    var isloading = true;
+
+    var page = 2;
+    function scrollEvent(){
+        // 滚动区域到头部的距离
+        var scrollTop = $(this).scrollTop();
+        // 可滚动的高度
+        var scrollHeight = $(document).height();
+        // 屏幕的高度
+        var windowHeight = $(this).height();
+        if (scrollTop + windowHeight  + 80 >= scrollHeight && isloading) {
+            scrollAjax();
+        }
+    }
+
+    function scrollAjax (){
+        $.ajax({
+            type: 'GET',
+            url: "/interest/more/91/"+page+'/24',
+            dataType: 'json',
+            success: function (result) {
+                // var result = JSON.parse(result);
+                var res = "";
+                var resCont = "";
+                var resAd = "";
+                var pageCount = typeof(result)!= 'undefined' ? result.length : 0;
+                if (result.length >= 1){
+                    if (pageCount > 0) { //pageCount > 0
+                        isloading = true;
+                        $.each(result, function (i, item) {
+                            // 游戏图标循环
+                            resCont+=`
+                            <li>
+                             <a href="/interest/detail/${item.classId}/${item.gameId}">
+                                 <div class="thumb">
+                                     <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="${item.icon}" alt="">
+                                 </div>
+                                 <dl>
+                                     <dt>
+                                        ${item.name}
+                                     </dt>
+                                     <dd>
+                                         <span>${item.playtime}</span>
+                                         Player
+                                     </dd>
+                                 </dl>
+                             </a>
+                         </li>`
+                        });
+                        // 整体模块渲染
+                        res=
+                            `<ul class="listBox">`
+                            + resCont+ `</ul>`;
+                        $('#gameCont').append(res);
+                        page++;
+                    }else {
+                        $('#notice').html(" <span style='color: rgba(0, 0, 0, 0.45)'>That's all :)</span>")
+                        isloading = false;
+                    }
+                }else {
+                    $('#notice').html(" <span style='color: rgba(0, 0, 0, 0.45)'>That's all :)</span>")
+                    isloading = false;
+                }
+                $("img.lazyLoad").lazyload();
+            },
+            error:function (result) {
+                $('#notice').html("<i class=\"iconfont icon-error-warning-line\"></i>Loading...")
+            }
+        });
+    }
+
+    if (document.body.clientHeight > 1080){
+        scrollAjax()
+    }
+
+    $(window).scroll(function (){
+        throttleFn();
+    });
+
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8f143e35bb218512',t:'MTczNDA3NDk2NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

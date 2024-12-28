@@ -1,0 +1,76 @@
+
+timer.png
+size: 1638, 322
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+numbers/0
+  rotate: false
+  xy: 1277, 22
+  size: 122, 147
+  orig: 320, 320
+  offset: 99, 87
+  index: -1
+numbers/1
+  rotate: false
+  xy: 1401, 28
+  size: 68, 143
+  orig: 320, 320
+  offset: 117, 90
+  index: -1
+numbers/2
+  rotate: false
+  xy: 1519, 174
+  size: 117, 146
+  orig: 320, 320
+  offset: 101, 88
+  index: -1
+numbers/3
+  rotate: false
+  xy: 1277, 171
+  size: 121, 149
+  orig: 320, 320
+  offset: 98, 86
+  index: -1
+numbers/4
+  rotate: true
+  xy: 1471, 45
+  size: 126, 142
+  orig: 320, 320
+  offset: 97, 90
+  index: -1
+numbers/5
+  rotate: false
+  xy: 1400, 173
+  size: 117, 147
+  orig: 320, 320
+  offset: 101, 86
+  index: -1
+timer-back
+  rotate: false
+  xy: 962, 7
+  size: 313, 313
+  orig: 320, 320
+  offset: 3, 4
+  index: -1
+timer-green
+  rotate: false
+  xy: 2, 2
+  size: 318, 318
+  orig: 320, 320
+  offset: 1, 1
+  index: -1
+timer-red
+  rotate: false
+  xy: 322, 2
+  size: 318, 318
+  orig: 320, 320
+  offset: 1, 1
+  index: -1
+timer-yellow
+  rotate: false
+  xy: 642, 2
+  size: 318, 318
+  orig: 320, 320
+  offset: 1, 1
+  index: -1

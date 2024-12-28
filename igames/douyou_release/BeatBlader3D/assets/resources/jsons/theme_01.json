@@ -1,0 +1,523 @@
+{
+  "name": "theme_01",
+  "tags": [],
+  "enabled": true,
+  "children": [
+    {
+      "name": "Road",
+      "position": [0, 0, -10],
+      "scale": [7, 1, 200],
+      "components": {
+        "render": {
+          "type": "plane",
+          "materialAssets": ["mat_road.json"],
+          "layers": [0]
+        }
+      }
+    },
+    {
+      "name": "frog_theme_2_1",
+      "position": [0, 0.988, 37.1182],
+      "rotation": [-65, 0, 0],
+      "scale": [300, 9, 20],
+      "components": {
+        "render": {
+          "type": "plane",
+          "materialAssets": ["mat_fog_1.json"],
+          "layers": [0]
+        }
+      }
+    },
+    {
+      "name": "frog_theme_2_2",
+      "position": [0, 2.502, 46.3357],
+      "rotation": [-65, 0, 0],
+      "scale": [300, 9, 50.46],
+      "components": {
+        "render": {
+          "type": "plane",
+          "materialAssets": ["mat_fog_1.json"],
+          "layers": [0]
+        }
+      }
+    },
+    {
+      "name": "frog_theme_2_3",
+      "position": [0, 2.502, 75.7836],
+      "rotation": [-65, 0, 0],
+      "scale": [300, 9, 300],
+      "components": {
+        "render": {
+          "type": "plane",
+          "materialAssets": ["mat_fog_2.json"],
+          "layers": [0]
+        }
+      }
+    },
+    {
+      "name": "boxRotate",
+      "children": [
+        {
+          "name": "BoxCover",
+          "position": [0, 0.5344, 91.4407],
+          "rotation": [15, 0, 0],
+          "scale": [2, 2, 2],
+          "components": {
+            "render": {
+              "type": "box",
+              "materialAssets": ["mat_box_cover.json"],
+              "layers": [0]
+            }
+          }
+        },
+        {
+          "name": "boxRotate1",
+          "children": [
+            {
+              "name": "boxRotateContainer1",
+              "children": [
+                {
+                  "name": "Box",
+                  "position": [0, -86.277, 45.258],
+                  "rotation": [-60, 0, 0],
+                  "scale": [0.1, 0.1, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_box_rotate.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box",
+                  "position": [-49.993, 70.814, 44.86],
+                  "rotation": [45, 45, 0],
+                  "scale": [0.1, 0.1, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_box_rotate.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box",
+                  "position": [49.993, 70.814, 44.86],
+                  "rotation": [45, -45, 0],
+                  "scale": [0.1, 0.1, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_box_rotate.json"],
+                      "layers": [0]
+                    }
+                  }
+                }
+              ],
+              "position": [0, 25, 0],
+              "rotation": [15, 0, 0]
+            }
+          ],
+          "position": [0, 0, 0]
+        },
+        {
+          "name": "boxRotate2",
+          "children": [
+            {
+              "name": "boxRotateContainer2",
+              "children": [
+                {
+                  "name": "Box",
+                  "position": [-69.537, 12.017, 23.9936],
+                  "rotation": [0, 45, -10],
+                  "scale": [0.1, 0.1, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_box_rotate.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box",
+                  "position": [70.392, -12.1647, 23.703],
+                  "rotation": [0, -45, -10],
+                  "scale": [0.1, 0.1, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_box_rotate.json"],
+                      "layers": [0]
+                    }
+                  }
+                }
+              ],
+              "position": [0, 25, 0],
+              "rotation": [15, 0, 0]
+            }
+          ],
+          "position": [0, 0, 0]
+        }
+      ],
+      "position": [0, -2.2, 10]
+    },
+    {
+      "name": "lightStick",
+      "children": [
+        {
+          "name": "lightStickContainer1",
+          "enabled": false,
+          "children": [
+            {
+              "name": "Box1",
+              "position": [0, 0, 0],
+              "rotation": [35, 90, 0],
+              "scale": [0.5, 0.5, 1000],
+              "components": {
+                "render": {
+                  "type": "box",
+                  "materialAssets": ["mat_light_stick_decor.json"],
+                  "layers": [0]
+                }
+              }
+            },
+            {
+              "name": "Box2",
+              "position": [-5, -5, 0],
+              "rotation": [35, 90, 0],
+              "scale": [0.5, 0.5, 1000],
+              "components": {
+                "render": {
+                  "type": "box",
+                  "materialAssets": ["mat_light_stick_decor.json"],
+                  "layers": [0]
+                }
+              }
+            },
+            {
+              "name": "Box3",
+              "position": [5, 5, 0],
+              "rotation": [35, 90, 0],
+              "scale": [0.5, 0.5, 1000],
+              "components": {
+                "render": {
+                  "type": "box",
+                  "materialAssets": ["mat_light_stick_decor.json"],
+                  "layers": [0]
+                }
+              }
+            },
+            {
+              "name": "Box4",
+              "position": [0, 0, 0],
+              "rotation": [-35, 90, 0],
+              "scale": [0.5, 0.5, 1000],
+              "components": {
+                "render": {
+                  "type": "box",
+                  "materialAssets": ["mat_light_stick_decor.json"],
+                  "layers": [0]
+                }
+              }
+            },
+            {
+              "name": "Box5",
+              "position": [5, -5, 0],
+              "rotation": [-35, 90, 0],
+              "scale": [0.5, 0.5, 1000],
+              "components": {
+                "render": {
+                  "type": "box",
+                  "materialAssets": ["mat_light_stick_decor.json"],
+                  "layers": [0]
+                }
+              }
+            },
+            {
+              "name": "Box6",
+              "position": [-5, 5, 0],
+              "rotation": [-35, 90, 0],
+              "scale": [0.5, 0.5, 1000],
+              "components": {
+                "render": {
+                  "type": "box",
+                  "materialAssets": ["mat_light_stick_decor.json"],
+                  "layers": [0]
+                }
+              }
+            }
+          ],
+          "position": [0, 25.8683, 97.5395],
+          "rotation" : [-15, 0, 0]
+        },
+        {
+          "name": "lightStickContainer2",
+          "children": [
+            {
+              "name": "lightStickContainer2Left",
+              "enabled": false,
+              "children": [
+                {
+                  "name": "Box1",
+                  "position": [60, 55, -45],
+                  "rotation": [0, -60, 45],
+                  "scale": [0.5, 0.5, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_light_stick_decor.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box2",
+                  "position": [49.987, 66.448, -45],
+                  "rotation": [0, -60, 55],
+                  "scale": [0.5, 0.5, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_light_stick_decor.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box3",
+                  "position": [69.6564, 43.015, -45],
+                  "rotation": [0, -60, 35],
+                  "scale": [0.5, 0.5, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_light_stick_decor.json"],
+                      "layers": [0]
+                    }
+                  }
+                }
+              ],
+              "position": [0, 0, 0]
+            },
+            {
+              "name": "lightStickContainer2Right",
+              "enabled": false,
+              "children": [
+                {
+                  "name": "Box1",
+                  "position": [60, 55, -45],
+                  "rotation": [0, -60, 45],
+                  "scale": [0.5, 0.5, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_light_stick_decor.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box2",
+                  "position": [49.987, 66.448, -45],
+                  "rotation": [0, -60, 55],
+                  "scale": [0.5, 0.5, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_light_stick_decor.json"],
+                      "layers": [0]
+                    }
+                  }
+                },
+                {
+                  "name": "Box3",
+                  "position": [69.6564, 43.015, -45],
+                  "rotation": [0, -60, 35],
+                  "scale": [0.5, 0.5, 200],
+                  "components": {
+                    "render": {
+                      "type": "box",
+                      "materialAssets": ["mat_light_stick_decor.json"],
+                      "layers": [0]
+                    }
+                  }
+                }
+              ],
+              "position": [-4.834, -5, 0],
+              "rotation": [0, 0, 90]
+            }
+          ],
+          "position": [0, 0, 97.5395]
+        }
+      ],
+      "position": [0, 0, 0]
+    }    
+  ],
+  "position": [
+    0,
+    0,
+    0
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": [
+    1,
+    1,
+    1
+  ],
+  "components": {},
+  "decorData": [
+    {
+      "interval": 0.5,
+      "name": "gate",
+      "tags": [],
+      "enabled": true,
+      "children": [],
+      "position": [
+        0,
+        1.556,
+        -2.302
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3,
+        0.5,
+        3
+      ],
+      "components": {
+        "model": {
+          "enabled": true,
+          "asset": "model_gate",
+          "materialAssets": [
+          ],
+          "layers": [
+            0
+          ],
+          "batchGroupId": null,
+          "castShadows": true,
+          "castShadowsLightmap": true,
+          "receiveShadows": true,
+          "lightmapped": false,
+          "lightmapSizeMultiplier": 1,
+          "castShadowsLightMap": true,
+          "lightMapped": false,
+          "lightMapSizeMultiplier": 1,
+          "isStatic": false,
+          "rootBone": null
+        }
+      }
+    },
+    {
+      "interval": 0.5,
+      "name": "lineRoad",
+      "children": [
+        {
+          "name": "lineModel",
+          "children": [
+            {
+              "name": "saber1",
+              "position": [0, 0.5004, -0.0045],
+              "scale": [7.17, 2.9195, 2.117],
+              "components": {
+                "render": {
+                  "type": "plane",
+                  "materialAssets": ["mat_line_road.json"],
+                  "layers": [0],
+                  "castShadows": false,
+                  "castShadowsLightmap": false,
+                  "receiveShadows": false
+                }
+              }
+            },
+            {
+              "name": "saber2",
+              "position": [0, 0.3219, -0.0045],
+              "scale": [7.17, 2.9195, 2.117],
+              "components": {
+                "render": {
+                  "type": "plane",
+                  "materialAssets": ["mat_line_road.json"],
+                  "layers": [0],
+                  "castShadows": false,
+                  "castShadowsLightmap": false,
+                  "receiveShadows": false
+                }
+              }
+            }
+          ],
+          "position": [0, 0, 0.0002],
+          "components": {
+            "render": {
+              "type": "box",
+              "materialAssets": ["mat_line.json"],
+              "layers": [0]
+            }
+          }
+        }
+      ],
+      "position": [-3.346, -0.0837, 0],
+      "scale": [0.31, 0.215, 2.706]
+    },
+    {
+      "interval": 0.5,
+      "name": "lineRoad",
+      "children": [
+        {
+          "name": "lineModel",
+          "children": [
+            {
+              "name": "saber1",
+              "position": [0, 0.5004, -0.0045],
+              "scale": [7.17, 2.9195, 2.117],
+              "components": {
+                "render": {
+                  "type": "plane",
+                  "materialAssets": ["mat_line_road.json"],
+                  "layers": [0],
+                  "castShadows": false,
+                  "castShadowsLightmap": false,
+                  "receiveShadows": false
+                }
+              }
+            },
+            {
+              "name": "saber2",
+              "position": [0, 0.3219, -0.0045],
+              "scale": [7.17, 2.9195, 2.117],
+              "components": {
+                "render": {
+                  "type": "plane",
+                  "materialAssets": ["mat_line_road.json"],
+                  "layers": [0],
+                  "castShadows": false,
+                  "castShadowsLightmap": false,
+                  "receiveShadows": false
+                }
+              }
+            }
+          ],
+          "position": [0, 0, 0.0002],
+          "components": {
+            "render": {
+              "type": "box",
+              "materialAssets": ["mat_line.json"],
+              "layers": [0]
+            }
+          }
+        }
+      ],
+      "position": [3.346, -0.0837, 0],
+      "scale": [0.31, 0.215, 2.706]
+    }
+  ]
+}

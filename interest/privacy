@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSG7B4LXBH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TSG7B4LXBH');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9717115345264951"
+     crossorigin="anonymous"></script>
+<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <title>IceTeaGame - The best casual game center which you don't need to download any app!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="Online games, mobile games, Html5 games, cartoon games, casual games, kids games, casual games, kids games. family games, dress up games. girls games, adventure games. cute games, simulation games. educational games, cooking games, puzzle games, 3d games, social games, multiplayer games, 2 player games, 2d games, single player games, boy games, action games, Halloween games, puzzle games, free games, android games, ios games">
+    <meta name="description" content="Welcome to miggame.com, where the virtual world comes alive with boundless gaming adventures! We are a passionate and innovative gaming company dedicated to providing gamers of all ages with a diverse range of captivating online and downloadable games. Our commitment to excellence, creativity, and a seamless user experience sets us apart in the gaming industry. With a talented team of developers, designers, and enthusiasts, we strive to create a haven where players can immerse themselves in thrilling gaming experiences that push the boundaries of imagination.">
+    <link rel="icon" type="image/png" href="/gamebox/img/favicon-128.png" sizes="128x128"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/font/iconfont.css"/>
+    <link rel="stylesheet" type="text/css" href="/layui/css/layui.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/swiper/swiper-bundle.min.css"/>
+    <script src="/gamebox/js/jquery.min.js"></script>
+    <script src="/gamebox/swiper/swiper-bundle.min.js"></script>
+    <script src="/layui/layui.all.js"></script>
+    <script src="/gamebox/js/lazyload.js"></script>
+    <script src="/gamebox/js/fastclick.js"></script>
+
+    <script>
+        var layRate = null;
+        layui.use("rate",function (){
+            layRate = layui.rate;
+            layRate.config={
+                readonly: true,
+                half: false,
+            };
+        })
+    </script>
+    
+    
+</head>
+<body id="main">  
+ <header class="headMain">
+        <div class="container headBox" id="headBox">
+            <a href="/" class="branchL">
+                <img src="/gamebox/img/logo.png" alt="">
+                <p tran="title" >Game Box</p>
+            </a>
+            <div class="branchR">
+                <div class="boxSearch ">
+                    <div id="searchIcon" class="searchIcon">
+                        <i class="iconfont icon-search-line"></i>
+                    </div>
+                    <div class="searchBox" id="searchBox">
+                        <input type="text" class="inputshow" id="searchB" autocomplete="off"  placeholder="Search For Games">
+                        <button onclick="search()"><i class="iconfont icon-search-line"></i></button>
+                        <ul class="gameName">
+                                                                <li>
+                                        <a href="/interest/search?keyword=Airpor">
+                                            Airpor                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Crazy">
+                                            Crazy                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=2048">
+                                            2048                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=2020">
+                                            2020                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Candy">
+                                            Candy                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Zombie">
+                                            Zombie                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/interest/search?keyword=Army">
+                                            Army                                        </a>
+                                    </li>
+                                                                                    </ul>
+                    </div>
+                </div>
+                <a href="/interest/collect" class="collect"> <i class="iconfont icon-heart-3-fill"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main">
+        <div class="containerBox">
+            <div class="lBox">
+                <div class="category">
+                    <div class="title">
+                        <h2 tran="category" >Game Category</h2>
+                        <a href="javascript:;" class="menu-open">
+                            <i class="iconfont icon-menu-unfold-line"></i>
+                        </a>
+                        <a href="javascript:;" class="close-menu">
+                            <i class="iconfont icon-menu-fold-line"></i>
+                        </a>
+                    </div>
+                    <ul class="categoryBox">
+                        <li  class="active">
+                            <a href="/">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <p tran="home" >Home</p>
+                            </a>
+                        </li>
+                                                        <li >
+                                    <a href="/interest/list/2">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <p tran="puzzle" >Puzzle</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/3">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <p tran="kids" >Kids</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/14">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <p tran="adventure" >Adventure</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/32">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <p tran="sports" >Sports</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/41">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <p tran="racing" >Racing</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/46">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <p tran="girl" >Girl</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/90">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <p tran="hot" >Hot</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/91">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <p tran="action" >Action</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/94">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <p tran="arcade" >Arcade</p>
+                                    </a>
+                                </li>
+                                                            <li >
+                                    <a href="/interest/list/235">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <p tran="casual" >Casual</p>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </div>
+                <div class="swiper category-swiper">
+                    <ul class="swiper-wrapper" id="swiper-list">
+                        <li class="swiper-slide active">
+                            <a href="/">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <p tran="home" >Home</p>
+                            </a>
+                        </li>
+                                                        <li class="swiper-slide ">
+                                    <a href="/interest/list/2">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <p tran="puzzle" >Puzzle</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/3">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <p tran="kids" >Kids</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/14">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <p tran="adventure" >Adventure</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/32">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <p tran="sports" >Sports</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/41">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <p tran="racing" >Racing</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/46">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <p tran="girl" >Girl</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/90">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <p tran="hot" >Hot</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/91">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <p tran="action" >Action</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/94">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <p tran="arcade" >Arcade</p>
+                                    </a>
+                                </li>
+                                                            <li class="swiper-slide ">
+                                    <a href="/interest/list/235">
+                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <p tran="casual" >Casual</p>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </div>
+            
+        <div class="rBox">
+            <div class="company">
+                <h2>Privacy Policy</h2>
+                <p></p>
+                <h3>General and definitions </h3>
+                <p>Game Box as a Free website. This SERVICE is provided by at no cost and is intended for use as is.</p>
+                <p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
+                <p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p>
+
+                <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Game Box, DouYougame, heiheigame, game snacks unless otherwise defined in this Privacy Policy.</p>
+                <p>Information Collection and Use</p>
+                <p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.</p>
+                <p>The app does use third party services that may collect information used to identify you.</p>
+                <p>Link to privacy policy of third party service providers used by the app<br/> ● Google Analytics</p>
+
+                <h3>Log Data</h3>
+                <p>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</p>
+                <h3>Cookies</h3>
+                <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.</p>
+                <p>The data subject may, at any time, prevent the setting of cookies through our website by means of a corresponding setting of the Internet browser used, and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. If the data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be entirely usable.</p>
+                <h3>Security</h3>
+                <p>I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.</p>
+                <h3>Links to Other Sites</h3>
+                <p>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+                <h3>Children’s Privacy</h3>
+                <p>These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.</p>
+                <h3>Changes to This Privacy Policy</h3>
+                <p>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</p>
+                <p>This policy is effective as of 2022-12-28</p>
+                <h3>Contact Us</h3>
+                <p>If you have any questions or suggestions, do not hesitate to <a target="_blank" style="text-decoration:underline;" href="https://wj.qq.com/s2/12483552/28a3">Contact US</a>.</p>
+            </div>
+            <footer>
+                <p>©2022 Game Box</p>
+                <a href="/interest/privacy" tran="privacy" >Privacy Policy</a>
+                <a href="/interest/terms" tran="terms">Terms Of Use</a>
+                <!-- <a href="javascript:;" id="translate" data-la=""  ></a> -->
+            </footer>
+
+        </div>
+    </div>
+</div>
+
+            
+		</div>
+    </div>
+</div>
+<script type="text/javascript">
+var zh ={
+    title:"游戏中心",
+    history:"历史记录",
+    category:"游戏分类",
+    home:"首页",
+    recommend:"游戏推荐",
+    hotgames:"热门游戏",
+    collect:"收藏",
+    Like:"喜欢此游戏",
+    play:"游玩",
+    tips:"帮助我们为您量身定制精彩的游戏体验 :)",
+    description:"描述",
+    instruction:"介绍",
+    mightLike:"猜你喜欢",
+    privacy:"隐私",
+    terms:"条款",
+    read:"阅读更多",
+    casual:"休闲",
+    puzzle:"解谜",
+    action:"动作",
+    adventure:"冒险",
+    sports:"运动",
+    arcade:"街机",
+    search:"搜索结果",
+    favorite:"喜欢的游戏",
+    edit:"编辑",
+    edit1:"完成"
+};
+
+var en = {
+    title:"Game Box",
+    history:"history",
+    category:"Game Category",
+    home:"Home",
+    recommend:"Recommend",
+    hotgames:"Hot Games",
+    collect:"Collect",
+    Like:"Like This Game",
+    play:"PLAY",
+    tips:"Help us tailor a great gaming experience for you :)",
+    description:"Description",
+    instruction:"Instruction",
+    mightLike:"You Might Like It",
+    privacy:"Privacy",
+    terms:"Terms Of Use",
+    read:"Read More",
+    casual:"Casual",
+    puzzle:"Puzzle",
+    action:"Action",
+    adventure:"Adventure",
+    sports: "Sports",
+    arcade:"Arcade",
+    search:"Search Result",
+    favorite:"Favorite Games",
+    edit:"Edit",
+    edit1:"Done"
+}
+        en.puzzle = "Puzzle";
+        zh.puzzle = "解谜";
+            en.kids = "Kids";
+        zh.kids = "儿童";
+            en.adventure = "Adventure";
+        zh.adventure = "冒险";
+            en.sports = "Sports";
+        zh.sports = "运动";
+            en.racing = "Racing";
+        zh.racing = "竞速";
+            en.girl = "Girl";
+        zh.girl = "女孩";
+            en.hot = "Hot";
+        zh.hot = "热门游戏";
+            en.action = "Action";
+        zh.action = "动作";
+            en.arcade = "Arcade";
+        zh.arcade = "街机";
+            en.casual = "Casual";
+        zh.casual = "休闲";
+    </script>
+<script src="/gamebox/js/main.js"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8f2da72a493485a9',t:'MTczNDM0MTQwOC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

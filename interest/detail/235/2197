@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TSG7B4LXBH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TSG7B4LXBH');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9717115345264951"
+     crossorigin="anonymous"></script>
+<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <title>IceTeaGame - Parkour Race</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/png" href="/gamebox/img/favicon-128.png" sizes="128x128"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/font/iconfont.css"/>
+    <link rel="stylesheet" type="text/css" href="/layui/css/layui.css"/>
+    <link rel="stylesheet" type="text/css" href="/gamebox/swiper/swiper-bundle.min.css"/>
+    <script src="/gamebox/js/jquery.min.js"></script>
+    <script src="/gamebox/swiper/swiper-bundle.min.js"></script>
+    <script src="/layui/layui.all.js"></script>
+    <script src="/gamebox/js/lazyload.js"></script>
+    <script src="/gamebox/js/fastclick.js"></script>
+
+    <script>
+        var layRate = null;
+        layui.use("rate",function (){
+            layRate = layui.rate;
+            layRate.config={
+                readonly: true,
+                half: false,
+            };
+        })
+    </script>
+    <style>
+    @media screen and (orientation: landscape) and (max-height: 600px) {
+    /* 横屏样式 */
+    .detailBox {height: calc(100vh - 0px) !important;}
+    .container .ad {display: none !important;}
+    }
+    </style>
+                        </head>
+<body style="background: #000"> <header>
+    <div class="container detailHeader" >
+        <a href="javascript:history.go(-1)">
+            <i class="iconfont icon-arrow-go-back-line"></i>
+        </a>
+        <p>Parkour Race</p>
+        <div class="detailRIcon">
+            <a href="javascript:;" class="collectBtn">
+                <span tran="collect">Collect</span>
+                <i class="iconfont "></i>
+            </a>
+            <a href="javascript:;" class="open-detail">
+                <i class="iconfont icon-menu-2-line"></i>
+            </a>
+        </div>
+    </div>
+</header>
+
+<div class=" container  detailBox">
+    <div class="detaiMain">
+        <div class="detailLeft">
+            <ul class="detailGameList">
+                                    <li>
+                        <a href="/interest/detail/235/2000">
+                            <div class="thumb">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20221017/knockballs.png" alt="">
+                            </div>
+                            <dl>
+                                <dt>Knock balls</dt>
+                                <dd>18KPlayer
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                                          <li>
+                        <a href="/interest/detail/235/2217">
+                            <div class="thumb">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Run_and_Gun_512_512.png" alt="">
+                            </div>
+                            <dl>
+                                <dt>Run and Gun</dt>
+                                <dd>200KPlayer
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                                          <li>
+                        <a href="/interest/detail/235/2056">
+                            <div class="thumb">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230111/Tap_Unlock_512x512.jpeg" alt="">
+                            </div>
+                            <dl>
+                                <dt>Tap Unlock</dt>
+                                <dd>88.7KPlayer
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                                          <li>
+                        <a href="/interest/detail/235/2299">
+                            <div class="thumb">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240729/0a6fade8932d876609fd3134113638db.jpg" alt="">
+                            </div>
+                            <dl>
+                                <dt>Viking Pub</dt>
+                                <dd>1.6KPlayer
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                                          <li>
+                        <a href="/interest/detail/235/2123">
+                            <div class="thumb">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Destroy_Galaxy_512x512.png" alt="">
+                            </div>
+                            <dl>
+                                <dt>Destroy Galaxy</dt>
+                                <dd>159KPlayer
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                                          <li>
+                        <a href="/interest/detail/235/1934">
+                            <div class="thumb">
+                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20220701/BlackOfJack.png" alt="">
+                            </div>
+                            <dl>
+                                <dt>Black Of Jack</dt>
+                                <dd>12.6KPlayer
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                                </ul>
+            <div class="ad">
+                <p>Advertisement</p>
+                            </div>
+        </div>
+
+        <div class="detailCenter" id="app">
+            <iframe id="iframeGame" src="" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                scrolling="no" allowfullscreen></iframe>
+        </div>
+      
+        <div class="detailRight">
+            <div class="ad">
+                <p>Advertisement</p>
+                            </div>
+
+            <ul class="detailGameList">
+                                        <li>
+                            <a href="/interest/detail/235/2209">
+                                <div class="thumb">
+                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Domino_Master_512_512.png" alt="">
+                                </div>
+                                <dl>
+                                    <dt>Domino Master</dt>
+                                    <dd>85KPlayer
+                                    </dd>
+                              </dl>
+                            </a>
+                        </li>
+                                                                    <li>
+                            <a href="/interest/detail/235/2159">
+                                <div class="thumb">
+                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230703/ExtremeAgent_512x512.jpg" alt="">
+                                </div>
+                                <dl>
+                                    <dt>Extreme Agent</dt>
+                                    <dd>53.8KPlayer
+                                    </dd>
+                              </dl>
+                            </a>
+                        </li>
+                                                                    <li>
+                            <a href="/interest/detail/235/2052">
+                                <div class="thumb">
+                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230111/Rainbow_Cubes_512x512.jpeg" alt="">
+                                </div>
+                                <dl>
+                                    <dt>Rainbow Cubes</dt>
+                                    <dd>18.1KPlayer
+                                    </dd>
+                              </dl>
+                            </a>
+                        </li>
+                                                                    <li>
+                            <a href="/interest/detail/235/2210">
+                                <div class="thumb">
+                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Drop_Merge_512_512.png" alt="">
+                                </div>
+                                <dl>
+                                    <dt>Drop Merge</dt>
+                                    <dd>91.8KPlayer
+                                    </dd>
+                              </dl>
+                            </a>
+                        </li>
+                                                                    <li>
+                            <a href="/interest/detail/235/1936">
+                                <div class="thumb">
+                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20220701/LudoManiGame.png" alt="">
+                                </div>
+                                <dl>
+                                    <dt>Ludo Mani</dt>
+                                    <dd>40.8KPlayer
+                                    </dd>
+                              </dl>
+                            </a>
+                        </li>
+                                                                    <li>
+                            <a href="/interest/detail/235/2203">
+                                <div class="thumb">
+                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Block_Hexa_Star_512_512.png" alt="">
+                                </div>
+                                <dl>
+                                    <dt>Block Hexa Star</dt>
+                                    <dd>43.5KPlayer
+                                    </dd>
+                              </dl>
+                            </a>
+                        </li>
+                                                    </ul>
+        </div>
+    </div>
+    <div class="detailContBox">
+        <div class="detailCont">
+             <div class="title">
+                 <a href="javascript:history.go(-1)">
+                     <i class="iconfont icon-arrow-go-back-line"></i>
+                 </a>
+                 <div class="detailRIcon">
+                     <a href="javascript:;" class="collectBtn">
+                         <span tran="collect">Collect</span>
+                         <i class="iconfont "></i>
+                     </a>
+                     <a href="javascript:;" class="close-detail">
+                         <i class="iconfont icon-close-circle-fill"></i>
+                     </a>
+                 </div>
+             </div>
+            <div class="dex">
+                <div class="thumb">
+                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231123/fab496bd57cad5ae4f904e3eb08344cf.PNG" alt="">
+                </div>
+                <dl>
+                    <dt>
+                        Parkour Race                    </dt>
+                    <dd class="tags">
+                                                    Casual                                            </dd>
+                    <dd>
+                        <span>227K</span>Player
+                    </dd>
+                </dl>
+            </div>
+             <div class="btnList">
+                 <ul class="BLit">
+                     <li class="islike" onclick="addZan(this)">
+                         <i class="iconfont icon-thumb-up-fill"></i>
+                         <span class="num">27.6K</span>&nbsp;
+                         <span class="like" tran="Like" >Liked</span>
+                     </li>
+                     <li class="play">
+                         <i class="iconfont  icon-play-fill"></i>
+                         <span tran="play">PLAY</span>
+                     </li>
+                 </ul>
+                 <p class="tips" tran="tips"  >Help us tailor a great gaming experience for you :)</p>
+             </div>
+
+             <div class="progressBox">
+                <div class="person">
+                    <div class="running" id="running">
+                        <div class="outer">
+                            <div class="body">
+                                <div class="arm behind"></div>
+                                <div class="arm front"></div>
+                                <div class="leg behind"></div>
+                                <div class="leg front"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="progress">
+                    <div class="wrapper">
+                        <div id="jd" class="first">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ad">
+                <p>Advertisement</p>
+                            </div>
+            
+            <div class="swiper_con">
+                <div class="swiper preview" id="intro">
+                    <div class="swiper-wrapper">
+                                                        <div class="swiper-slide video-section">
+                                    			<iframe
+			  src="https://customer-pp9pw84f78fe5x2r.cloudflarestream.com/a8d6e427d7bf26cfa0b290cf1eca43ce/iframe"
+			  style="border: none"
+			  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+			  allowfullscreen="true"
+			></iframe>                                </div>
+                                                                                    <div class="swiper-slide">
+                                    <img src="/uploads/games/20231123/cdc93cde629c53d669d39d1479b1bd99.jpg" alt="">
+                                </div>
+                                                                        </div>
+                </div>
+            </div>
+            
+            <div class="module">
+                <h2 tran="description">Description</h2>
+                <div class="des" >
+                    <p > Are you ready for a thrilling parkour race? Parkour Race is a game that lets you run, jump, and slide through 3D pixel environments. You can customize your character with different skins that you can buy with gold coins. You can earn gold coins by winning races and completing levels. There are 20 levels to challenge your parkour skills and speed. You have to be fast and smart to beat your opponents and reach the finish line first. How fast can you run? </p>
+                </div>
+                <div class="moreB">
+                    <a class="moreShow" href="javascript:void(0);" tran="read" > Read More</a>
+                </div>
+            </div>
+            <div class="module">
+                <h2 tran="instruction">Instruction</h2>
+                <div class="des" >
+                    <p >  </p>
+                </div>
+                <div class="moreB">
+                    <a class="moreShow" href="javascript:void(0);" tran="read" > Read More</a>
+                </div>
+            </div>
+            <ul class="gameTag">
+                                        <li>SKILL</li>
+                                            <li>RUNNING</li>
+                                            <li>STICKMAN</li>
+                                                </ul>
+            <div class="mightLike">
+                <h2 tran="mightLike">You might like it</h2>
+                <ul class="mightList">
+                                                <li>
+                                <a href="/interest/detail/235/2169">
+                                    <div class="leftIcon">
+                                        <div class="thumb">
+                                            <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230727/7dc48363318b5e7afd17fe099fb07c96.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>Lazy Jumper</dt>
+                                            <dd class="tags">
+                                                <p >
+                                                    Casual                                                </p>
+                                            </dd>
+                                            <dd>
+                                                <span>123K</span>Player
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <p tran="play" class="PlayBtn">PLAY</p>
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="/interest/detail/235/2323">
+                                    <div class="leftIcon">
+                                        <div class="thumb">
+                                            <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20241030/d7c0968ff0b0b4a5449ee936f42ee27e.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>Boss Market</dt>
+                                            <dd class="tags">
+                                                <p >
+                                                    Casual                                                </p>
+                                            </dd>
+                                            <dd>
+                                                <span>262</span>Player
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <p tran="play" class="PlayBtn">PLAY</p>
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="/interest/detail/235/1938">
+                                    <div class="leftIcon">
+                                        <div class="thumb">
+                                            <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20220701/TufWar.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>Tuf War</dt>
+                                            <dd class="tags">
+                                                <p >
+                                                    Casual                                                </p>
+                                            </dd>
+                                            <dd>
+                                                <span>54.8K</span>Player
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <p tran="play" class="PlayBtn">PLAY</p>
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="/interest/detail/235/1935">
+                                    <div class="leftIcon">
+                                        <div class="thumb">
+                                            <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20220701/CountShooter.png" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>Count Shooter</dt>
+                                            <dd class="tags">
+                                                <p >
+                                                    Casual                                                </p>
+                                            </dd>
+                                            <dd>
+                                                <span>79K</span>Player
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <p tran="play" class="PlayBtn">PLAY</p>
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="/interest/detail/235/2074">
+                                    <div class="leftIcon">
+                                        <div class="thumb">
+                                            <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230210/Dance_Now_512x512.jpg" alt="">
+                                        </div>
+                                        <dl>
+                                            <dt>Now Dance</dt>
+                                            <dd class="tags">
+                                                <p >
+                                                    Casual                                                </p>
+                                            </dd>
+                                            <dd>
+                                                <span>9.3K</span>Player
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                    <p tran="play" class="PlayBtn">PLAY</p>
+                                </a>
+                            </li>
+                                                                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="ad adbottom">
+            </div>
+</div>
+
+<div class="btnMenu">
+    <i class="iconfont icon-menu-2-line"></i>
+</div>
+
+<input type="hidden" id="screen" value="2">
+<input type="hidden" id="game_id" value="2197">
+<input type="hidden" id="collect_id" value="2197">
+<input type="hidden" id="iframeValue" value="https://cpsense.heiheigame.com/douyou_release/ParkourRace/?pubid=221&amp;gameid=2197&amp;ret=1">
+<script type="text/javascript">
+var zh ={
+    title:"游戏中心",
+    history:"历史记录",
+    category:"游戏分类",
+    home:"首页",
+    recommend:"游戏推荐",
+    hotgames:"热门游戏",
+    collect:"收藏",
+    Like:"喜欢此游戏",
+    play:"游玩",
+    tips:"帮助我们为您量身定制精彩的游戏体验 :)",
+    description:"描述",
+    instruction:"介绍",
+    mightLike:"猜你喜欢",
+    privacy:"隐私",
+    terms:"条款",
+    read:"阅读更多",
+    casual:"休闲",
+    puzzle:"解谜",
+    action:"动作",
+    adventure:"冒险",
+    sports:"运动",
+    arcade:"街机",
+    search:"搜索结果",
+    favorite:"喜欢的游戏",
+    edit:"编辑",
+    edit1:"完成"
+}
+
+var en = {
+    title:"Game Box",
+    history:"history",
+    category:"Game Category",
+    home:"Home",
+    recommend:"Recommend",
+    hotgames:"Hot Games",
+    collect:"Collect",
+    Like:"Like This Game",
+    play:"PLAY",
+    tips:"Help us tailor a great gaming experience for you :)",
+    description:"Description",
+    instruction:"Instruction",
+    mightLike:"You Might Like It",
+    privacy:"Privacy",
+    terms:"Terms Of Use",
+    read:"Read More",
+    casual:"Casual",
+    puzzle:"Puzzle",
+    action:"Action",
+    adventure:"Adventure",
+    sports: "Sports",
+    arcade:"Arcade",
+    search:"Search Result",
+    favorite:"Favorite Games",
+    edit:"Edit",
+    edit1:"Done"
+}
+        en.puzzle = "Puzzle";
+        zh.puzzle = "解谜";
+            en.kids = "Kids";
+        zh.kids = "儿童";
+            en.adventure = "Adventure";
+        zh.adventure = "冒险";
+            en.sports = "Sports";
+        zh.sports = "运动";
+            en.racing = "Racing";
+        zh.racing = "竞速";
+            en.girl = "Girl";
+        zh.girl = "女孩";
+            en.hot = "Hot";
+        zh.hot = "热门游戏";
+            en.action = "Action";
+        zh.action = "动作";
+            en.arcade = "Arcade";
+        zh.arcade = "街机";
+            en.casual = "Casual";
+        zh.casual = "休闲";
+    </script>
+
+<script src="https://embed.cloudflarestream.com/embed/sdk.latest.js"></script>
+<script src="/gamebox/js/main.js"></script>
+
+<script type="text/javascript">
+    var width = 0;
+    var timer;
+    timer = setInterval(function() {
+        width += 1;
+        if (width >= 200) {
+            clearInterval(timer);
+            $('.progressBox').css("display","none");
+            $('.btnList').css("display","block")
+        }
+        document.getElementsByClassName("first")[0].style.width = width + "px";
+
+        document.getElementById("running").style.left = width + "px";
+
+    }, 10);
+    
+    var val= $('#screen').val();
+
+    function w_ht(){
+        $('.detailCenter').addClass('act');
+        $('.detailLeft').addClass('act');
+        $('.detailRight').addClass('act');
+    }
+
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+    }else {
+        if (val ==0){
+            w_ht();
+            $('#iframeGame').addClass('actq');
+            window.addEventListener("resize", response_size);
+            response_size();
+            function response_size() {
+                var app_iframe = document.getElementById('iframeGame')
+                var w_c = 9 / 16 * app_iframe.offsetHeight;
+                app_iframe.style.width = w_c + 'px';
+            }
+        }
+    };
+
+    var iframeValue= $('#iframeValue').val();
+
+    load = true;
+
+    function iframe_load (){
+        $('.detailContBox').css('display','none');
+        $('.btnMenu').css('display','flex');
+        if(load){
+            $('#iframeGame').attr('src',iframeValue)
+        }
+        load =false
+    }
+
+    
+
+    $('.btnMenu').click(function () {
+        $('.detailContBox').css('display','flex')
+    });
+
+    $('.open-detail').click(function () {
+        $('.detailContBox').css('display','flex')
+    });
+
+
+    var language = localStorage.getItem("language");
+
+    function isLike(){
+        $('.num').css('display','none');
+        if (language == "en"){
+            $('.like').html('Thanks +1');
+            $('.tips').html('Thanks for your like!');
+        }else {
+            $('.like').html('喜欢 +1');
+            $('.tips').html('感谢您的喜欢!');
+        }
+    }
+
+    // 单次点赞判断
+    var zanId = $('#game_id').val();
+    var zan_ids = localStorage.getItem("zan-ids");
+    zan_ids = zan_ids ? zan_ids.split(",") : [];
+    if (zan_ids.indexOf(zanId)!==-1){
+        $('.islike').addClass("act");
+        isLike();
+    }
+
+    function addZan(obj) {
+        if (zan_ids.indexOf(zanId)!==-1){
+            return
+        }
+        // 点赞
+        num = 1;
+        obj.classList.add("act");
+        isLike();
+        $.ajax({
+            url: "/interest/api/set_addzan",
+            method: "post",
+            data: {
+                num: num,
+                id: 2197            },
+            success: function (result) {
+                // 点赞记录游戏
+                zan_ids.unshift(zanId);
+                zan_ids = [...new Set(zan_ids)];
+                localStorage.setItem("zan-ids", zan_ids);
+            },
+            error:function (){
+            }
+        });
+    }
+
+    var preview = new Swiper('.preview', {
+        freeMode: true,
+        slidesPerView: 'auto',
+        spaceBetween: 8,
+        watchSlidesVisibility: true,
+        observer: true,
+        observeSlideChildren: true,
+        observeParents: true,
+    });
+
+
+    var more = document.querySelectorAll('.moreShow');
+    more.forEach(function (el) {
+        el.addEventListener("click", function () {
+            if (!this.parentNode.previousElementSibling.classList.contains("showAll")){
+                this.parentNode.previousElementSibling.classList.add("showAll");
+                this.innerHTML='Read Less';
+                language == "en"? this.innerHTML='Read Less': this.innerHTML='阅读更少';
+            }else {
+                this.parentNode.previousElementSibling.classList.remove("showAll");
+                language == "en"? this.innerHTML='Read More': this.innerHTML='阅读更多';
+
+            }
+        });
+    });
+
+    var gameId = $('#game_id').val();
+    var game_ids = localStorage.getItem("games-ids");
+    game_ids = game_ids ? game_ids.split(",") : [];
+    game_ids.unshift(gameId);
+    game_ids = [...new Set(game_ids)];
+    localStorage.setItem("games-ids", game_ids.slice(0,12).join(','));
+
+
+    var collect_ids = localStorage.getItem("collect-ids");
+
+    var collectId = $('#collect_id').val();
+    collect_ids = collect_ids ? collect_ids.split(",") : [];
+
+    $(document).ready(function () {
+        collect_ids.includes(collectId)?$('.collectBtn').addClass('act'):'';
+    });
+
+    $('.collectBtn').click(function () {
+        if (!collect_ids.includes(collectId)){
+            
+            $('.collectBtn').addClass('act');
+            // 
+            collect_ids.unshift(collectId);
+            // 
+            collect_ids = [...new Set(collect_ids)];
+            localStorage.setItem("collect-ids", collect_ids.join(','));
+        } else {
+            $('.collectBtn').removeClass('act');
+            collect_ids.unshift(collectId);
+            collect_ids = [...new Set(collect_ids)];
+            // 
+            collect_ids.shift(collectId);
+            localStorage.setItem("collect-ids", collect_ids.join(','));
+        }
+    });
+
+    if($('.video-section').length>0 && $('.video-section').children('iframe').length>0){
+        var player = Stream( document.getElementsByClassName('video-section')[0].getElementsByTagName("iframe")[0]);
+    }
+    $('.close-detail').click(function () {
+        iframe_load()
+        if(player){
+            player.pause();
+        }
+    });
+    $('.play').click(function () {
+        iframe_load()
+        if(player){
+            player.pause();
+        }
+    });
+</script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8f34503fbf49e2fc',t:'MTczNDQxMTI0OC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

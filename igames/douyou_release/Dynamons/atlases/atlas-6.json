@@ -1,0 +1,260 @@
+{
+  "frames": {
+    "images/session/bgs/halloween.png": {
+      "frame": { "x": 2, "y": 2, "w": 640, "h": 1636 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 1636 },
+      "sourceSize": { "w": 640, "h": 1636 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/bgs/legendary_cave.png": {
+      "frame": { "x": 646, "y": 2, "w": 640, "h": 1636 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 1636 },
+      "sourceSize": { "w": 640, "h": 1636 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/splash_fire.png": {
+      "frame": { "x": 2, "y": 1642, "w": 1506, "h": 321 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 86, "y": 30, "w": 1506, "h": 321 },
+      "sourceSize": { "w": 1600, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "embeded-images/splash/bg.png": {
+      "frame": { "x": 1290, "y": 2, "w": 640, "h": 1136 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 1136 },
+      "sourceSize": { "w": 640, "h": 1136 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/direct_aim.png": {
+      "frame": { "x": 1290, "y": 1142, "w": 748, "h": 155 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 27, "y": 2, "w": 748, "h": 155 },
+      "sourceSize": { "w": 800, "h": 160 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/can_open.png": {
+      "frame": { "x": 1290, "y": 1301, "w": 728, "h": 162 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 53, "y": 32, "w": 728, "h": 162 },
+      "sourceSize": { "w": 800, "h": 200 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/endscreen/share_bg.png": {
+      "frame": { "x": 1290, "y": 1467, "w": 640, "h": 140 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 140 },
+      "sourceSize": { "w": 640, "h": 140 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/endscreen/rewards_modal.png": {
+      "frame": { "x": 1512, "y": 1611, "w": 502, "h": 176 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 1, "w": 502, "h": 176 },
+      "sourceSize": { "w": 510, "h": 180 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/zombie_horde.png": {
+      "frame": { "x": 1512, "y": 1791, "w": 434, "h": 245 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 55, "w": 434, "h": 245 },
+      "sourceSize": { "w": 434, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/xpbar_bg.png": {
+      "frame": { "x": 2, "y": 1967, "w": 260, "h": 48 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 2, "w": 260, "h": 48 },
+      "sourceSize": { "w": 270, "h": 50 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/mon_shadow.png": {
+      "frame": { "x": 266, "y": 1967, "w": 238, "h": 51 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 9, "w": 238, "h": 51 },
+      "sourceSize": { "w": 250, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/report_backfire.png": {
+      "frame": { "x": 508, "y": 1967, "w": 230, "h": 54 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 3, "w": 230, "h": 54 },
+      "sourceSize": { "w": 230, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/map_info/reward_bubble.png": {
+      "frame": { "x": 742, "y": 1967, "w": 222, "h": 67 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 1, "w": 222, "h": 67 },
+      "sourceSize": { "w": 230, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/report_rage.png": {
+      "frame": { "x": 968, "y": 1967, "w": 197, "h": 57 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 1, "w": 197, "h": 57 },
+      "sourceSize": { "w": 210, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/hud_mapinfo.png": {
+      "frame": { "x": 1169, "y": 1967, "w": 174, "h": 62 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 4, "w": 174, "h": 62 },
+      "sourceSize": { "w": 180, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/btn_items_off.png": {
+      "frame": { "x": 1934, "y": 2, "w": 111, "h": 120 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 0, "w": 111, "h": 120 },
+      "sourceSize": { "w": 120, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/btn_escape.png": {
+      "frame": { "x": 1934, "y": 1467, "w": 111, "h": 119 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 8, "w": 111, "h": 119 },
+      "sourceSize": { "w": 120, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/btn_catch.png": {
+      "frame": { "x": 1934, "y": 126, "w": 110, "h": 118 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 9, "w": 110, "h": 118 },
+      "sourceSize": { "w": 120, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/btn_catch_off.png": {
+      "frame": { "x": 1934, "y": 248, "w": 110, "h": 118 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 9, "w": 110, "h": 118 },
+      "sourceSize": { "w": 120, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/level_up_snack.png": {
+      "frame": { "x": 1950, "y": 1791, "w": 67, "h": 115 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 67, "h": 115 },
+      "sourceSize": { "w": 70, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/btn_back.png": {
+      "frame": { "x": 1934, "y": 370, "w": 110, "h": 115 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 2, "w": 110, "h": 115 },
+      "sourceSize": { "w": 120, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/btn_more.png": {
+      "frame": { "x": 1934, "y": 489, "w": 110, "h": 115 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 2, "w": 110, "h": 115 },
+      "sourceSize": { "w": 120, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/discatch_set.png": {
+      "frame": { "x": 1934, "y": 608, "w": 112, "h": 102 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 4, "w": 112, "h": 102 },
+      "sourceSize": { "w": 120, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/heal_spray.png": {
+      "frame": { "x": 1950, "y": 1910, "w": 58, "h": 112 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 4, "w": 58, "h": 112 },
+      "sourceSize": { "w": 70, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/blaze_icon.png": {
+      "frame": { "x": 1934, "y": 714, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/cable_icon.png": {
+      "frame": { "x": 1934, "y": 828, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/cable_zombie_icon.png": {
+      "frame": { "x": 1934, "y": 942, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/products/product_coinsRV.png": {
+      "frame": { "x": 1934, "y": 1056, "w": 110, "h": 66 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 14, "w": 110, "h": 66 },
+      "sourceSize": { "w": 120, "h": 80 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/icon_hypno.png": {
+      "frame": { "x": 1347, "y": 1967, "w": 110, "h": 44 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 3, "w": 110, "h": 44 },
+      "sourceSize": { "w": 120, "h": 50 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/explorer_avatar.png": {
+      "frame": { "x": 1461, "y": 1967, "w": 46, "h": 57 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 46, "h": 57 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/splash/bg.png": {
+      "frame": { "x": 1290, "y": 2, "w": 640, "h": 1136 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 1136 },
+      "sourceSize": { "w": 640, "h": 1136 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-6.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 2038 },
+    "scale": 1
+  }
+}

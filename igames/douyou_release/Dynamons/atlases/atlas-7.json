@@ -1,0 +1,180 @@
+{
+  "frames": {
+    "images/session/abilities/fx/fire_spin.png": {
+      "frame": { "x": 2, "y": 2, "w": 1599, "h": 613 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 69, "y": 15, "w": 1599, "h": 613 },
+      "sourceSize": { "w": 1750, "h": 700 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/levelup_blast.png": {
+      "frame": { "x": 2, "y": 619, "w": 1596, "h": 514 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 18, "y": 146, "w": 1596, "h": 514 },
+      "sourceSize": { "w": 1680, "h": 660 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/lightning_ball.png": {
+      "frame": { "x": 2, "y": 1137, "w": 1568, "h": 788 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 15, "y": 4, "w": 1568, "h": 788 },
+      "sourceSize": { "w": 1600, "h": 800 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/ghumble/back.png": {
+      "frame": { "x": 1574, "y": 1137, "w": 471, "h": 358 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 471, "h": 358 },
+      "sourceSize": { "w": 474, "h": 360 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/ghumble/front.png": {
+      "frame": { "x": 1574, "y": 1499, "w": 471, "h": 358 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 471, "h": 358 },
+      "sourceSize": { "w": 474, "h": 360 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/squllyx/front.png": {
+      "frame": { "x": 1605, "y": 2, "w": 441, "h": 327 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 441, "h": 327 },
+      "sourceSize": { "w": 444, "h": 330 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/squllyx/shape.png": {
+      "frame": { "x": 1605, "y": 333, "w": 441, "h": 327 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 441, "h": 327 },
+      "sourceSize": { "w": 444, "h": 330 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/squllyx/back.png": {
+      "frame": { "x": 1602, "y": 664, "w": 439, "h": 309 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 439, "h": 309 },
+      "sourceSize": { "w": 444, "h": 313 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/splash/btn_play.png": {
+      "frame": { "x": 2, "y": 1929, "w": 302, "h": 117 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 302, "h": 117 },
+      "sourceSize": { "w": 302, "h": 117 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/huds/pane_big_water.png": {
+      "frame": { "x": 308, "y": 1929, "w": 296, "h": 92 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 4, "w": 296, "h": 92 },
+      "sourceSize": { "w": 300, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/hub/cloud_tl.png": {
+      "frame": { "x": 1574, "y": 1861, "w": 260, "h": 182 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 260, "h": 182 },
+      "sourceSize": { "w": 260, "h": 182 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/btn_show.png": {
+      "frame": { "x": 608, "y": 1929, "w": 254, "h": 92 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 5, "w": 254, "h": 92 },
+      "sourceSize": { "w": 260, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/btn_show_off.png": {
+      "frame": { "x": 866, "y": 1929, "w": 254, "h": 92 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 5, "w": 254, "h": 92 },
+      "sourceSize": { "w": 260, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/huds/pane_thumb_diamond.png": {
+      "frame": { "x": 1602, "y": 977, "w": 234, "h": 126 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 2, "w": 234, "h": 126 },
+      "sourceSize": { "w": 240, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/map_info/reward_claim.png": {
+      "frame": { "x": 1124, "y": 1929, "w": 231, "h": 110 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 6, "w": 231, "h": 110 },
+      "sourceSize": { "w": 240, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/spores_cloud.png": {
+      "frame": { "x": 1840, "y": 977, "w": 206, "h": 134 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 3, "w": 206, "h": 134 },
+      "sourceSize": { "w": 210, "h": 140 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/freeze_gas.png": {
+      "frame": { "x": 1838, "y": 1861, "w": 205, "h": 133 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 205, "h": 133 },
+      "sourceSize": { "w": 210, "h": 140 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/btn_use.png": {
+      "frame": { "x": 1359, "y": 1929, "w": 201, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 201, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/avatar_select.png": {
+      "frame": { "x": 1838, "y": 1998, "w": 54, "h": 48 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 6, "w": 54, "h": 48 },
+      "sourceSize": { "w": 60, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/btn_sound_off.png": {
+      "frame": { "x": 1896, "y": 1998, "w": 48, "h": 48 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 11, "y": 11, "w": 48, "h": 48 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/disk_icon.png": {
+      "frame": { "x": 1948, "y": 1998, "w": 44, "h": 48 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 1, "w": 44, "h": 48 },
+      "sourceSize": { "w": 50, "h": 50 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-7.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 2048 },
+    "scale": 1
+  }
+}

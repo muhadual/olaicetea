@@ -1,0 +1,20 @@
+
+hats.png
+size: 317, 164
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Group 149
+  rotate: true
+  xy: 206, 2
+  size: 160, 109
+  orig: 174, 113
+  offset: 6, 2
+  index: -1
+Vector 169
+  rotate: false
+  xy: 2, 23
+  size: 202, 139
+  orig: 202, 140
+  offset: 0, 0
+  index: -1

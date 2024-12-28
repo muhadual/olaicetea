@@ -1,0 +1,124 @@
+{
+  "frames": {
+    "images/session/abilities/fx/explosion.png": {
+      "frame": { "x": 2, "y": 2, "w": 1538, "h": 684 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 70, "y": 26, "w": 1538, "h": 684 },
+      "sourceSize": { "w": 1640, "h": 852 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/tornado.png": {
+      "frame": { "x": 2, "y": 690, "w": 1503, "h": 1235 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 46, "y": 52, "w": 1503, "h": 1235 },
+      "sourceSize": { "w": 1584, "h": 1304 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "icons/icon0000.png": {
+      "frame": { "x": 1509, "y": 690, "w": 512, "h": 512 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+      "sourceSize": { "w": 512, "h": 512 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/hub/sunbeam.png": {
+      "frame": { "x": 1509, "y": 1206, "w": 512, "h": 488 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 488 },
+      "sourceSize": { "w": 523, "h": 488 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/zenix/back.png": {
+      "frame": { "x": 1544, "y": 2, "w": 498, "h": 361 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 498, "h": 361 },
+      "sourceSize": { "w": 498, "h": 361 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/infinissy/front.png": {
+      "frame": { "x": 1509, "y": 1698, "w": 497, "h": 344 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 2, "w": 497, "h": 344 },
+      "sourceSize": { "w": 498, "h": 346 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/sardonyx/back.png": {
+      "frame": { "x": 1544, "y": 367, "w": 494, "h": 319 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 11, "w": 494, "h": 319 },
+      "sourceSize": { "w": 498, "h": 332 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/btn_give.png": {
+      "frame": { "x": 2, "y": 1929, "w": 224, "h": 92 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 5, "w": 224, "h": 92 },
+      "sourceSize": { "w": 230, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/btn_give_off.png": {
+      "frame": { "x": 230, "y": 1929, "w": 224, "h": 92 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 5, "w": 224, "h": 92 },
+      "sourceSize": { "w": 230, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/btn_levelup.png": {
+      "frame": { "x": 458, "y": 1929, "w": 220, "h": 100 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 220, "h": 100 },
+      "sourceSize": { "w": 220, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/solo-shop/btn_freevid.png": {
+      "frame": { "x": 682, "y": 1929, "w": 201, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 201, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/solo-shop/btn_freevid_off.png": {
+      "frame": { "x": 887, "y": 1929, "w": 201, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 201, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/solo-shop/btn_buy.png": {
+      "frame": { "x": 1092, "y": 1929, "w": 200, "h": 91 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 6, "w": 200, "h": 91 },
+      "sourceSize": { "w": 210, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/btn_blank.png": {
+      "frame": { "x": 1296, "y": 1929, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-8.png",
+    "format": "RGBA8888",
+    "size": { "w": 2044, "h": 2044 },
+    "scale": 1
+  }
+}

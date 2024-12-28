@@ -1,0 +1,380 @@
+{
+  "frames": {
+    "images/session/abilities/fx/dark_beam.png": {
+      "frame": { "x": 2, "y": 2, "w": 1253, "h": 940 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 12, "y": 0, "w": 1253, "h": 940 },
+      "sourceSize": { "w": 1280, "h": 940 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/rage_fx_front.png": {
+      "frame": { "x": 2, "y": 946, "w": 1169, "h": 859 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 12, "y": 24, "w": 1169, "h": 859 },
+      "sourceSize": { "w": 1208, "h": 916 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/deck_shuffle.png": {
+      "frame": { "x": 2, "y": 1809, "w": 1004, "h": 188 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 47, "y": 13, "w": 1004, "h": 188 },
+      "sourceSize": { "w": 1100, "h": 220 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/card_use_miss.png": {
+      "frame": { "x": 1010, "y": 1809, "w": 990, "h": 161 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 25, "y": 0, "w": 990, "h": 161 },
+      "sourceSize": { "w": 1020, "h": 170 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/rage_fx_back.png": {
+      "frame": { "x": 1175, "y": 946, "w": 870, "h": 437 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 25, "y": 7, "w": 870, "h": 437 },
+      "sourceSize": { "w": 906, "h": 458 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/bg_mini.png": {
+      "frame": { "x": 1259, "y": 2, "w": 640, "h": 446 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 2, "w": 640, "h": 446 },
+      "sourceSize": { "w": 640, "h": 450 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/table_row.png": {
+      "frame": { "x": 1259, "y": 452, "w": 620, "h": 120 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 5, "w": 620, "h": 120 },
+      "sourceSize": { "w": 630, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/speech_bubble.png": {
+      "frame": { "x": 1259, "y": 576, "w": 614, "h": 167 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 4, "w": 614, "h": 167 },
+      "sourceSize": { "w": 620, "h": 171 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/error_modal/bg.png": {
+      "frame": { "x": 1175, "y": 1387, "w": 607, "h": 302 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 4, "w": 607, "h": 302 },
+      "sourceSize": { "w": 610, "h": 310 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/endscreen/loser_popup.png": {
+      "frame": { "x": 1259, "y": 747, "w": 582, "h": 172 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 4, "w": 582, "h": 172 },
+      "sourceSize": { "w": 590, "h": 180 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/thundeer/back.png": {
+      "frame": { "x": 1786, "y": 1387, "w": 236, "h": 376 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 236, "h": 376 },
+      "sourceSize": { "w": 239, "h": 378 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/huds/pane_tooltip_dark.png": {
+      "frame": { "x": 1845, "y": 747, "w": 192, "h": 121 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 8, "w": 192, "h": 121 },
+      "sourceSize": { "w": 200, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/onboarding/btn_yes.png": {
+      "frame": { "x": 1175, "y": 1693, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 200, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/endscreen/btn_share.png": {
+      "frame": { "x": 1370, "y": 1693, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 200, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/btn_confirm_release.png": {
+      "frame": { "x": 1565, "y": 1693, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 200, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/guard_icon.png": {
+      "frame": { "x": 1903, "y": 2, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/jenni_icon.png": {
+      "frame": { "x": 1903, "y": 116, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/julian_icon.png": {
+      "frame": { "x": 1903, "y": 230, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/klaude_dracula_icon.png": {
+      "frame": { "x": 1903, "y": 344, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/klaude_icon.png": {
+      "frame": { "x": 1883, "y": 458, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/kolin_icon.png": {
+      "frame": { "x": 1883, "y": 572, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/node.png": {
+      "frame": { "x": 1845, "y": 872, "w": 90, "h": 64 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 8, "w": 90, "h": 64 },
+      "sourceSize": { "w": 100, "h": 80 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/products/product_dust1.png": {
+      "frame": { "x": 1939, "y": 872, "w": 69, "h": 61 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 56, "w": 69, "h": 61 },
+      "sourceSize": { "w": 80, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/frame_diamond.png": {
+      "frame": { "x": 1010, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/frame_earth.png": {
+      "frame": { "x": 1078, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/frame_elec.png": {
+      "frame": { "x": 1146, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/frame_fire.png": {
+      "frame": { "x": 1214, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/frame_water.png": {
+      "frame": { "x": 1282, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/icon_shape.png": {
+      "frame": { "x": 1350, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/icon_unknown.png": {
+      "frame": { "x": 1418, "y": 1974, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/btn_close.png": {
+      "frame": { "x": 1486, "y": 1974, "w": 63, "h": 62 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 8, "y": 9, "w": 63, "h": 62 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/solo-shop/offer_badge.png": {
+      "frame": { "x": 1553, "y": 1974, "w": 58, "h": 58 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 58, "h": 58 },
+      "sourceSize": { "w": 60, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/mister_pumpkin_avatar.png": {
+      "frame": { "x": 1877, "y": 686, "w": 50, "h": 57 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 2, "w": 50, "h": 57 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/christos_avatar.png": {
+      "frame": { "x": 1931, "y": 686, "w": 44, "h": 56 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 44, "h": 56 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/dark_elite_guard_avatar.png": {
+      "frame": { "x": 1979, "y": 686, "w": 50, "h": 56 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 56 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/earth_elite_guard_avatar.png": {
+      "frame": { "x": 1997, "y": 458, "w": 48, "h": 56 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 48, "h": 56 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/sofia_avatar.png": {
+      "frame": { "x": 1615, "y": 1974, "w": 54, "h": 56 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 4, "w": 54, "h": 56 },
+      "sourceSize": { "w": 60, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/quest/red_x.png": {
+      "frame": { "x": 1673, "y": 1974, "w": 55, "h": 56 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 55, "h": 56 },
+      "sourceSize": { "w": 60, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/fonts/code_buttons/c66.png": {
+      "frame": { "x": 1732, "y": 1974, "w": 55, "h": 55 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 7, "w": 55, "h": 55 },
+      "sourceSize": { "w": 55, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/fire_elite_devil_avatar.png": {
+      "frame": { "x": 1791, "y": 1974, "w": 50, "h": 55 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 3, "w": 50, "h": 55 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/fredrik_avatar.png": {
+      "frame": { "x": 1997, "y": 518, "w": 44, "h": 55 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 4, "w": 44, "h": 55 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/traveler_avatar.png": {
+      "frame": { "x": 1845, "y": 1974, "w": 55, "h": 53 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 4, "w": 55, "h": 53 },
+      "sourceSize": { "w": 60, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/water_elite_guard_avatar.png": {
+      "frame": { "x": 1904, "y": 1974, "w": 50, "h": 55 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 2, "w": 50, "h": 55 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/jenni_avatar.png": {
+      "frame": { "x": 1997, "y": 577, "w": 46, "h": 54 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 6, "w": 46, "h": 54 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/enemies/mysterious_man_avatar.png": {
+      "frame": { "x": 1958, "y": 1974, "w": 44, "h": 54 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 44, "h": 54 },
+      "sourceSize": { "w": 50, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/products/product_dustRV.png": {
+      "frame": { "x": 1939, "y": 872, "w": 69, "h": 61 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 56, "w": 69, "h": 61 },
+      "sourceSize": { "w": 80, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-11.png",
+    "format": "RGBA8888",
+    "size": { "w": 2047, "h": 2040 },
+    "scale": 1
+  }
+}

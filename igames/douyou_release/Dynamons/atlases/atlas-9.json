@@ -1,0 +1,180 @@
+{
+  "frames": {
+    "images/session/abilities/fx/diamond_sky.png": {
+      "frame": { "x": 2, "y": 2, "w": 1386, "h": 220 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 14, "y": 0, "w": 1386, "h": 220 },
+      "sourceSize": { "w": 1400, "h": 220 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/boulder_ice.png": {
+      "frame": { "x": 2, "y": 226, "w": 1385, "h": 213 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 14, "y": 4, "w": 1385, "h": 213 },
+      "sourceSize": { "w": 1400, "h": 220 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/boulder_earth.png": {
+      "frame": { "x": 2, "y": 443, "w": 1367, "h": 206 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 17, "y": 1, "w": 1367, "h": 206 },
+      "sourceSize": { "w": 1400, "h": 220 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/boulder_fire.png": {
+      "frame": { "x": 2, "y": 653, "w": 1367, "h": 204 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 17, "y": 1, "w": 1367, "h": 204 },
+      "sourceSize": { "w": 1400, "h": 220 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/shockwave.png": {
+      "frame": { "x": 2, "y": 861, "w": 1316, "h": 367 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 27, "y": 20, "w": 1316, "h": 367 },
+      "sourceSize": { "w": 1348, "h": 412 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/static_shock.png": {
+      "frame": { "x": 2, "y": 1232, "w": 1301, "h": 271 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 25, "y": 15, "w": 1301, "h": 271 },
+      "sourceSize": { "w": 1330, "h": 322 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/quick_punch.png": {
+      "frame": { "x": 2, "y": 1507, "w": 1257, "h": 284 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 100, "y": 17, "w": 1257, "h": 284 },
+      "sourceSize": { "w": 1408, "h": 317 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/shadow_slash.png": {
+      "frame": { "x": 2, "y": 1795, "w": 1210, "h": 239 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 1210, "h": 239 },
+      "sourceSize": { "w": 1300, "h": 251 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/bg_team.png": {
+      "frame": { "x": 1392, "y": 2, "w": 640, "h": 1136 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 1136 },
+      "sourceSize": { "w": 640, "h": 1136 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/bg.png": {
+      "frame": { "x": 1307, "y": 1232, "w": 542, "h": 793 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 542, "h": 793 },
+      "sourceSize": { "w": 542, "h": 793 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/btn_watch_ad_bg.png": {
+      "frame": { "x": 1853, "y": 1142, "w": 190, "h": 290 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 190, "h": 290 },
+      "sourceSize": { "w": 190, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/btn_watch_ad_no_wifi_bg.png": {
+      "frame": { "x": 1853, "y": 1436, "w": 190, "h": 290 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 190, "h": 290 },
+      "sourceSize": { "w": 190, "h": 290 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/cable.png": {
+      "frame": { "x": 1853, "y": 1730, "w": 192, "h": 289 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 8, "y": 0, "w": 192, "h": 289 },
+      "sourceSize": { "w": 287, "h": 289 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/btn_cancel.png": {
+      "frame": { "x": 1322, "y": 1142, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 4, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 200, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/btn_cool.png": {
+      "frame": { "x": 1517, "y": 1142, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/antidote.png": {
+      "frame": { "x": 1322, "y": 861, "w": 56, "h": 110 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 7, "y": 5, "w": 56, "h": 110 },
+      "sourceSize": { "w": 70, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/halloween_medal.png": {
+      "frame": { "x": 1216, "y": 1795, "w": 83, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 110 },
+      "sourceSize": { "w": 83, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/scarykin_medal.png": {
+      "frame": { "x": 1216, "y": 1909, "w": 83, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 110 },
+      "sourceSize": { "w": 83, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/info/skill_lock.png": {
+      "frame": { "x": 1712, "y": 1142, "w": 109, "h": 50 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 5, "y": 5, "w": 109, "h": 50 },
+      "sourceSize": { "w": 120, "h": 60 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/icons/vaccine.png": {
+      "frame": { "x": 1322, "y": 975, "w": 60, "h": 93 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 3, "w": 60, "h": 93 },
+      "sourceSize": { "w": 69, "h": 100 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/dynapedia/frame_dark.png": {
+      "frame": { "x": 1322, "y": 1072, "w": 64, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+      "sourceSize": { "w": 64, "h": 64 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-9.png",
+    "format": "RGBA8888",
+    "size": { "w": 2047, "h": 2036 },
+    "scale": 1
+  }
+}

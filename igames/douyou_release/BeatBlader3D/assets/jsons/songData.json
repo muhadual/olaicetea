@@ -1,0 +1,77 @@
+[
+  {
+    "id": "song001",
+    "songName": "song_1",
+    "name": "Do what you want",
+    "author": "Mikey Geiger",
+    "iconName": "spr_icon_song_01",
+    "duration": 129,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "song002",
+    "songName": "song_2",
+    "name": "Dua lua",
+    "author": "Simen Andreas",
+    "iconName": "spr_icon_song_02",
+    "duration": 137,
+    "difficulty": "Easy"
+
+  },
+  {
+    "id": "song003",
+    "songName": "song_3",
+    "name": "Digital trap house",
+    "isUnlockByCoin" : true,
+    "author": "Ivy Bakes",
+    "iconName": "spr_icon_song_03",
+    "duration": 122,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "song004",
+    "songName": "song_4",
+    "name": "Hair flip",
+    "isUnlockByCoin" : true,
+    "author": "Ivy Bakes",
+    "iconName": "spr_icon_song_04",
+    "duration": 116,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "song005",
+    "songName": "song_5",
+    "name": "I like that",
+    "author": "Ivy Bakes",
+    "iconName": "spr_icon_song_05",
+    "duration": 129,
+    "difficulty": "Expert"
+  },
+  {
+    "id": "song006",
+    "songName": "song_6",
+    "name": "Mambo Jumbo",
+    "author": "Wayfair",
+    "iconName": "spr_icon_song_06",
+    "duration": 104,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "song007",
+    "songName": "song_7",
+    "name": "Chatter",
+    "author": "Raw lew",
+    "iconName": "spr_icon_song_07",
+    "duration": 117,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "song010",
+    "songName": "song_10",
+    "name": "Kooky spooky",
+    "author": "Wayfair",
+    "iconName": "spr_icon_song_10",
+    "duration": 60,
+    "difficulty": "Hard"
+  }
+]

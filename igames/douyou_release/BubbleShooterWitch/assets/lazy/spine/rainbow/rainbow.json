@@ -1,0 +1,1845 @@
+{
+  "skeleton": {
+    "hash": "uHbFvO60aIs",
+    "spine": "3.8-from-4.0-from-4.1-from-4.2.36",
+    "x": -52.5,
+    "y": -52.5,
+    "width": 105,
+    "height": 105,
+    "images": "",
+    "audio": ""
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "shar", "parent": "root", "color": "82fff1ff", "icon": "ik" },
+    { "name": "first", "parent": "shar" },
+    { "name": "base_simple", "parent": "shar" },
+    {
+      "name": "firework",
+      "parent": "root",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework2",
+      "parent": "firework",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework3",
+      "parent": "firework2",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework4",
+      "parent": "firework2",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework5",
+      "parent": "firework2",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework6",
+      "parent": "firework2",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework7",
+      "parent": "firework2",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework8",
+      "parent": "firework2",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework9",
+      "parent": "firework",
+      "rotation": 88.37,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework10",
+      "parent": "firework9",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework11",
+      "parent": "firework9",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework12",
+      "parent": "firework9",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework13",
+      "parent": "firework9",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework14",
+      "parent": "firework9",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework15",
+      "parent": "firework9",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework16",
+      "parent": "firework",
+      "rotation": 178.86,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework17",
+      "parent": "firework16",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework18",
+      "parent": "firework16",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework19",
+      "parent": "firework16",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework20",
+      "parent": "firework16",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework21",
+      "parent": "firework16",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework22",
+      "parent": "firework16",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework23",
+      "parent": "firework",
+      "rotation": 270.06,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework24",
+      "parent": "firework23",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework25",
+      "parent": "firework23",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework26",
+      "parent": "firework23",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework27",
+      "parent": "firework23",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework28",
+      "parent": "firework23",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework29",
+      "parent": "firework23",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework30",
+      "parent": "firework",
+      "rotation": 312.44,
+      "scaleX": 0.595,
+      "scaleY": 0.595,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework31",
+      "parent": "firework30",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework32",
+      "parent": "firework30",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework33",
+      "parent": "firework30",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework34",
+      "parent": "firework30",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework35",
+      "parent": "firework30",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework36",
+      "parent": "firework30",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework37",
+      "parent": "firework",
+      "rotation": 404.29,
+      "scaleX": 0.595,
+      "scaleY": 0.595,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework38",
+      "parent": "firework37",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework39",
+      "parent": "firework37",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework40",
+      "parent": "firework37",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework41",
+      "parent": "firework37",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework42",
+      "parent": "firework37",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework43",
+      "parent": "firework37",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework44",
+      "parent": "firework",
+      "rotation": 492.44,
+      "scaleX": 0.595,
+      "scaleY": 0.595,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework45",
+      "parent": "firework44",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework46",
+      "parent": "firework44",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework47",
+      "parent": "firework44",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework48",
+      "parent": "firework44",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework49",
+      "parent": "firework44",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework50",
+      "parent": "firework44",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework51",
+      "parent": "firework",
+      "rotation": 590.02,
+      "scaleX": 0.595,
+      "scaleY": 0.595,
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework52",
+      "parent": "firework51",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework53",
+      "parent": "firework51",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework54",
+      "parent": "firework51",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework55",
+      "parent": "firework51",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework56",
+      "parent": "firework51",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "firework57",
+      "parent": "firework51",
+      "color": "feff81ff",
+      "icon": "fire"
+    },
+    {
+      "name": "glow",
+      "parent": "firework",
+      "color": "fdff0aff",
+      "icon": "asterisk"
+    }
+  ],
+  "slots": [
+    { "name": "glow", "bone": "glow", "attachment": "glow" },
+    {
+      "name": "confetti_rainbow_firework",
+      "bone": "firework3",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework7",
+      "bone": "firework10",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework13",
+      "bone": "firework17",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework19",
+      "bone": "firework24",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework25",
+      "bone": "firework31",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework31",
+      "bone": "firework38",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework37",
+      "bone": "firework45",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework43",
+      "bone": "firework52",
+      "color": "ff3a3aff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework2",
+      "bone": "firework4",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework8",
+      "bone": "firework11",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework14",
+      "bone": "firework18",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework20",
+      "bone": "firework25",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework26",
+      "bone": "firework32",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework32",
+      "bone": "firework39",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework38",
+      "bone": "firework46",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework44",
+      "bone": "firework53",
+      "color": "ff7a00ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework3",
+      "bone": "firework5",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework9",
+      "bone": "firework12",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework15",
+      "bone": "firework19",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework21",
+      "bone": "firework26",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework27",
+      "bone": "firework33",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework33",
+      "bone": "firework40",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework39",
+      "bone": "firework47",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework45",
+      "bone": "firework54",
+      "color": "ffdc10ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework4",
+      "bone": "firework6",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework10",
+      "bone": "firework13",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework16",
+      "bone": "firework20",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework22",
+      "bone": "firework27",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework28",
+      "bone": "firework34",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework34",
+      "bone": "firework41",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework40",
+      "bone": "firework48",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework46",
+      "bone": "firework55",
+      "color": "8bcf3dff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework5",
+      "bone": "firework7",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework11",
+      "bone": "firework14",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework17",
+      "bone": "firework21",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework23",
+      "bone": "firework28",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework29",
+      "bone": "firework35",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework35",
+      "bone": "firework42",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework41",
+      "bone": "firework49",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework47",
+      "bone": "firework56",
+      "color": "54c0fdff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework6",
+      "bone": "firework8",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework12",
+      "bone": "firework15",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework18",
+      "bone": "firework22",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework24",
+      "bone": "firework29",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework30",
+      "bone": "firework36",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework36",
+      "bone": "firework43",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework42",
+      "bone": "firework50",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "confetti_rainbow_firework48",
+      "bone": "firework57",
+      "color": "3296e4ff",
+      "attachment": "confetti_rainbow_firework"
+    },
+    {
+      "name": "base_simple",
+      "bone": "base_simple",
+      "attachment": "base_simple"
+    },
+    { "name": "first", "bone": "first", "attachment": "first" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "base_simple": {
+          "base_simple": {
+            "type": "mesh",
+            "uvs": [
+              1, 1, 0, 1, 0, 0, 1, 0, 0.51589, 0.49477, 0.14873, 0.85434,
+              0.84742, 0.84076, 0.85977, 0.14332, 0.15638, 0.14998
+            ],
+            "triangles": [
+              3, 8, 2, 7, 8, 3, 4, 8, 7, 6, 4, 7, 5, 2, 8, 5, 8, 4, 5, 4, 6, 5,
+              1, 2, 7, 3, 0, 6, 7, 0, 5, 6, 0, 1, 5, 0
+            ],
+            "vertices": [
+              52.5, -52.5, -52.5, -52.5, -52.5, 52.5, 52.5, 52.5, 1.67, 0.55,
+              -36.88, -37.21, 36.48, -35.78, 37.78, 37.45, -36.08, 36.75
+            ],
+            "hull": 4,
+            "edges": [
+              0, 2, 2, 4, 4, 6, 0, 6, 2, 10, 10, 8, 0, 12, 12, 8, 10, 12, 6, 14,
+              14, 8, 12, 14, 4, 16, 16, 8, 14, 16, 16, 10
+            ],
+            "width": 105,
+            "height": 105
+          }
+        },
+        "confetti_rainbow_firework": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework2": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework3": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework4": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework5": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework6": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework7": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework8": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework9": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework10": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework11": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework12": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework13": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework14": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework15": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework16": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework17": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework18": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework19": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework20": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework21": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework22": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework23": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework24": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework25": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework26": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework27": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework28": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework29": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework30": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework31": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework32": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework33": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework34": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework35": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework36": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework37": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework38": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework39": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework40": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework41": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework42": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework43": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework44": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework45": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework46": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework47": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "confetti_rainbow_firework48": {
+          "confetti_rainbow_firework": {
+            "scaleX": 0.5366,
+            "scaleY": 0.5366,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "first": { "first": { "width": 105, "height": 105 } },
+        "glow": { "glow": { "width": 96, "height": 93 } }
+      }
+    }
+  ],
+  "animations": {
+    "firework": {
+      "slots": {
+        "base_simple": {
+          "color": [
+            { "time": 0.0333, "color": "ffffffff" },
+            { "time": 0.2, "color": "ffffff00" }
+          ]
+        },
+        "confetti_rainbow_firework": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework2": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework3": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework4": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework5": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework6": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework7": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework8": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework9": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework10": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework11": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework12": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework13": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework14": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework15": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework16": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework17": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework18": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework19": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework20": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework21": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework22": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework23": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework24": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework25": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework26": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework27": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework28": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework29": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework30": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework31": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework32": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework33": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework34": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework35": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework36": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework37": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework38": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework39": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework40": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework41": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework42": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "confetti_rainbow_firework43": {
+          "color": [
+            { "time": 0.3, "color": "ff3a3aff" },
+            { "time": 0.4667, "color": "ff3a3a00" }
+          ],
+          "attachment": [{ "time": 0.5, "name": null }]
+        },
+        "confetti_rainbow_firework44": {
+          "color": [
+            { "time": 0.2, "color": "ff7a00ff" },
+            { "time": 0.3, "color": "ff7a0000" }
+          ],
+          "attachment": [{ "time": 0.3, "name": null }]
+        },
+        "confetti_rainbow_firework45": {
+          "color": [
+            { "time": 0.2667, "color": "ffdc10ff" },
+            { "time": 0.3667, "color": "ffdc1000" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework46": {
+          "color": [
+            { "time": 0.2333, "color": "8bcf3dff" },
+            { "time": 0.3667, "color": "8bcf3d00" }
+          ],
+          "attachment": [{ "time": 0.4, "name": null }]
+        },
+        "confetti_rainbow_firework47": {
+          "color": [
+            { "time": 0.2, "color": "54c0fdff" },
+            { "time": 0.3333, "color": "54c0fd00" }
+          ],
+          "attachment": [{ "time": 0.3667, "name": null }]
+        },
+        "confetti_rainbow_firework48": {
+          "color": [
+            { "time": 0.2667, "color": "3296e4ff" },
+            { "time": 0.4333, "color": "3296e400" }
+          ],
+          "attachment": [{ "time": 0.4667, "name": null }]
+        },
+        "first": {
+          "color": [
+            { "time": 0.0333, "color": "ffffffff" },
+            { "time": 0.2, "color": "ffffff00" }
+          ]
+        },
+        "glow": {
+          "color": [
+            { "time": 0.1667, "color": "ffffffff" },
+            { "time": 0.3333, "color": "ffffff00" }
+          ]
+        }
+      },
+      "bones": {
+        "firework3": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework4": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework5": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework6": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework7": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework8": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework10": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework11": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework12": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework13": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework14": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework15": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework17": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework18": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework19": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework20": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework21": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework22": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework24": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework25": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework26": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework27": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework28": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework29": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework31": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework32": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework33": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework34": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework35": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework36": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework38": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework39": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework40": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework41": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework42": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework43": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework45": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework46": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework47": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework48": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework49": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework50": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "firework52": {
+          "translate": [
+            { "time": 0.0333, "x": 11.61, "y": 30.36 },
+            { "time": 0.4667, "x": 46.43, "y": 121.42 }
+          ]
+        },
+        "firework53": {
+          "translate": [
+            { "time": 0.0333, "x": -11.32, "y": 28.93 },
+            { "time": 0.3, "x": -45.29, "y": 115.71 }
+          ]
+        },
+        "firework54": {
+          "translate": [
+            { "time": 0.0333, "x": 21.15, "y": 18.48 },
+            { "time": 0.3667, "x": 84.58, "y": 73.91 }
+          ]
+        },
+        "firework55": {
+          "translate": [
+            { "time": 0.0333, "y": 35.1 },
+            { "time": 0.3667, "y": 140.42 }
+          ]
+        },
+        "firework56": {
+          "translate": [
+            { "time": 0.0333, "x": 22.92, "y": 28.97 },
+            { "time": 0.3333, "x": 91.68, "y": 115.86 }
+          ]
+        },
+        "firework57": {
+          "translate": [
+            { "time": 0.0333, "x": 4.37, "y": 23.24 },
+            { "time": 0.4333, "x": 17.46, "y": 92.94 }
+          ]
+        },
+        "shar": {
+          "scale": [
+            {},
+            { "time": 0.0333, "x": 0.849, "y": 0.849 },
+            { "time": 0.2667, "x": 1.601, "y": 1.601 }
+          ]
+        },
+        "glow": {
+          "scale": [
+            { "time": 0.0333 },
+            { "time": 0.3333, "x": 3.469, "y": 3.469 }
+          ]
+        }
+      }
+    },
+    "idle": {
+      "slots": {
+        "confetti_rainbow_firework": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework2": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework3": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework4": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework5": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework6": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework7": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework8": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework9": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework10": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework11": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework12": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework13": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework14": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework15": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework16": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework17": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework18": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework19": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework20": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework21": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework22": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework23": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework24": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework25": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework26": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework27": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework28": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework29": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework30": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework31": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework32": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework33": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework34": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework35": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework36": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework37": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework38": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework39": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework40": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework41": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework42": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework43": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework44": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework45": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework46": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework47": { "attachment": [{ "name": null }] },
+        "confetti_rainbow_firework48": { "attachment": [{ "name": null }] },
+        "glow": { "attachment": [{ "name": null }] }
+      },
+      "bones": {
+        "base_simple": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": 53.83 },
+            { "time": 0.3333, "angle": 120.9 },
+            { "time": 0.5, "angle": 166.32 },
+            { "time": 0.6667, "angle": 213.79 },
+            { "time": 0.8333, "angle": 270.97 },
+            { "time": 1, "angle": 322.42 },
+            { "time": 1.0667, "angle": 360 }
+          ]
+        }
+      },
+      "deform": {
+        "default": {
+          "base_simple": {
+            "base_simple": [
+              {},
+              { "time": 0.1667, "offset": 8, "vertices": [-9.90007, 2.13097] },
+              { "time": 0.3333, "offset": 8, "vertices": [5.83235, -9.40584] },
+              { "time": 0.5, "offset": 8, "vertices": [-8.35624, 5.2581] },
+              { "time": 0.6667, "offset": 8, "vertices": [10.64722, -6.72705] },
+              {
+                "time": 0.8333,
+                "offset": 8,
+                "vertices": [-16.01604, -3.84893]
+              },
+              { "time": 1, "offset": 8, "vertices": [7.63454, -11.69025] },
+              { "time": 1.0667 }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

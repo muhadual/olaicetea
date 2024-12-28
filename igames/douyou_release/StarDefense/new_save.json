@@ -1,0 +1,54 @@
+{
+	"lang":"ru",
+	
+	"sound": 1,
+
+	"coin": 1000,
+	
+	"wave": 1,
+	
+	"wave_best": 0,
+	
+	"costGun": 100,
+
+	"wall_level": 0,
+	
+	"wall_hp": 1000, 
+	
+	"tutor": "on",
+	
+
+	
+	"Gun_Set": [
+	
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	
+	],
+	
+	
+	"Gun_SetShoot": [
+	
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	
+	],
+	
+	"gun_data": "off"
+
+
+}

@@ -1,0 +1,340 @@
+{
+  "frames": {
+    "images/general/mons/lionydys/back.png": {
+      "frame": { "x": 2, "y": 2, "w": 454, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 454, "h": 378 },
+      "sourceSize": { "w": 458, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lionydys/front.png": {
+      "frame": { "x": 460, "y": 2, "w": 454, "h": 376 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 454, "h": 376 },
+      "sourceSize": { "w": 458, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lionydys_halloween/front.png": {
+      "frame": { "x": 918, "y": 2, "w": 454, "h": 376 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 454, "h": 376 },
+      "sourceSize": { "w": 458, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/lionydys_halloween/shape.png": {
+      "frame": { "x": 1376, "y": 2, "w": 454, "h": 376 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 454, "h": 376 },
+      "sourceSize": { "w": 458, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/tydonyx/front.png": {
+      "frame": { "x": 460, "y": 382, "w": 454, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 454, "h": 377 },
+      "sourceSize": { "w": 457, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/tydonyx/shape.png": {
+      "frame": { "x": 2, "y": 384, "w": 454, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 454, "h": 377 },
+      "sourceSize": { "w": 457, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/buzzsnap/back.png": {
+      "frame": { "x": 918, "y": 382, "w": 453, "h": 301 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 4, "w": 453, "h": 301 },
+      "sourceSize": { "w": 462, "h": 310 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kangaboom/front.png": {
+      "frame": { "x": 1375, "y": 382, "w": 453, "h": 364 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 453, "h": 364 },
+      "sourceSize": { "w": 459, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/kangaboom/shape.png": {
+      "frame": { "x": 918, "y": 687, "w": 453, "h": 365 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 453, "h": 365 },
+      "sourceSize": { "w": 459, "h": 370 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/tydonyx/back.png": {
+      "frame": { "x": 460, "y": 763, "w": 453, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 453, "h": 377 },
+      "sourceSize": { "w": 457, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/tydonyx_halloween/back.png": {
+      "frame": { "x": 2, "y": 765, "w": 453, "h": 377 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 453, "h": 377 },
+      "sourceSize": { "w": 457, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/eraseon/back.png": {
+      "frame": { "x": 1375, "y": 750, "w": 452, "h": 379 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 0, "w": 452, "h": 379 },
+      "sourceSize": { "w": 454, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/eraseon/front.png": {
+      "frame": { "x": 917, "y": 1056, "w": 452, "h": 336 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 452, "h": 336 },
+      "sourceSize": { "w": 454, "h": 339 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/eraseon/shape.png": {
+      "frame": { "x": 459, "y": 1144, "w": 452, "h": 336 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 452, "h": 336 },
+      "sourceSize": { "w": 454, "h": 339 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/huango/front.png": {
+      "frame": { "x": 2, "y": 1146, "w": 449, "h": 313 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 1, "w": 449, "h": 313 },
+      "sourceSize": { "w": 452, "h": 315 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/huango/shape.png": {
+      "frame": { "x": 2, "y": 1463, "w": 449, "h": 313 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 2, "w": 449, "h": 313 },
+      "sourceSize": { "w": 452, "h": 315 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/glixonyx/front.png": {
+      "frame": { "x": 455, "y": 1484, "w": 446, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 446, "h": 378 },
+      "sourceSize": { "w": 449, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/glixonyx/shape.png": {
+      "frame": { "x": 905, "y": 1484, "w": 446, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 446, "h": 378 },
+      "sourceSize": { "w": 449, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/glixonyx/back.png": {
+      "frame": { "x": 1373, "y": 1133, "w": 445, "h": 378 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 445, "h": 378 },
+      "sourceSize": { "w": 449, "h": 380 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/blitzle/front.png": {
+      "frame": { "x": 1355, "y": 1515, "w": 437, "h": 357 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 2, "w": 437, "h": 357 },
+      "sourceSize": { "w": 443, "h": 360 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/fengo/back.png": {
+      "frame": { "x": 2, "y": 1780, "w": 339, "h": 259 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 339, "h": 259 },
+      "sourceSize": { "w": 340, "h": 260 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/shockadile/shape.png": {
+      "frame": { "x": 1796, "y": 1515, "w": 233, "h": 338 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 2, "w": 233, "h": 338 },
+      "sourceSize": { "w": 237, "h": 340 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_electric/front.png": {
+      "frame": { "x": 1822, "y": 1133, "w": 220, "h": 309 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 220, "h": 309 },
+      "sourceSize": { "w": 220, "h": 310 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_malakite/shape.png": {
+      "frame": { "x": 1834, "y": 2, "w": 198, "h": 300 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 0, "w": 198, "h": 300 },
+      "sourceSize": { "w": 200, "h": 301 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_kobalt/front.png": {
+      "frame": { "x": 1834, "y": 306, "w": 199, "h": 298 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 199, "h": 298 },
+      "sourceSize": { "w": 200, "h": 299 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/baby_kobalt/shape.png": {
+      "frame": { "x": 1832, "y": 608, "w": 199, "h": 298 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 1, "w": 199, "h": 298 },
+      "sourceSize": { "w": 200, "h": 299 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx/icon.png": {
+      "frame": { "x": 345, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dagaryx_halloween/icon.png": {
+      "frame": { "x": 459, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dark_egg_2/icon.png": {
+      "frame": { "x": 573, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/darkdragonegg/icon.png": {
+      "frame": { "x": 687, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/devish/icon.png": {
+      "frame": { "x": 801, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/diamonddragonegg/icon.png": {
+      "frame": { "x": 915, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/draxygus/icon.png": {
+      "frame": { "x": 1029, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dreq/icon.png": {
+      "frame": { "x": 1143, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dropkola/icon.png": {
+      "frame": { "x": 1257, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dropkola_diamond/icon.png": {
+      "frame": { "x": 1371, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dropkolyx/icon.png": {
+      "frame": { "x": 1485, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dropkolyx_diamond/icon.png": {
+      "frame": { "x": 1599, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/duckron/icon.png": {
+      "frame": { "x": 1713, "y": 1876, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/duxnite/icon.png": {
+      "frame": { "x": 1827, "y": 1857, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/mons/dynabug/icon.png": {
+      "frame": { "x": 1831, "y": 910, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-21.png",
+    "format": "RGBA8888",
+    "size": { "w": 2044, "h": 2041 },
+    "scale": 1
+  }
+}

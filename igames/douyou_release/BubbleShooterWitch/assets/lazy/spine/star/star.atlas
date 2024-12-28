@@ -1,0 +1,20 @@
+
+star.png
+size: 82, 58
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 56, 54
+  orig: 58, 55
+  offset: 1, 0
+  index: -1
+star_particle
+  rotate: false
+  xy: 60, 36
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1

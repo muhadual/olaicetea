@@ -1,0 +1,34 @@
+
+witch.png
+size: 361, 260
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eyes_1
+  rotate: false
+  xy: 53, 244
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+eyes_2
+  rotate: false
+  xy: 2, 240
+  size: 49, 18
+  orig: 50, 19
+  offset: 1, 0
+  index: -1
+witch
+  rotate: 180
+  xy: 158, 11
+  size: 201, 247
+  orig: 201, 247
+  offset: 0, 0
+  index: -1
+witch_shadow
+  rotate: false
+  xy: 2, 2
+  size: 208, 256
+  orig: 212, 256
+  offset: 2, 0
+  index: -1

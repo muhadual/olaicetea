@@ -1,0 +1,236 @@
+{
+  "frames": {
+    "images/session/abilities/fx/nature_beam.png": {
+      "frame": { "x": 2, "y": 2, "w": 1263, "h": 920 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 62, "y": 0, "w": 1263, "h": 920 },
+      "sourceSize": { "w": 1350, "h": 920 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/abilities/fx/ion_beam.png": {
+      "frame": { "x": 2, "y": 926, "w": 1259, "h": 938 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 0, "w": 1259, "h": 938 },
+      "sourceSize": { "w": 1280, "h": 940 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/card_use_mega.png": {
+      "frame": { "x": 2, "y": 1868, "w": 1161, "h": 138 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 36, "y": 26, "w": 1161, "h": 138 },
+      "sourceSize": { "w": 1200, "h": 200 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/map_info/bg.png": {
+      "frame": { "x": 1269, "y": 2, "w": 640, "h": 725 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 3, "w": 640, "h": 725 },
+      "sourceSize": { "w": 640, "h": 731 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/bg_full.png": {
+      "frame": { "x": 1269, "y": 731, "w": 640, "h": 647 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 11, "w": 640, "h": 647 },
+      "sourceSize": { "w": 640, "h": 660 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/map_info/headers/halloween.png": {
+      "frame": { "x": 1167, "y": 1868, "w": 640, "h": 172 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 172 },
+      "sourceSize": { "w": 640, "h": 172 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/map_info/headers/legendary_cave.png": {
+      "frame": { "x": 1265, "y": 1382, "w": 640, "h": 172 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 172 },
+      "sourceSize": { "w": 640, "h": 172 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/info/skills_bg.png": {
+      "frame": { "x": 1265, "y": 1558, "w": 640, "h": 198 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 5, "w": 640, "h": 198 },
+      "sourceSize": { "w": 640, "h": 210 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/dialog/guard.png": {
+      "frame": { "x": 1811, "y": 1760, "w": 215, "h": 286 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 54, "y": 14, "w": 215, "h": 286 },
+      "sourceSize": { "w": 326, "h": 300 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/enemy/btn_fight.png": {
+      "frame": { "x": 1265, "y": 1760, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/map/modals/enemy/btn_fight_grey.png": {
+      "frame": { "x": 1460, "y": 1760, "w": 191, "h": 80 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 5, "w": 191, "h": 80 },
+      "sourceSize": { "w": 210, "h": 90 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/session/ui/discatch_glow.png": {
+      "frame": { "x": 1913, "y": 2, "w": 115, "h": 121 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 43, "y": 43, "w": 115, "h": 121 },
+      "sourceSize": { "w": 201, "h": 207 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/items/item_selected.png": {
+      "frame": { "x": 1913, "y": 127, "w": 118, "h": 118 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 118, "h": 118 },
+      "sourceSize": { "w": 120, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/team/info/skill_select.png": {
+      "frame": { "x": 1913, "y": 249, "w": 118, "h": 118 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 1, "y": 1, "w": 118, "h": 118 },
+      "sourceSize": { "w": 120, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/error_modal/icon_fixing.png": {
+      "frame": { "x": 1913, "y": 371, "w": 117, "h": 117 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 7, "y": 6, "w": 117, "h": 117 },
+      "sourceSize": { "w": 130, "h": 130 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/christos_icon.png": {
+      "frame": { "x": 1913, "y": 492, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/chuk_icon.png": {
+      "frame": { "x": 1913, "y": 606, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/chuk_zombie_icon.png": {
+      "frame": { "x": 1913, "y": 720, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/dark_elite_guard_icon.png": {
+      "frame": { "x": 1913, "y": 834, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/dracula_zombie_icon.png": {
+      "frame": { "x": 1913, "y": 948, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/earth_elite_frankenstein_icon.png": {
+      "frame": { "x": 1913, "y": 1062, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/earth_elite_guard_icon.png": {
+      "frame": { "x": 1913, "y": 1176, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/explorer_icon.png": {
+      "frame": { "x": 1913, "y": 1290, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/fire_elite_devil_icon.png": {
+      "frame": { "x": 1909, "y": 1404, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/fire_elite_guard_icon.png": {
+      "frame": { "x": 1909, "y": 1518, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/fredrik_icon.png": {
+      "frame": { "x": 1909, "y": 1632, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/new-shop/products/product_dust2.png": {
+      "frame": { "x": 1655, "y": 1760, "w": 107, "h": 76 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 2, "y": 41, "w": 107, "h": 76 },
+      "sourceSize": { "w": 110, "h": 120 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "images/general/char_icons/frankenstein_icon.png": {
+      "frame": { "x": 1913, "y": 1062, "w": 110, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 110 },
+      "sourceSize": { "w": 110, "h": 110 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/grunt-free-tex-packer",
+    "version": "0.2.8",
+    "image": "atlas-10.png",
+    "format": "RGBA8888",
+    "size": { "w": 2033, "h": 2048 },
+    "scale": 1
+  }
+}

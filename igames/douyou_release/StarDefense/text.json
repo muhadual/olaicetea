@@ -1,0 +1,76 @@
+{
+
+"------------------ menu ----------------":"---",
+
+	"play_ru":			"ИГРАТЬ",
+	"play_en":			"PLAY",
+	"play_tr":			"OYNAMAK",
+	
+	"dell_ru":			"Удалить прогресс и начать сначала?",
+	"dell_en":			"Delete the progress and start over?",
+	"dell_tr":			"İlerlemeyi silip baştan mi başlıyorsunuz?",
+	
+"------------------ game ----------------":"---",
+
+	"fight_ru":			"БОЙ",
+	"fight_en":			"FIGHT",
+	"fight_tr":			"SAVAŞ",
+	
+	"max_ru":			"МАКС",
+	"max_en":			"MAX",
+	"max_tr":			"MAKS",
+	
+	
+	"power_ru":			"УРОН",	
+	"power_en":			"DAMAGE",
+	"power_tr":			"ZARAR",
+	
+	
+	"win_ru":   		"ПОБЕДА",
+	"win_en":   		"VICTORY",
+	"win_tr":   		"ZAFER",
+	
+	"pause_ru":   		"ПАУЗА",
+	"pause_en":   		"PAUSE",
+	"pause_tr":   		"DURAKLAMA",
+	
+	"win_bonus_ru":   		"Монетный бонус за победу",
+	"win_bonus_en":   		"Coin bonus for winning",
+	"win_bonus_tr":   		"Kazanmak için jetonla çalışan bonus",
+	
+	"win_total_ru":   		"Всего получено монет",
+	"win_total_en":   		"Total Coin Earning",
+	"win_total_tr":   		"Alınan toplam madeni para",
+	
+	"win_btn_ru":   		"Далее",
+	"win_btn_en":   		"Next",
+	"win_btn_tr":   		"Sonra",
+
+
+	"ads_ru":   		"реклама",
+	"ads_en":   		"reward",
+	"ads_tr":   		"reklam",
+		
+	
+	"lose_ru":   		"ПОРАЖЕНИЕ",
+	"lose_en":   		"DEFEAT",
+	"lose_tr":   		"YENİLGİ",
+	
+	"lose_text_ru":     "Прокачайся и попробуй еще раз\nвсего монет",
+	"lose_text_en":     "Upgrade and try again\ntotal coins",
+	"lose_text_tr":     "Pompala ve tekrar dene \n toplam para",
+	
+	"lose_reward_ru":	"Доп. монеты ",
+	"lose_reward_en":	"Add coins ",
+	"lose_reward_tr":	"Ekstra paralar ",
+	
+	"lose_btn_ru":		"Повторить",
+	"lose_btn_en":		"Play again",
+	"lose_btn_tr":		"Tekrarlamak",
+	
+	
+	"upg_titl_ru":   		"УЛУЧШЕНИЕ",
+	"upg_titl_en":   		"UPGRADE",
+	"upg_titl_tr":   		"İYİLEŞME"
+	
+}

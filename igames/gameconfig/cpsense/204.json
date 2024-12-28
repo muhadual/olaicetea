@@ -1,0 +1,30 @@
+{
+  "info": {
+    "id": "204",
+    "title": "Happy Glass",
+    "env": "release",
+    "mode": 6,
+    "adSdk": "wsdk",
+    "adChannel": "cpsense",
+    "version": "3.8",
+    "loadBar": true,
+    "isDot": true,
+    "isGo": false,
+    "isEnter": true,
+    "isMath": false,
+    "isLog": false,
+    "adProb": 1,
+    "isAutoLoadBar": false,
+    "isDuration": true,
+    "firstAdClick": false,
+    "firstAd": false,
+    "timestamp": 1729738334886,
+    "plan": 2,
+    "ves": "test",
+    "libVersion": "4.0"
+  },
+  "initial": [
+    "game.js",
+    "src/main.init.js"
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "skeleton": {
+    "hash": "OuwC/lMxYN0",
+    "spine": "3.8-from-4.0-from-4.1-from-4.2.36",
+    "x": -710.5,
+    "y": -710,
+    "width": 1421,
+    "height": 1420,
+    "images": "./Files/",
+    "audio": "./audio"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "wheel", "parent": "root", "icon": "ik" },
+    {
+      "name": "wheel_bg",
+      "parent": "wheel",
+      "color": "ff3434ff",
+      "icon": "ik"
+    },
+    {
+      "name": "wheel_turn",
+      "parent": "wheel",
+      "color": "52ff64ff",
+      "icon": "rotate"
+    },
+    {
+      "name": "indicator",
+      "parent": "wheel",
+      "color": "ff60f3ff",
+      "icon": "arrowUp"
+    }
+  ],
+  "slots": [
+    {
+      "name": "fortune-wheel-halo",
+      "bone": "wheel",
+      "attachment": "fortune-wheel-halo"
+    },
+    {
+      "name": "fortune-wheel-base",
+      "bone": "wheel_bg",
+      "attachment": "fortune-wheel-base"
+    },
+    {
+      "name": "fortune-wheel-prizes",
+      "bone": "wheel_turn",
+      "attachment": "fortune-wheel-prizes"
+    },
+    {
+      "name": "fortune-wheel-center",
+      "bone": "indicator",
+      "attachment": "fortune-wheel-center"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "fortune-wheel-base": {
+          "fortune-wheel-base": { "width": 640, "height": 640 }
+        },
+        "fortune-wheel-center": {
+          "fortune-wheel-center": {
+            "x": -0.33,
+            "y": 21.77,
+            "width": 146,
+            "height": 182
+          }
+        },
+        "fortune-wheel-halo": {
+          "fortune-wheel-halo": { "width": 1421, "height": 1420 }
+        },
+        "fortune-wheel-prizes": {
+          "fortune-wheel-prizes": { "width": 494, "height": 495 }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": { "bones": { "wheel_turn": { "rotate": [{}] } } },
+    "spinning_1": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -60.95 },
+            { "time": 0.3333, "angle": -136.24 },
+            { "time": 0.5, "angle": -211.92 },
+            { "time": 0.6667, "angle": -289.19 },
+            { "time": 0.8333, "angle": -366.79 },
+            { "time": 1, "angle": -445.58 },
+            { "time": 1.1667, "angle": -524.39 },
+            { "time": 1.3333, "angle": -603.89 },
+            { "time": 1.5, "angle": -683.22 },
+            { "time": 1.6667, "angle": -763.16 },
+            { "time": 1.8333, "angle": -841.47 },
+            { "time": 2, "angle": -921.07 },
+            { "time": 2.1667, "angle": -999.19 },
+            { "time": 2.3333, "angle": -1076.54 },
+            { "time": 2.6667, "angle": -1212.82 },
+            { "time": 3, "angle": -1189.82 },
+            { "time": 3.2, "angle": -1191.1 },
+            { "time": 3.3333, "angle": -1192.79, "curve": "stepped" },
+            { "time": 4, "angle": -1192.79 }
+          ]
+        }
+      }
+    },
+    "spinning_2": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -4.95 },
+            { "time": 0.3333, "angle": -20.64 },
+            { "time": 0.5, "angle": -46.96 },
+            { "time": 0.6667, "angle": -85.8 },
+            { "time": 0.8333, "angle": -136.83 },
+            { "time": 1, "angle": -201.96 },
+            { "time": 1.1667, "angle": -281.53 },
+            { "time": 1.3333, "angle": -376.65 },
+            { "time": 1.5, "angle": -485.91 },
+            { "time": 1.6667, "angle": -610.68 },
+            { "time": 1.8333, "angle": -744.65 },
+            { "time": 2, "angle": -888.02 },
+            { "time": 2.1667, "angle": -1024.9 },
+            { "time": 2.3333, "angle": -1147.61 },
+            { "time": 2.5, "angle": -1231.34 },
+            { "time": 2.6667, "angle": -1259.36 },
+            { "time": 3, "angle": -1227.87 },
+            { "time": 3.2, "angle": -1242.37 },
+            { "time": 3.3333, "angle": -1236.79, "curve": "stepped" },
+            { "time": 4, "angle": -1236.79 }
+          ]
+        }
+      }
+    },
+    "spinning_3": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -5.27 },
+            { "time": 0.3333, "angle": -21.3 },
+            { "time": 0.5, "angle": -48.74 },
+            { "time": 0.6667, "angle": -88.5 },
+            { "time": 0.8333, "angle": -141.49 },
+            { "time": 1, "angle": -208.83 },
+            { "time": 1.1667, "angle": -291.24 },
+            { "time": 1.3333, "angle": -389.78 },
+            { "time": 1.5, "angle": -502.86 },
+            { "time": 1.6667, "angle": -632 },
+            { "time": 1.8333, "angle": -770.68 },
+            { "time": 2, "angle": -919.11 },
+            { "time": 2.1667, "angle": -1060.86 },
+            { "time": 2.3333, "angle": -1188 },
+            { "time": 2.5, "angle": -1274.85 },
+            { "time": 2.6667, "angle": -1304.13 },
+            { "time": 3, "angle": -1272.14 },
+            { "time": 3.2, "angle": -1285.76 },
+            { "time": 3.3333, "angle": -1282.79, "curve": "stepped" },
+            { "time": 4, "angle": -1282.79 }
+          ]
+        }
+      }
+    },
+    "spinning_4": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -8.47 },
+            { "time": 0.3333, "angle": -29.41 },
+            { "time": 0.5, "angle": -59.85 },
+            { "time": 0.6667, "angle": -103.14 },
+            { "time": 0.8333, "angle": -158.48 },
+            { "time": 1, "angle": -227.86 },
+            { "time": 1.1667, "angle": -312.21 },
+            { "time": 1.3333, "angle": -412.1 },
+            { "time": 1.5, "angle": -527.39 },
+            { "time": 1.6667, "angle": -657.81 },
+            { "time": 1.8333, "angle": -800.76 },
+            { "time": 2, "angle": -950.85 },
+            { "time": 2.1667, "angle": -1098.45 },
+            { "time": 2.3333, "angle": -1228 },
+            { "time": 2.5, "angle": -1317.92 },
+            { "time": 2.6667, "angle": -1348.38 },
+            { "time": 3, "angle": -1317.41 },
+            { "time": 3.2, "angle": -1329.28 },
+            { "time": 3.3333, "angle": -1326.42, "curve": "stepped" },
+            { "time": 4, "angle": -1326.42 }
+          ]
+        }
+      }
+    },
+    "spinning_5": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -5.36 },
+            { "time": 0.3333, "angle": -21.9 },
+            { "time": 0.5, "angle": -50.83 },
+            { "time": 0.6667, "angle": -93.05 },
+            { "time": 0.8333, "angle": -149.65 },
+            { "time": 1, "angle": -222.23 },
+            { "time": 1.1667, "angle": -310.5 },
+            { "time": 1.3333, "angle": -414.59 },
+            { "time": 1.5, "angle": -535.16 },
+            { "time": 1.6667, "angle": -672.55 },
+            { "time": 1.8333, "angle": -822.75 },
+            { "time": 2, "angle": -979.52 },
+            { "time": 2.1667, "angle": -1133.46 },
+            { "time": 2.3333, "angle": -1268.14 },
+            { "time": 2.5, "angle": -1361.19 },
+            { "time": 2.6667, "angle": -1392.94 },
+            { "time": 3, "angle": -1362.3 },
+            { "time": 3.2, "angle": -1376.56 },
+            { "time": 3.3333, "angle": -1372.8, "curve": "stepped" },
+            { "time": 4, "angle": -1372.8 }
+          ]
+        }
+      }
+    },
+    "spinning_6": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -58.9 },
+            { "time": 0.3333, "angle": -124.65 },
+            { "time": 0.5, "angle": -191.44 },
+            { "time": 0.6667, "angle": -260.05 },
+            { "time": 0.8333, "angle": -327.94 },
+            { "time": 1, "angle": -397.65 },
+            { "time": 1.1667, "angle": -465.54 },
+            { "time": 1.3333, "angle": -535.55 },
+            { "time": 1.5, "angle": -604.14 },
+            { "time": 1.6667, "angle": -673.81 },
+            { "time": 1.8333, "angle": -741.53 },
+            { "time": 2, "angle": -811.24 },
+            { "time": 2.1667, "angle": -878.97 },
+            { "time": 2.3333, "angle": -947.38 },
+            { "time": 2.5, "angle": -1012.87 },
+            { "time": 2.6667, "angle": -1074.28 },
+            { "time": 3, "angle": -1049.29 },
+            { "time": 3.2, "angle": -1061.34 },
+            { "time": 3.3333, "angle": -1057.41, "curve": "stepped" },
+            { "time": 4, "angle": -1057.41 }
+          ]
+        }
+      }
+    },
+    "spinning_7": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -5.69 },
+            { "time": 0.3333, "angle": -23.27 },
+            { "time": 0.5, "angle": -54.01 },
+            { "time": 0.6667, "angle": -98.87 },
+            { "time": 0.8333, "angle": -159 },
+            { "time": 1, "angle": -236.12 },
+            { "time": 1.1667, "angle": -329.91 },
+            { "time": 1.3333, "angle": -440.52 },
+            { "time": 1.5, "angle": -568.64 },
+            { "time": 1.6667, "angle": -714.63 },
+            { "time": 1.8333, "angle": -874.27 },
+            { "time": 2, "angle": -1040.9 },
+            { "time": 2.1667, "angle": -1204.56 },
+            { "time": 2.3333, "angle": -1347.82 },
+            { "time": 2.5, "angle": -1447.88 },
+            { "time": 2.6667, "angle": -1480.98 },
+            { "time": 3, "angle": -1451.91 },
+            { "time": 3.2, "angle": -1466.28 },
+            { "time": 3.3333, "angle": -1462.25, "curve": "stepped" },
+            { "time": 4, "angle": -1462.25 }
+          ]
+        }
+      }
+    },
+    "spinning_8": {
+      "bones": {
+        "wheel_turn": {
+          "rotate": [
+            {},
+            { "time": 0.1667, "angle": -5.87 },
+            { "time": 0.3333, "angle": -23.99 },
+            { "time": 0.5, "angle": -55.68 },
+            { "time": 0.6667, "angle": -101.93 },
+            { "time": 0.8333, "angle": -163.93 },
+            { "time": 1, "angle": -243.44 },
+            { "time": 1.1667, "angle": -340.13 },
+            { "time": 1.3333, "angle": -454.18 },
+            { "time": 1.5, "angle": -586.28 },
+            { "time": 1.6667, "angle": -736.81 },
+            { "time": 1.8333, "angle": -901.42 },
+            { "time": 2, "angle": -1073.26 },
+            { "time": 2.1667, "angle": -1241.99 },
+            { "time": 2.3333, "angle": -1389.8 },
+            { "time": 2.5, "angle": -1493.13 },
+            { "time": 2.6667, "angle": -1527.49 },
+            { "time": 3, "angle": -1495.44 },
+            { "time": 3.2, "angle": -1513.74 },
+            { "time": 3.3333, "angle": -1507.74, "curve": "stepped" },
+            { "time": 4, "angle": -1507.74 }
+          ]
+        }
+      }
+    }
+  }
+}
